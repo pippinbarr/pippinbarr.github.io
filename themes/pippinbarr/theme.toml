@@ -5,7 +5,7 @@ name = "pippinbarr"
 license = "MIT"
 licenselink = ""
 description = "The theme for my website"
-homepage = "http://pippinbarr.github.io"
+homepage = ""
 tags = []
 features = []
 min_version = "0.41.0"
@@ -13,9 +13,3 @@ min_version = "0.41.0"
 [author]
   name = "Pippin Barr"
   homepage = "https://www.pippinbarr.com"
-
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
