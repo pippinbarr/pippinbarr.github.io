@@ -1,0 +1,4 @@
+baseURL = 'http://pippinbarr.github.io/'
+languageCode = 'en-us'
+title = 'Pippin Barr'
+theme = "ananke"
