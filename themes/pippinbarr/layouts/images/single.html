@@ -1,0 +1,28 @@
+{{ define "main"}}
+
+<img class="images-image" src="{{ .Params.filename }}">
+
+{{ .Params.description | markdownify }}
+
+{{ if .NextInSection }}
+<a href="{{ .NextInSection.Permalink }}">NEXT</a>
+{{ end }}
+{{ if .PrevInSection }}
+<a href="{{ .PrevInSection.Permalink }}">PREVIOUS</a>
+{{ end }}
+
+<!-- {{ range first 1 (shuffle (where (where .Site.RegularPages "Section" "images") "Title" "!=" .Title)) }} -->
+<a id="random-link" href="">RANDOM</a>
+<!-- {{ end }} -->
+
+<script>
+$.getJSON('{{.CurrentSection.Permalink}}', function(data) {
+  let randomPost = data.posts[Math.floor(Math.random() * data.posts.length)];
+  while (data.posts.length > 1 && randomPost.title === "{{.Title}}") {
+    randomPost = data.posts[Math.floor(Math.random() * data.posts.length)];
+  }
+  $(`#random-link`).attr(`href`, randomPost.permalink);
+});
+</script>
+
+{{ end }}

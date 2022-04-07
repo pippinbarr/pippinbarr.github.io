@@ -1,0 +1,6 @@
+{
+  "posts": [
+    {{ range $index, $e := .CurrentSection.Pages }}
+    {{ if $index }}, {{ end }}{{ .Render "item" }}
+    {{ end }}]
+}

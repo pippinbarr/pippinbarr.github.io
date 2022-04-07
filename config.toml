@@ -2,3 +2,6 @@ baseURL = 'https://pippinbarr.github.io/'
 languageCode = 'en-us'
 title = 'Pippin Barr'
 theme = "pippinbarr"
+
+[outputs]
+  section = ["json"]
