@@ -1,3 +1,7 @@
 html {
   font-family: Atkinson, sans-serif;
 }
+
+.images-image {
+  max-width: 200px;
+}
