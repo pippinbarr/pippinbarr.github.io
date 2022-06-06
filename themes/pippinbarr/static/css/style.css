@@ -1,7 +1,68 @@
-html {
-  font-family: Atkinson, sans-serif;
+/* The big stuff */
+
+:root {
+  --background: rgb(255, 190, 190);
+  --foreground: rgb(0, 0, 0);
 }
 
-.images-image {
-  max-width: 200px;
+html {
+  font-family: Atkinson, sans-serif;
+  color: var(--foreground);
+}
+
+body {
+  background-color: var(--background);
+  font-size: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0em 1em 1em 1em;
+}
+
+/* Nav */
+
+.nav-spacer {
+  height: 3em;
+}
+
+.main-nav {
+  position: fixed;
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--foreground);
+  margin-top: 0em;
+  padding-top: 0.5em;
+  border-top: 1px solid black;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid black;
+  background-color: var(--background);
+  width: 100%;
+}
+
+.main-nav a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.main-nav a.current {
+  color: var(--foreground);
+  background-color: var(--background);
+  /* border-bottom: 2px dashed black; */
+}
+
+/* Links */
+
+a {
+  font-weight: normal;
+  text-decoration: none;
+  /* text-decoration: underline 2px dotted rgba(0,0,0,1); */
+  /* color: var(--foreground); */
+  color: rgb(255,100,100);
+}
+
+/* Images */
+
+img {
+  max-width: 100%;
+  max-height: auto;
 }

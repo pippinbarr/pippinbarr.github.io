@@ -1,0 +1,13 @@
+  <div class="main-nav">
+  {{ $current := .RelPermalink }}
+  {{ range $index, $element := .Site.Menus.main }}
+    {{ $class := "" }}
+    {{ if eq $current .URL }}
+    {{ $class = "current" }}
+    {{ end }}
+    <a href="{{ .URL }}" class="{{ $class }}">{{ $item := print .Name | safeHTML }}{{ $item }}</a>,
+  {{ end }}
+  </div>
+
+  <div class="nav-spacer">
+  </div>
