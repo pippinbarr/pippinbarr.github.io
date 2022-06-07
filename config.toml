@@ -33,3 +33,6 @@ theme = "pippinbarr"
 
 [outputs]
   section = ["html","json"]
+
+[markup.goldmark.renderer]
+  unsafe= true

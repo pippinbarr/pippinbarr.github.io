@@ -1,6 +1,6 @@
 ---
 title: "How to Play a Video Game"
-date: 2022-04-28
+date: 2011-12
 description: "My 2010 book exploring the world of videogames as a player and asking what it is that makes them so damn interesting."
 draft: false,
 listimage: images/how-to-play-a-video-game-cover.jpg

@@ -1,6 +1,6 @@
 ---
 title: "Les grands classiques de l’horreur en mots cachés"
-date: 2022-04-28
+date: 2021-10-20
 description: "A word-find book (in French) that tells the stories of Dracula, Frankenstein, and more! Created with Jonathan Lessard."
 draft: false
 listimage: images/les-grands-classiques-de-l-epouvante-en-mots-caches-cover.jpg

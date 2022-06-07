@@ -4,6 +4,7 @@
 
 <div class="list">
 {{ range .Pages.ByPublishDate.Reverse }}
+  {{ if not (in .Params.tags "inprogress") }}
   <!-- Get the link -->
   {{ $link := "" }}
   {{ if isset .Params "link" }}
@@ -20,6 +21,7 @@
       <p>{{ .Params.Description | markdownify }}</p>
     </div>
   </div>
+  {{ end }}
 {{ end }}
 </div>
 </div>

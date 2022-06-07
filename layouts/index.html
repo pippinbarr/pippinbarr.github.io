@@ -1,5 +1,41 @@
 {{ define "main" }}
 
-This is the main page... right?
+{{ $latest_project := first 1 .Site.Taxonomies.tags.project }}
+
+
+<strong>Latest</strong>
+
+<div class="list">
+  <div class="item">
+    {{ range $latest_project }}
+    <div class="list-image">
+      <a href="{{ .RelPermalink }}"><img src="{{ .RelPermalink }}{{ .Params.ListImage }}"></a>
+    </div>
+    <div class="list-text">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <p>{{ .Params.Description | markdownify }}</p>
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+<br/>
+
+<strong>In progress</strong>
+
+<div class="list">
+  {{ range .Site.Taxonomies.tags.inprogress }}
+  <div class="item">
+    <div class="list-image">
+      <a href="{{ .Params.link }}"><img src="{{ .RelPermalink }}{{ .Params.listimage }}"></a>
+    </div>
+    <div class="list-text">
+      <a href="{{ .Params.link }}">{{ .Title }}</a>
+      <p>{{ .Params.description | markdownify }}</p>
+    </div>
+  </div>
+  {{ end }}
+</div>
+
 
 {{ end }}
