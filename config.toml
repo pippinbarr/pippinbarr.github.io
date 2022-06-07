@@ -11,25 +11,25 @@ theme = "pippinbarr"
     weight = 1
   [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "/about/me/"
     identifier = "about"
     weight = 2
   [[menu.main]]
-      name = "Games"
-      url = "/games/"
-      weight = 3
+    name = "Games"
+    url = "/games/"
+    weight = 3
   [[menu.main]]
-      name = "Books"
-      url = "/books/"
-      weight = 4
+    name = "Books"
+    url = "/books/"
+    weight = 4
   [[menu.main]]
     name = "Audio"
     url = "/audio/"
     weight = 5
   [[menu.main]]
-      name = "Video"
-      url = "/video/"
-      weight = 6
+    name = "Video"
+    url = "/video/"
+    weight = 6
 
 [outputs]
   section = ["html","json"]

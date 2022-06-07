@@ -1,7 +1,8 @@
 ---
 title: "GAMETHING"
 date: 2022-04-28
-description: ""
+description: A podcast project with David Wolinsky of [*Don't Die*](https://nodontdie.com/) fame. We try to come up with very brief, hopefully novel takes on videogames from any time.
+listimage: images/gamething-logo.png
 draft: false
 tags: ["project", "podcast"]
 ---

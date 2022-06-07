@@ -3,6 +3,11 @@
 :root {
   --background: rgb(255, 190, 190);
   --foreground: rgb(0, 0, 0);
+  --link: rgb(255,100,100);
+}
+
+p {
+  line-height: 1.5em;
 }
 
 html {
@@ -13,26 +18,31 @@ html {
 body {
   background-color: var(--background);
   font-size: 1.5rem;
-  max-width: 800px;
+  max-width: 60rem;
   margin: 0 auto;
-  padding: 0em 1em 1em 1em;
+  padding: 0rem 1rem 1rem 1rem;
 }
 
 /* Nav */
 
 .nav-spacer {
-  height: 3em;
+  /* height: 3em; */
+}
+
+.nav-wrapper {
+  top: 0;
+  position: sticky;
+  padding-top: 0.5em;
+  /* padding-bottom: 0.5em; */
+  background-color: var(--background);
 }
 
 .main-nav {
-  position: fixed;
   font-size: 2rem;
   font-weight: bold;
   color: var(--foreground);
-  margin-top: 0em;
   padding-top: 0.5em;
   border-top: 1px solid black;
-  margin-bottom: 0.5em;
   padding-bottom: 0.5em;
   border-bottom: 1px solid black;
   background-color: var(--background);
@@ -42,12 +52,17 @@ body {
 .main-nav a {
   font-weight: bold;
   text-decoration: none;
+  color: black;
 }
 
 .main-nav a.current {
-  color: var(--foreground);
+  color: var(--link);
   background-color: var(--background);
   /* border-bottom: 2px dashed black; */
+}
+
+.post-nav-spacer {
+  height: 1em;
 }
 
 /* Links */
@@ -57,12 +72,35 @@ a {
   text-decoration: none;
   /* text-decoration: underline 2px dotted rgba(0,0,0,1); */
   /* color: var(--foreground); */
-  color: rgb(255,100,100);
+  color: var(--link);
+}
+
+/* List pages */
+
+.list {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-gap: 2rem;
+}
+
+.item {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 2rem;
+  width: 100%;
+}
+
+div.list-image {
+  flex: 1 1 30%;
+}
+
+div.list-text {
+  flex: 1 1 65%;
 }
 
 /* Images */
 
 img {
-  max-width: 100%;
-  max-height: auto;
+  width: 100%;
+  height: auto;
 }

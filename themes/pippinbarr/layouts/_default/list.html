@@ -2,11 +2,25 @@
 
 <div class="regular">
 
+<div class="list">
 {{ range .Pages.ByPublishDate.Reverse }}
-<p>
-    <h3><a class="title" href="{{ if isset .Params "link" }}{{ .Params.Link }}{{ else }}{{ .RelPermalink }}{{ end }}">{{ .Title }}</a></h3>
-    <p>{{ .Summary }}</p>
-</p>
+  <!-- Get the link -->
+  {{ $link := "" }}
+  {{ if isset .Params "link" }}
+    {{ $link = .Params.Link }}
+  {{ else }}
+    {{ $link = .RelPermalink }}
+  {{ end }}
+  <div class="item">
+    <div class="list-image">
+      <a href="{{ $link }}"><img src="{{ .RelPermalink }}{{ .Params.ListImage }}"></a>
+    </div>
+    <div class="list-text">
+      <a href="{{ $link }}">{{ .Title }}</a>
+      <p>{{ .Params.Description | markdownify }}</p>
+    </div>
+  </div>
 {{ end }}
+</div>
 </div>
 {{ end }}
