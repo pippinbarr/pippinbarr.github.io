@@ -1,15 +1,17 @@
 ---
 title: "GAMETHING"
 date: 2019-03-07
-description: A podcast project with David Wolinsky of [*Don't Die*](https://nodontdie.com/) fame. We try to come up with very brief, hopefully novel takes on videogames from any time.
+description: A podcast by David Wolinsky ([@davidwolinsky](https://twitter.com/davidwolinsky), [Don't Die](https://nodontdie.com/)), Pippin Barr, and Mark Chains. Released one episode per week when each season is ready. ([Subscribe to our newsletter](https://tinyletter.com/GAMETHING) to hear when new seasons are ready.)
 listimage: images/gamething-logo.png
 draft: false
 tags: ["project", "podcast"]
 ---
 
+## {{<param title >}}
+
 A podcast by David Wolinsky ([@davidwolinsky](https://twitter.com/davidwolinsky), [Don't Die](https://nodontdie.com/)), Pippin Barr, and Mark Chains. Released one episode per week when each season is ready. ([Subscribe to our newsletter](https://tinyletter.com/GAMETHING) to hear when new seasons are ready.)
 
-GAMETHING is a series of meditations, reactions, and responses to moments in videogames. They are things that aren't reviews but deep dives on digitally provoked knee-jerks that breathe and melt away.
+The episodes are short. You might as well listen to one.
 
 ### Season 1 (2018)
 

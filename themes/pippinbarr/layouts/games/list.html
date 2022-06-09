@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+<div class="regular">
+
+<div class="list">
+{{ range .Pages.ByPublishDate.Reverse }}
+  {{ if not (in .Params.tags "inprogress") }}
+  <!-- Get the link -->
+  {{ $link := "" }}
+  {{ if isset .Params "link" }}
+    {{ $link = .Params.Link }}
+  {{ else }}
+    {{ $link = .RelPermalink }}
+  {{ end }}
+  <div class="item">
+    <div class="list-image">
+      <a href="{{ $link }}"><img src="{{ .RelPermalink }}{{ .Params.ListImage }}"></a>
+    </div>
+    <div class="list-text">
+      <a href="{{ $link }}">{{ .Title }}</a>
+      <p>{{ .Params.Description | markdownify }}</p>
+      <div class="game-tags">
+        {{ range (.GetTerms "tags") }}
+        {{ if ne .LinkTitle "project" }}
+        <a class="game-tag" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  {{ end }}
+{{ end }}
+</div>
+</div>
+{{ end }}

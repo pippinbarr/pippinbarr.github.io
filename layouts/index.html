@@ -8,11 +8,15 @@
 <div class="list">
   <div class="item">
     {{ range $latest_project }}
+    {{ $link := .RelPermalink }}
+    {{ if isset .Params "link" }}
+      {{ $link = .Params.link }}
+    {{ end }}
     <div class="list-image">
-      <a href="{{ .RelPermalink }}"><img src="{{ .RelPermalink }}{{ .Params.ListImage }}"></a>
+      <a href="{{ $link }}"><img src="{{ .RelPermalink }}{{ .Params.ListImage }}"></a>
     </div>
     <div class="list-text">
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <a href="{{ $link }}">{{ .Title }}</a>
       <p>{{ .Params.Description | markdownify }}</p>
     </div>
     {{ end }}
@@ -25,15 +29,19 @@
 
 <div class="list">
   {{ range .Site.Taxonomies.tags.inprogress }}
-  <div class="item">
-    <div class="list-image">
-      <a href="{{ .Params.link }}"><img src="{{ .RelPermalink }}{{ .Params.listimage }}"></a>
+    {{ $link := .RelPermalink }}
+    {{ if isset .Params "link" }}
+      {{ $link = .Params.link }}
+    {{ end }}
+    <div class="item">
+      <div class="list-image">
+        <a href="{{ $link }}"><img src="{{ .RelPermalink }}{{ .Params.listimage }}"></a>
+      </div>
+      <div class="list-text">
+        <a href="{{ $link }}">{{ .Title }}</a>
+        <p>{{ .Params.description | markdownify }}</p>
+      </div>
     </div>
-    <div class="list-text">
-      <a href="{{ .Params.link }}">{{ .Title }}</a>
-      <p>{{ .Params.description | markdownify }}</p>
-    </div>
-  </div>
   {{ end }}
 </div>
 

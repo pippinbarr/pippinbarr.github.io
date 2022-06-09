@@ -1,13 +1,15 @@
 ---
 title: "Shooting"
 date: 2016-11-22
-description: "A series of videos in which I shoot something or someone many times."
+description: "Shooting is a video series in which I playing videogames that include gun violence and shoot the same dead person (or creature) over and over again until I run out of ammunition. For the moment it only includes the initial video drawn from *Half-Life*, but I still have dreams of expanding it over time."
 draft: false
 listimage: images/shooting-half-life.png
-tags: ["video", "project", "violence"]
+tags: ["video", "project"]
 ---
 
-Shooting is a planned video series in which I playing videogames that include gun violence and shoot the same dead person (or creature) over and over again until I run out of ammunition.
+## {{<param title >}}
+
+{{< param description >}}
 
 ### Shooting, season 1
 

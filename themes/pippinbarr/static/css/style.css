@@ -6,7 +6,7 @@
   --link: rgb(255,100,100);
 }
 
-p {
+p, li {
   line-height: 1.5em;
 }
 
@@ -103,4 +103,31 @@ div.list-text {
 img {
   width: 100%;
   height: auto;
+}
+
+/* 404 search */
+
+.site-search {
+  display: inline;
+}
+
+.site-search input {
+  font-family: Atkinson, sans-serif;
+  background-color: white;
+  border: none;
+  font-size: 1.25rem;
+}
+
+/* Tags */
+.game-tags {
+  padding-top: 0.5rem;
+  font-size: 1.12rem;
+}
+
+.game-tag {
+  background-color: var(--link);
+  padding: 0.35rem 0.45rem 0.35rem 0.45rem;
+  border-radius: 0.5rem;
+  /* color: white; */
+  color: var(--background);
 }
