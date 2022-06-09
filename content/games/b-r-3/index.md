@@ -5,7 +5,7 @@ description: There are 1.8446744e+19 possible 8x8 one bit images! But only some 
 listimage: images/b-r-3-icon.png
 link: "https://pippinbarr.github.io/b-r-3/info/"
 draft: false
-tags: ["project", "v r", "bitsy", "html5"]
+tags: ["project", "v r", "bitsy", "browser", "mobile-friendly"]
 ---
 
 ## {{<param title >}}

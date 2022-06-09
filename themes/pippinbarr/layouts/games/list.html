@@ -2,6 +2,33 @@
 
 <div class="regular">
 
+<p>
+Topics:
+{{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
+  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+	<a class="game-tag" href={{ .RelPermalink }} title="{{$name}}</i>">{{$name}}</a>
+  {{end}}
+{{end}}
+</p>
+
+<p>
+Platforms:
+{{range $name, $taxonomy := .Site.Taxonomies.platforms}} {{ $cnt := .Count }}
+  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+	<a class="game-tag" href={{ .RelPermalink }} title="{{$name}}</i>">{{$name}}</a>
+  {{end}}
+{{end}}
+</p>
+
+<p>
+Engines:
+{{range $name, $taxonomy := .Site.Taxonomies.engines}} {{ $cnt := .Count }}
+  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+	<a class="game-tag" href={{ .RelPermalink }} title="{{$name}}</i>">{{$name}}</a>
+  {{end}}
+{{end}}
+</p>
+
 <div class="list">
 {{ range .Pages.ByPublishDate.Reverse }}
   {{ if not (in .Params.tags "inprogress") }}
@@ -21,6 +48,11 @@
       <p>{{ .Params.Description | markdownify }}</p>
       <div class="game-tags">
         {{ range (.GetTerms "tags") }}
+        {{ if ne .LinkTitle "project" }}
+        <a class="game-tag" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+        {{ end }}
+        {{ range (.GetTerms "platforms") }}
         {{ if ne .LinkTitle "project" }}
         <a class="game-tag" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
         {{ end }}

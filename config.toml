@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Pippin Barr'
 theme = "pippinbarr"
 
+[taxonomies]
+  tag = 'tags'
+  platform = 'platforms'
+  engine = 'engines'
+
 [menu]
   [[menu.main]]
     name = "Pippin Barr"

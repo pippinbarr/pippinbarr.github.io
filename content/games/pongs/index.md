@@ -5,7 +5,8 @@ description: "Bip! Bip! Bip! Boop! Everyone loves PONG! So everyone loves thirty
 listimage: images/pongs-icon.png
 link: "https://pippinbarr.github.io/pongs/info/"
 draft: false
-tags: ["project", "variations", "re-release", "html5"]
+tags: ["project", "variations"]
+platforms: ["browser"]
 ---
 
 ## {{<param title >}}

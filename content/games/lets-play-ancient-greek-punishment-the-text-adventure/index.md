@@ -5,7 +5,10 @@ description: "&gt; get punishment"
 listimage: images/lets-play-ancient-greek-punishment-the-text-adventure-icon.png
 link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment-the-text-adventure/info/"
 draft: false
-tags: ["project", "ancient greek punishment", "text", "variations", "inform 7", "browser"]
+tags: ["project", "ancient greek punishment", "text", "variations"]
+platforms: ["browser", "mobile-friendly"]
+engines: ["inform 7"]
+
 ---
 
 ## {{<param title >}}
