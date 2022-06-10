@@ -6,7 +6,7 @@ listimage: images/b-r-3-icon.png
 link: "https://pippinbarr.github.io/b-r-3/info/"
 draft: false
 tags: ["project"]
-ideas: ["v r"]
+ideas: ["v r", "demake"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["bitsy"]
 ---

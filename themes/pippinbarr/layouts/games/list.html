@@ -47,11 +47,12 @@ Tools:
       <a href="{{ $link }}">{{ .Title }}</a>
       <p>{{ .Params.Description | markdownify }}</p>
       <div class="game-tags">
-        {{ range (.GetTerms "tags") }}
+        {{ range (.GetTerms "ideas") }}
         {{ if ne .LinkTitle "project" }}
         <a class="game-tag" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
         {{ end }}
         {{ end }}
+        <span class="game-tag-separator">|</span>
         {{ range (.GetTerms "platforms") }}
         {{ if ne .LinkTitle "project" }}
         <a class="game-tag" href="{{ .Permalink }}">{{ .LinkTitle }}</a>

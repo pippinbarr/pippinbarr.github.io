@@ -132,3 +132,8 @@ img {
   /* color: white; */
   color: var(--background);
 }
+
+.game-tag-separator {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
