@@ -3,9 +3,9 @@
 <div class="regular">
 
 <p>
-Topics:
-{{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
-  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+Ideas:
+{{range $name, $taxonomy := .Site.Taxonomies.ideas}} {{ $cnt := .Count }}
+  {{ with $.Site.GetPage (printf "/ideas/%s" $name) }}
 	<a class="game-tag" href={{ .RelPermalink }} title="{{$name}}</i>">{{$name}}</a>
   {{end}}
 {{end}}
@@ -14,16 +14,16 @@ Topics:
 <p>
 Platforms:
 {{range $name, $taxonomy := .Site.Taxonomies.platforms}} {{ $cnt := .Count }}
-  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+  {{ with $.Site.GetPage (printf "/platforms/%s" $name) }}
 	<a class="game-tag" href={{ .RelPermalink }} title="{{$name}}</i>">{{$name}}</a>
   {{end}}
 {{end}}
 </p>
 
 <p>
-Engines:
-{{range $name, $taxonomy := .Site.Taxonomies.engines}} {{ $cnt := .Count }}
-  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+Tools:
+{{range $name, $taxonomy := .Site.Taxonomies.tools}} {{ $cnt := .Count }}
+  {{ with $.Site.GetPage (printf "/tools/%s" $name) }}
 	<a class="game-tag" href={{ .RelPermalink }} title="{{$name}}</i>">{{$name}}</a>
   {{end}}
 {{end}}

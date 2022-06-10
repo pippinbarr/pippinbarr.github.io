@@ -5,7 +5,10 @@ description: Your pieces slide! Your pieces fall! Your pieces do the strangest t
 listimage: images/chesses-icon.png
 link: "https://pippinbarr.github.io/chesses/info/"
 draft: false
-tags: ["project", "variations", "chess", "browser", "mobile-friendly"]
+tags: ["project"]
+ideas: ["variations", "chess"]
+platforms: ["browser", "mobile-friendly"]
+tools: ["chess.js"]
 ---
 
 ## {{<param title >}}

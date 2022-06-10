@@ -5,7 +5,10 @@ description: Sure, great works of cinema are great! But aren't they missing some
 listimage: images/combat-at-the-movies-icon.png
 link: "https://pippinbarr.github.io/combat-at-the-movies/info/"
 draft: false
-tags: ["project", "variations", "adaptation", "browser"]
+tags: ["project"]
+ideas: ["variations", "adaptation"]
+platforms: ["browser"]
+tools: ["phaser3"]
 ---
 
 ## {{<param title >}}

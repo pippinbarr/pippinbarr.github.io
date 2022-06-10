@@ -5,7 +5,10 @@ description: How much chess would a chess guy chess if a chess guy would chess c
 listimage: images/chesses-3-icon.png
 link: "https://pippinbarr.github.io/chesses3/info/"
 draft: false
-tags: ["project", "variations", "chess", "browser", "mobile-friendly"]
+tags: ["project"]
+ideas: ["variations", "chess"]
+platforms: ["browser", "mobile-friendly"]
+tools: ["chess.js"]
 ---
 
 ## {{<param title >}}

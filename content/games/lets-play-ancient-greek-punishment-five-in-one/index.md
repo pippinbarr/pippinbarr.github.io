@@ -5,7 +5,9 @@ description: It's pushing! It's running! It's reaching! It's suffering! It's fiv
 listimage: images/lets-play-ancient-greek-punishment-five-in-one-icon.png
 link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment-five-in-one/info/"
 draft: false
-tags: ["project", "ancient greek punishment", "variations", "browser", "mobile-friendly"]
+ideas: ["ancient greek punishment", "variations"]
+platforms: ["browser", "mobile-friendly"]
+tools: ["phaser3"]
 ---
 
 ## {{<param title >}}

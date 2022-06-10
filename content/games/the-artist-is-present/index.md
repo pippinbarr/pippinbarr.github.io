@@ -5,5 +5,8 @@ description: "I'm currently porting my Flash game *The Artist Is Present* from A
 listimage: images/the-artist-is-present-icon-300x300.png
 link: "https://pippinbarr.github.io/the-artist-is-present/info/"
 draft: false
-tags: ["inprogress", "project", "art-world", "browser" ]
+tags: ["inprogress", "project"]
+ideas: []
+platforms: []
+tools: []
 ---

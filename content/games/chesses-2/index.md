@@ -5,7 +5,10 @@ description: You've chessed! You've chessesed! But have you chesses2ed?! You hav
 listimage: images/chesses-2-icon.png
 link: "https://pippinbarr.github.io/chesses2/info/"
 draft: false
-tags: ["project", "variations", "chess", "browser", "mobile-friendly"]
+tags: ["project"]
+ideas: ["variations", "chess"]
+platforms: ["browser", "mobile-friendly"]
+tools: ["chess.js"]
 ---
 
 ## {{<param title >}}

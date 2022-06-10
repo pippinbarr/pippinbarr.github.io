@@ -5,7 +5,10 @@ description: A game to solve all your life’s problems with! Consult the guru o
 listimage: images/guruquest-icon.png
 link: "https://pippinbarr.github.io/guruquest/info/"
 draft: false
-tags: ["project", "text", "browser"]
+tags: ["project"]
+ideas: ["text"]
+platforms: ["browser"]
+tools: ["p5.js"]
 ---
 
 ## {{<param title >}}

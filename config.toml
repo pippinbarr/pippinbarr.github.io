@@ -5,8 +5,9 @@ theme = "pippinbarr"
 
 [taxonomies]
   tag = 'tags'
-  platform = 'platforms'
-  engine = 'engines'
+  idea = 'ideas'
+  platforms = 'platforms'
+  tools = 'tools'
 
 [menu]
   [[menu.main]]
