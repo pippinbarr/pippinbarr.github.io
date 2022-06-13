@@ -2,32 +2,40 @@
 
 <div class="regular">
 
-<p>
-Ideas:
+<div class="game-tag-display">
+<div class="game-tag-group">
+<div class="game-tag-group-title">Ideas</div>
+<div class="game-tag-group-tags">
 {{range $name, $taxonomy := .Site.Taxonomies.ideas}} {{ $cnt := .Count }}
   {{ with $.Site.GetPage (printf "/ideas/%s" $name) }}
 	<a class="game-tag" href={{ .RelPermalink }} title="{{$name}}</i>">{{$name}}</a>
   {{end}}
 {{end}}
-</p>
+</div>
+</div>
 
-<p>
-Platforms:
+<div class="game-tag-group">
+<div class="game-tag-group-title">Platforms</div>
+<div class="game-tag-group-tags">
 {{range $name, $taxonomy := .Site.Taxonomies.platforms}} {{ $cnt := .Count }}
   {{ with $.Site.GetPage (printf "/platforms/%s" $name) }}
 	<a class="game-tag" href={{ .RelPermalink }} title="{{$name}}</i>">{{$name}}</a>
   {{end}}
 {{end}}
-</p>
+</div>
+</div>
 
-<p>
-Tools:
+<div class="game-tag-group">
+<div class="game-tag-group-title">Tools</div>
+<div class="game-tag-group-tags">
 {{range $name, $taxonomy := .Site.Taxonomies.tools}} {{ $cnt := .Count }}
   {{ with $.Site.GetPage (printf "/tools/%s" $name) }}
 	<a class="game-tag" href={{ .RelPermalink }} title="{{$name}}</i>">{{$name}}</a>
   {{end}}
 {{end}}
-</p>
+</div>
+</div>
+</div>
 
 <div class="list">
 {{ range .Pages.ByPublishDate.Reverse }}
