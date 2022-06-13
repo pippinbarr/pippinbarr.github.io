@@ -53,6 +53,7 @@
     </div>
     <div class="list-text">
       <a href="{{ $link }}">{{ .Title }}</a>
+      {{if (isset .Params "collaborators")}}<br/>(with {{ .Params.collaborators }}){{end}}
       <p>{{ .Params.Description | markdownify }}</p>
       <div class="game-tags">
         {{ range (.GetTerms "ideas") }}

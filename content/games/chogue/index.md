@@ -5,6 +5,7 @@ description: Look! Up in the sky! It's a Chess! It's a Rogue! No! It's Chogue! F
 listimage: images/chogue-icon.png
 link: "https://pippinbarr.github.io/chogue/info/"
 draft: false
+collaborators: "Jonathan Lessard"
 tags: ["project"]
 ideas: ["variations", "adaptation", "chess"]
 platforms: ["mac", "windows", "ios", "android", "mobile-friendly"]

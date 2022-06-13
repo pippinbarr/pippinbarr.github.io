@@ -5,6 +5,7 @@ description: e4! e5! Nf3! Nc6! White knight captures black pawn! Black knight at
 listimage: images/rogess-icon.png
 link: "https://pippinbarr.github.io/rogess/info/"
 draft: false
+collaborators: "Jonathan Lessard"
 tags: ["project"]
 ideas: ["variations", "chess", "adaptation"]
 platforms: ["browser", "mobile-friendly"]
