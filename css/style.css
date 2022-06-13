@@ -137,3 +137,20 @@ img {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
 }
+
+.game-tag-display {
+  margin-bottom: 2rem;
+}
+
+.game-tag-group {
+  margin-bottom: 1rem;
+}
+
+.game-tag-group-title {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.game-tag-group-tags {
+  line-height: 1.25em;
+}
