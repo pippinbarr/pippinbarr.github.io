@@ -8,7 +8,7 @@ draft: false
 tags: ["project"]
 ideas: ["art world", "marina abramović"]
 platforms: ["browser", "mobile-friendly"]
-tools: ["phaser3"]
+tools: ["phaser"]
 ---
 
 ## {{<param title >}}

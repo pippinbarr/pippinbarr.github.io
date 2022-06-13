@@ -8,7 +8,7 @@ draft: false
 tags: ["project"]
 ideas: [variations"]
 platforms: ["browser"]
-tools: ["phaser3"]
+tools: ["phaser"]
 ---
 
 ## {{<param title >}}

@@ -7,7 +7,7 @@ link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment-five-in-o
 draft: false
 ideas: ["ancient greek punishment", "variations"]
 platforms: ["browser", "mobile-friendly"]
-tools: ["phaser3"]
+tools: ["phaser"]
 ---
 
 ## {{<param title >}}
