@@ -4,6 +4,7 @@ date: 2019-03-07
 description: A podcast by David Wolinsky ([@davidwolinsky](https://twitter.com/davidwolinsky), [Don't Die](https://nodontdie.com/)), Pippin Barr, and Mark Chains. Released one episode per week when each season is ready. ([Subscribe to our newsletter](https://tinyletter.com/GAMETHING) to hear when new seasons are ready.)
 listimage: images/gamething-logo.png
 draft: false
+collaborators: David Wolinsky
 tags: ["project", "podcast"]
 ---
 

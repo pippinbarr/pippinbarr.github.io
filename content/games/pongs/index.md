@@ -6,7 +6,7 @@ listimage: images/pongs-icon.png
 link: "https://pippinbarr.github.io/pongs/info/"
 draft: false
 tags: ["project"]
-ideas: [variations"]
+ideas: ["variations"]
 platforms: ["browser"]
 tools: ["phaser"]
 ---
