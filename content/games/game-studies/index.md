@@ -5,7 +5,7 @@ description: '"Step into my magic circle!" Said the designer to the player! "The
 listimage: images/game-studies-icon.png
 link: "https://pippinbarr.github.io/game-studies/info/"
 draft: false
-collaborators: "Jonathan Lessard"
+collaborators: "[Jonathan Lessard](https://www.jonathanlessard.net/)"
 tags: ["project"]
 ideas: ["adaptation"]
 platforms: ["browser"]

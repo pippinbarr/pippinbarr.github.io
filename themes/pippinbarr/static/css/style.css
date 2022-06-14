@@ -155,10 +155,15 @@ img {
   line-height: 1.25em;
 }
 
+/* Collaborator */
+.collaborators {
+  font-size: 1.25rem;
+}
+
 /* Warning */
 
 .warning {
-  /* font-size: 1.25rem; */
+  font-size: 1.25rem;
   background-color: red !important;
   color: white;
 }

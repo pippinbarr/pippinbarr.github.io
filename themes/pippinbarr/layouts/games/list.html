@@ -53,7 +53,7 @@
     </div>
     <div class="list-text">
       <a href="{{ $link }}">{{ .Title }}</a>
-      {{if (isset .Params "collaborators")}}<br/>(with {{ .Params.collaborators }}){{end}}
+      {{if (isset .Params "collaborators")}}<br/><span class="collaborators">(with {{ .Params.collaborators | markdownify }})</span>{{end}}
       {{if (isset .Params "warning")}}
         <p>
           <span class="warning">{{ .Params.Warning }}</span>
