@@ -154,3 +154,11 @@ img {
 .game-tag-group-tags {
   line-height: 1.25em;
 }
+
+/* Warning */
+
+.warning {
+  /* font-size: 1.25rem; */
+  background-color: red !important;
+  color: white;
+}
