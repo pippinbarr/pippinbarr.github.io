@@ -6,7 +6,7 @@ listimage: images/post-apocalyptic-abramovic-method-game-icon.png
 link: "https://pippinbarr.github.io/post-apocalyptic-abramovic-method-game/info/"
 draft: false
 tags: ["project"]
-ideas: ["art world"]
+ideas: ["art world", "marina abramović"]
 platforms: ["mac", "windows", "browser"]
 tools: ["unity"]
 ---
