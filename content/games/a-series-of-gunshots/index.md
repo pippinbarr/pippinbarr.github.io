@@ -6,7 +6,7 @@ listimage: images/a-series-of-gunshots-icon.png
 link: "https://pippinbarr.github.io/a-series-of-gunshots/info/"
 draft: false
 tags: ["project"]
-ideas: ["violence"]
+ideas: ["violence", "ethics", "minimalism"]
 platforms: ["browser"]
 tools: ["phaser"]
 ---

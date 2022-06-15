@@ -6,7 +6,7 @@ listimage: images/kicker-icon.png
 link: "https://pippinbarr.github.io/kicker/info/"
 draft: false
 tags: ["project"]
-ideas: ["text", "sport"]
+ideas: ["text", "sport", "typing"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["inform 7"]
 

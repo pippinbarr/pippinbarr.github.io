@@ -6,7 +6,7 @@ listimage: images/guruquest-icon.png
 link: "https://pippinbarr.github.io/guruquest/info/"
 draft: false
 tags: ["project"]
-ideas: ["text"]
+ideas: ["text", "typing", "philosophy"]
 platforms: ["browser"]
 tools: ["p5.js"]
 ---

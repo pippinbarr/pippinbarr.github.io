@@ -6,7 +6,7 @@ listimage: images/real-baku-2015-icon.png
 link: "https://pippinbarr.github.io/real-baku-2015/info/"
 draft: false
 tags: ["project"]
-ideas: ["sport"]
+ideas: ["sport", "ethics"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]
 ---

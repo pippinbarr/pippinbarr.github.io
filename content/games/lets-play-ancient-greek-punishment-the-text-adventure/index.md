@@ -6,7 +6,7 @@ listimage: images/lets-play-ancient-greek-punishment-the-text-adventure-icon.png
 link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment-the-text-adventure/info/"
 draft: false
 tags: ["project"]
-ideas: ["ancient greek punishment", "text", "variations"]
+ideas: ["ancient greek punishment", "text", "variations", "typing"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["inform 7"]
 

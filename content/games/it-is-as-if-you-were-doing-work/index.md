@@ -6,7 +6,7 @@ listimage: images/it-is-as-if-you-were-doing-work-icon.png
 link: "https://pippinbarr.github.io/itisasifyouweredoingwork/info/"
 draft: false
 tags: ["project"]
-ideas: ["work", "speculative play", "user interface"]
+ideas: ["work", "speculative play", "user interface", "typing"]
 platforms: ["browser"]
 tools: ["jquery ui"]
 ---

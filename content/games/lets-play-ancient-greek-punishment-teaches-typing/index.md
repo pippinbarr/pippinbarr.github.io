@@ -6,7 +6,7 @@ listimage: images/lets-play-ancient-greek-punishment-teaches-typing-icon.png
 link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment-teaches-typing/info/"
 draft: false
 tags: ["project"]
-ideas: ["ancient greek punishment", "variations", "text"]
+ideas: ["ancient greek punishment", "variations", "text", "typing"]
 platforms: ["browser"]
 tools: ["phaser"]
 ---

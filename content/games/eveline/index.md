@@ -6,7 +6,7 @@ listimage: images/eveline-icon.png
 link: "https://pippinbarr.github.io/eveline/info/"
 draft: false
 tags: ["project"]
-ideas: ["text", "creativity"]
+ideas: ["text", "typing", "creativity"]
 platforms: ["browser"]
 tools: ["phaser"]
 ---

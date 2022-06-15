@@ -6,7 +6,7 @@ listimage: images/snakisms-icon.png
 link: "https://pippinbarr.github.io/SNAKISMS/info/"
 draft: false
 tags: ["project"]
-ideas: ["variations", "philosophy"]
+ideas: ["variations", "adaptation", "philosophy"]
 platforms: ["browser"]
 tools: ["phaser"]
 ---

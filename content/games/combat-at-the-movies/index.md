@@ -6,7 +6,7 @@ listimage: images/combat-at-the-movies-icon.png
 link: "https://pippinbarr.github.io/combat-at-the-movies/info/"
 draft: false
 tags: ["project"]
-ideas: ["variations", "adaptation"]
+ideas: ["variations", "adaptation", "cinema"]
 platforms: ["browser"]
 tools: ["phaser"]
 ---
