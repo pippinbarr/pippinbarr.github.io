@@ -111,6 +111,7 @@ img {
 
 .site-search {
   display: inline;
+  white-space: nowrap;
 }
 
 .site-search input {
@@ -120,7 +121,45 @@ img {
   font-size: 1.25rem;
 }
 
+/* Tag menus */
+
+.game-tag-display {
+  margin-bottom: 2rem;
+}
+
+.game-tag-group {
+  margin-bottom: 1rem;
+  /* position: relative; */
+  /* display: block; */
+}
+
+.game-tag-group-title {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.game-tag-group-tags {
+  line-height: 1.25em;
+  /* display: none; */
+  /* width: auto; */
+  /* height: 0px; */
+  /* overflow-y: none; */
+  /* position: absolute; */
+  /* background-color: #f9f9f9; */
+  /* min-width: 160px; */
+  /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
+  /* padding: 12px 16px; */
+  /* z-index: 1; */
+  /* transition: height 2s; */
+}
+
+.game-tag-group:hover .game-tag-group-tags {
+  display: block;
+  height: auto;
+}
+
 /* Tags */
+
 .game-tags {
   padding-top: 0.5rem;
   font-size: 1.12rem;
@@ -138,23 +177,6 @@ img {
 .game-tag-separator {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
-}
-
-.game-tag-display {
-  margin-bottom: 2rem;
-}
-
-.game-tag-group {
-  margin-bottom: 1rem;
-}
-
-.game-tag-group-title {
-  font-weight: bold;
-  font-size: 1rem;
-}
-
-.game-tag-group-tags {
-  line-height: 1.25em;
 }
 
 /* parenthetical */
