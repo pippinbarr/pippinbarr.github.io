@@ -1,0 +1,55 @@
+{{ if not (in .Params.tags "inprogress") }}
+<!-- Get the link -->
+{{ $link := .RelPermalink }}
+{{ if isset .Params "link" }}
+  {{ $link = .Params.Link }}
+{{ end }}
+<!-- Display the item -->
+<div class="item">
+
+  <!-- First the image -->
+  <div class="list-image">
+    <a href="{{ $link }}"><img src="{{ .RelPermalink }}{{ .Params.ListImage }}"></a>
+  </div>
+
+  <!-- Now the associated text -->
+  <div class="list-text">
+
+    <!-- First the title -->
+    <a href="{{ $link }}">{{ .Title }}</a>
+
+    <!-- Include a parenthetical if one is set -->
+    {{if (isset .Params "parenthetical")}}
+    <br/>
+    <span class="parenthetical">({{ .Params.parenthetical | markdownify }})</span>
+    {{end}}
+
+    <!-- Include a warning if one is set (for games mostly) -->
+    {{if (isset .Params "warning")}}
+      <p>
+        <span class="warning">{{ .Params.Warning }}</span>
+      </p>
+    {{end}}
+
+    <!-- Finally the description -->
+    <p>{{ .Params.Description | markdownify }}</p>
+
+    <!-- If there are tags then lets add those -->
+    {{if (isset .Params "ideas")}}
+    <div class="game-tags">
+      {{ range (.GetTerms "ideas") }}
+      {{ if ne .LinkTitle "project" }}
+      <a class="game-tag" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+      {{ end }}
+      <span class="game-tag-separator">|</span>
+      {{ range (.GetTerms "platforms") }}
+      {{ if ne .LinkTitle "project" }}
+      <a class="game-tag" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+      {{ end }}
+    </div>
+    {{end}}
+  </div>
+</div>
+{{ end }}

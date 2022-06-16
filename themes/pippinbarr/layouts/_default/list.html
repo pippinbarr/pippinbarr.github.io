@@ -4,32 +4,7 @@
 
 <div class="list">
 {{ range .Pages.ByPublishDate.Reverse }}
-  {{ if not (in .Params.tags "inprogress") }}
-  <!-- Get the link -->
-  {{ $link := "" }}
-  {{ if isset .Params "link" }}
-    {{ $link = .Params.Link }}
-  {{ else }}
-    {{ $link = .RelPermalink }}
-  {{ end }}
-  <div class="item">
-    <div class="list-image">
-      <a href="{{ $link }}"><img src="{{ .RelPermalink }}{{ .Params.ListImage }}"></a>
-    </div>
-    <div class="list-text">
-      <a href="{{ $link }}">{{ .Title }}</a>
-      {{if (isset .Params "collaborators")}}
-        <br/>(with {{ .Params.collaborators }})
-      {{end}}
-      {{if (isset .Params "warning")}}
-        <p>
-          <span class="warning">{{ .Params.Warning }}</span>
-        </p>
-      {{end}}
-      <p>{{ .Params.Description | markdownify }}</p>
-    </div>
-  </div>
-  {{ end }}
+  {{ partial "list-item.html" .}}
 {{ end }}
 </div>
 </div>

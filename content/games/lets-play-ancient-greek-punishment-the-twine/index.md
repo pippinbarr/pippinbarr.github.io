@@ -1,6 +1,7 @@
 ---
 title: "Let's Play: Ancient Greek Punishment: The Twine"
 date: 2019-07-03
+year: 2019
 description: Hypertext! Hyperpunishment! Click links while your heart sinks! Read texts and repent your defects! Enjoy the Twine! Your soul's on the line!
 listimage: images/lets-play-ancient-greek-punishment-the-twine-icon.png
 link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment-the-twine/info/"

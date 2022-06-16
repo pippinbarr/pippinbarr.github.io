@@ -1,6 +1,7 @@
 ---
 title: "Eveline"
 date: 2016-03-23
+year: 2016
 description: There's a great novelist inside all of us! Especially you! You just need to get started! Write! Read! Write-read! What is that?! Find out!
 listimage: images/eveline-icon.png
 link: "https://pippinbarr.github.io/eveline/info/"

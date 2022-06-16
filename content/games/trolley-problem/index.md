@@ -1,6 +1,7 @@
 ---
 title: Trolley Problem
 date: 2011-10-07
+year: 2011
 description: Games and ethics! It’s the oldest chestnut in the book! Try your hand at the switch and see what you would do in a series of gruelling ethical challenges from the all-time classic ethical thought experiment from philosophy, the trolley problem! Choose wisely and well! No regrets!
 listimage: /images/trolley-problem-icon.png
 link: "https://pippinbarr.github.io/trolley-problem/info/"

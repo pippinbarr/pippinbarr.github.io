@@ -8,6 +8,7 @@ theme = "pippinbarr"
   idea = 'ideas'
   platforms = 'platforms'
   tools = 'tools'
+  year = 'year'
 
 [menu]
   [[menu.main]]

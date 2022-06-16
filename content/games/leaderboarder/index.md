@@ -1,6 +1,7 @@
 ---
 title: Leaderboarder
 date: 2014-04-25
+year: 2014
 description: Who’s in the lead?! I am! No wait, you are! No wait who’s that guy?! What the hell, man! Catch up! Fall behind! Don’t even care! Be a true Leaderboarder!
 listimage: images/leaderboarder-icon.png
 link: "https://pippinbarr.github.io/leaderboarder/info/"

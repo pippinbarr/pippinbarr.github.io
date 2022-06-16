@@ -2,80 +2,35 @@
 
 <div class="regular">
 
+
+
+
 <div class="game-tag-display">
-<div class="game-tag-group">
-<div class="game-tag-group-title">Ideas</div>
-<div class="game-tag-group-tags">
-{{range $name, $taxonomy := .Site.Taxonomies.ideas}} {{ $cnt := .Count }}
-  {{ with $.Site.GetPage (printf "/ideas/%s" $name) }}
-	<a class="game-tag" href={{ .RelPermalink }} title="{{$name}}</i>">{{$name}}</a>
-  {{end}}
-{{end}}
-</div>
+  {{ .Scratch.Set "tagtitle" "Ideas" }}
+  {{ .Scratch.Set "taxonomy" .Site.Taxonomies.ideas }}
+  {{ .Scratch.Set "stub" "ideas" }}
+  {{ partial "tag-list" . }}
+
+  {{ .Scratch.Set "tagtitle" "Platforms" }}
+  {{ .Scratch.Set "taxonomy" .Site.Taxonomies.platforms }}
+  {{ .Scratch.Set "stub" "platforms" }}
+  {{ partial "tag-list" . }}
+
+  {{ .Scratch.Set "tagtitle" "Tools" }}
+  {{ .Scratch.Set "taxonomy" .Site.Taxonomies.tools }}
+  {{ .Scratch.Set "stub" "tools" }}
+  {{ partial "tag-list" . }}
+
+  {{ .Scratch.Set "tagtitle" "Years" }}
+  {{ .Scratch.Set "taxonomy" .Site.Taxonomies.year }}
+  {{ .Scratch.Set "stub" "year" }}
+  {{ partial "tag-list" . }}
 </div>
 
-<div class="game-tag-group">
-<div class="game-tag-group-title">Platforms</div>
-<div class="game-tag-group-tags">
-{{range $name, $taxonomy := .Site.Taxonomies.platforms}} {{ $cnt := .Count }}
-  {{ with $.Site.GetPage (printf "/platforms/%s" $name) }}
-	<a class="game-tag" href={{ .RelPermalink }} title="{{$name}}</i>">{{$name}}</a>
-  {{end}}
-{{end}}
-</div>
-</div>
-
-<div class="game-tag-group">
-<div class="game-tag-group-title">Tools</div>
-<div class="game-tag-group-tags">
-{{range $name, $taxonomy := .Site.Taxonomies.tools}} {{ $cnt := .Count }}
-  {{ with $.Site.GetPage (printf "/tools/%s" $name) }}
-	<a class="game-tag" href={{ .RelPermalink }} title="{{$name}}</i>">{{$name}}</a>
-  {{end}}
-{{end}}
-</div>
-</div>
-</div>
-
+<!-- List the full list of games -->
 <div class="list">
 {{ range .Pages.ByPublishDate.Reverse }}
-  {{ if not (in .Params.tags "inprogress") }}
-  <!-- Get the link -->
-  {{ $link := "" }}
-  {{ if isset .Params "link" }}
-    {{ $link = .Params.Link }}
-  {{ else }}
-    {{ $link = .RelPermalink }}
-  {{ end }}
-  <div class="item">
-    <div class="list-image">
-      <a href="{{ $link }}"><img src="{{ .RelPermalink }}{{ .Params.ListImage }}"></a>
-    </div>
-    <div class="list-text">
-      <a href="{{ $link }}">{{ .Title }}</a>
-      {{if (isset .Params "collaborators")}}<br/><span class="collaborators">(with {{ .Params.collaborators | markdownify }})</span>{{end}}
-      {{if (isset .Params "warning")}}
-        <p>
-          <span class="warning">{{ .Params.Warning }}</span>
-        </p>
-      {{end}}
-      <p>{{ .Params.Description | markdownify }}</p>
-      <div class="game-tags">
-        {{ range (.GetTerms "ideas") }}
-        {{ if ne .LinkTitle "project" }}
-        <a class="game-tag" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-        {{ end }}
-        {{ end }}
-        <span class="game-tag-separator">|</span>
-        {{ range (.GetTerms "platforms") }}
-        {{ if ne .LinkTitle "project" }}
-        <a class="game-tag" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-        {{ end }}
-        {{ end }}
-      </div>
-    </div>
-  </div>
-  {{ end }}
+  {{ partial "list-item.html" .}}
 {{ end }}
 </div>
 </div>

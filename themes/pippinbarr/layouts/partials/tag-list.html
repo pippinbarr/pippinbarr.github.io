@@ -1,0 +1,14 @@
+{{ $title := .Scratch.Get "tagtitle" }}
+{{ $taxonomy := .Scratch.Get "taxonomy" }}
+{{ $stub := .Scratch.Get "stub" }}
+
+<div class="game-tag-group">
+<div class="game-tag-group-title">{{ $title }}</div>
+<div class="game-tag-group-tags">
+{{range $name, $taxonomy := $taxonomy}} {{ $cnt := .Count }}
+  {{ with $.Site.GetPage (printf "/%s/%s" $stub $name) }}
+	<a class="game-tag" href={{ .RelPermalink }} title="{{$name}}">{{$name}}</a>
+  {{end}}
+{{end}}
+</div>
+</div>

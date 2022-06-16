@@ -1,6 +1,7 @@
 ---
 title: "Abramović Method Games"
 date: 2014-09-29
+year: 2014
 description: Count rice! Count seeds! Step up and down! Talk to trees! Stop the anger! Feel the rain! Look at the colours! Video game!
 listimage: /images/abramovic-method-games-icon.png
 link: "https://pippinbarr.github.io/abramovic-method-games/info/"
