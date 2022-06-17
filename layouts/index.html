@@ -1,47 +1,22 @@
 {{ define "main" }}
 
-{{ $latest_project := first 1 .Site.Taxonomies.tags.project }}
 
-
-<strong>Latest</strong>
+<h4>Latest project</h4>
 
 <div class="list">
-  <div class="item">
+  {{ $latest_project := first 1 .Site.Taxonomies.tags.project }}
     {{ range $latest_project }}
-    {{ $link := .RelPermalink }}
-    {{ if isset .Params "link" }}
-      {{ $link = .Params.link }}
+      {{ partial "list-item.html" .}}
     {{ end }}
-    <div class="list-image">
-      <a href="{{ $link }}"><img src="{{ .RelPermalink }}{{ .Params.ListImage }}"></a>
-    </div>
-    <div class="list-text">
-      <a href="{{ $link }}">{{ .Title }}</a>
-      <p>{{ .Params.Description | markdownify }}</p>
-    </div>
-    {{ end }}
-  </div>
 </div>
 
 <br/>
 
-<strong>In progress</strong>
+<h4>In progress</h4>
 
 <div class="list">
   {{ range .Site.Taxonomies.tags.inprogress }}
-    {{ $link := .RelPermalink }}
-    {{ if isset .Params "link" }}
-      {{ $link = .Params.link }}
-    {{ end }}
-    <div class="item">
-      <div class="list-image">
-        <a href="{{ $link }}"><img src="{{ .RelPermalink }}{{ .Params.listimage }}"></a>
-      </div>
-      <div class="list-text">
-        <a href="{{ $link }}">{{ .Title }}</a>
-        <p>{{ .Params.description | markdownify }}</p>
-      </div>
-    </div>
+    {{ partial "list-item.html" .}}
   {{ end }}
 </div>
 

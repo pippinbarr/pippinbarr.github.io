@@ -1,9 +1,9 @@
-{{ if not (in .Params.tags "inprogress") }}
 <!-- Get the link -->
 {{ $link := .RelPermalink }}
 {{ if isset .Params "link" }}
   {{ $link = .Params.Link }}
 {{ end }}
+
 <!-- Display the item -->
 <div class="item">
 
@@ -16,7 +16,7 @@
   <div class="list-text">
 
     <!-- First the title -->
-    <a href="{{ $link }}">{{ .Title }}</a>
+    <a class="list-item-title" href="{{ $link }}">{{ .Title }}</a>
 
     <!-- Include a parenthetical if one is set -->
     {{if (isset .Params "parenthetical")}}
@@ -52,4 +52,3 @@
     {{end}}
   </div>
 </div>
-{{ end }}

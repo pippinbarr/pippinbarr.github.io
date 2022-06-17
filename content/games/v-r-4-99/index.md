@@ -6,8 +6,9 @@ description: "I'm working on the next game in my *v r* series. This one is an ex
 listimage: images/v-r-4-99-icon.png
 link: "https://pippinbarr.github.io/v-r-4-99/"
 draft: false
+parenthetical: "In progress"
 tags: ["inprogress", "game" ]
-ideas: []
-platforms: []
-tools: []
+ideas: ["art world", "game engines", "v r"]
+platforms: ["mac", "windows"]
+tools: ["unity"]
 ---
