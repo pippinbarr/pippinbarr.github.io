@@ -7,7 +7,7 @@ listimage: images/combat-at-the-movies-icon.png
 link: "https://pippinbarr.github.io/combat-at-the-movies/info/"
 draft: false
 tags: ["project"]
-ideas: ["variations", "adaptation", "cinema"]
+ideas: ["variations", "adaptation", "cinema", "the stuff games are made of"]
 platforms: ["browser"]
 tools: ["phaser"]
 ---

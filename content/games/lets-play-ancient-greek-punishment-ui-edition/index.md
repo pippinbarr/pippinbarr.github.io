@@ -6,7 +6,7 @@ description: Sliders! Radio buttons! Dialog boxes! Menus! Progress bars! These a
 listimage: images/lets-play-ancient-greek-punishment-ui-edition-icon.gif
 link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment-ui-edition/info/"
 draft: false
-tags: ["project"]
+tags: ["project", "top five"]
 ideas: ["ancient greek punishment", "variations", "user interface"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["jquery ui"]

@@ -7,8 +7,8 @@ listimage: images/v-r-4-99-icon.png
 link: "https://pippinbarr.github.io/v-r-4-99/"
 draft: false
 parenthetical: "In progress"
-tags: ["inprogress", "game" ]
-ideas: ["art world", "game engines", "v r"]
+tags: ["inprogress"]
+ideas: ["art world", "game engines", "v r", "money", "the stuff games are made of"]
 platforms: ["mac", "windows"]
 tools: ["unity"]
 ---

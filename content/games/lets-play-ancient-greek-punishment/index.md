@@ -7,7 +7,7 @@ listimage: /images/lets-play-ancient-greek-punishment-icon.png
 link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment/info/"
 draft: false
 tags: ["project"]
-ideas: ["ancient greek punishment", "variations"]
+ideas: ["ancient greek punishment", "variations", "the stuff games are made of"]
 platforms: ["flash"]
 tools: ["flixel"]
 warning: "This is a Flash project and Flash has been discontinued. View the game's page for more information."

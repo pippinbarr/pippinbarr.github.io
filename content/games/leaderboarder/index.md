@@ -7,7 +7,7 @@ listimage: images/leaderboarder-icon.png
 link: "https://pippinbarr.github.io/leaderboarder/info/"
 draft: false
 tags: ["project"]
-ideas: ["minimalism"]
+ideas: ["minimalism", "the stuff games are made of"]
 platforms: ["browser"]
 tools: ["meteor"]
 warning: "At some point Meteor changed and this project died. See its info page for some documentation."

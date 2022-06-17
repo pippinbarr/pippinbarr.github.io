@@ -8,7 +8,7 @@ link: "https://pippinbarr.github.io/pongs/info/"
 draft: false
 parenthetical: "Originally released 11 April 2012"
 tags: ["project"]
-ideas: ["variations"]
+ideas: ["variations", "the stuff games are made of"]
 platforms: ["browser"]
 tools: ["phaser"]
 ---

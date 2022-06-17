@@ -7,7 +7,7 @@ listimage: images/v-r-3-icon.png
 link: "https://pippinbarr.github.io/v-r-3/info/"
 draft: false
 tags: ["project"]
-ideas: ["art world", "game engines"]
+ideas: ["art world", "game engines", "money", "v r", "the stuff games are made of"]
 platforms: ["mac", "windows"]
 tools: ["unity"]
 ---

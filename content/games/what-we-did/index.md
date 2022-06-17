@@ -8,7 +8,7 @@ link: "https://pippinbarr.github.io/what-we-did/info/"
 draft: false
 parenthetical: "with [Rilla Khaled](https://www.rillakhaled.com/)"
 tags: ["project"]
-ideas: ["violence"]
+ideas: ["violence", "the stuff games are made of"]
 platforms: ["flash"]
 tools: ["haxeflixel"]
 warning: "This is a Flash project and Flash has been discontinued. View the game's page for more information."

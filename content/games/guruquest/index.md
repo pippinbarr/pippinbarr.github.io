@@ -8,7 +8,7 @@ listimage: images/guruquest-icon.png
 link: "https://pippinbarr.github.io/guruquest/info/"
 draft: false
 tags: ["project"]
-ideas: ["text", "typing", "philosophy"]
+ideas: ["text", "typing", "philosophy", "the stuff games are made of"]
 platforms: ["browser"]
 tools: ["p5.js"]
 ---

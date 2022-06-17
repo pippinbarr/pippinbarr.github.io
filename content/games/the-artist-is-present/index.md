@@ -6,9 +6,9 @@ description: "I'm currently porting my Flash game *The Artist Is Present* from A
 listimage: images/the-artist-is-present-icon-300x300.png
 link: "https://pippinbarr.github.io/the-artist-is-present/info/"
 draft: false
-parenthetical: "In progress"
+parenthetical: "Port to JavaScript in progress"
 tags: ["inprogress", "project"]
-ideas: ["art world", "marina abramović", "time"]
+ideas: ["art world", "marina abramović", "time", "the stuff games are made of"]
 platforms: ["browser"]
 tools: ["phaser", "flash"]
 ---

@@ -6,7 +6,8 @@ description: Watch the computer struggle against the chains it put itself in! Wa
 listimage: images/lets-play-ancient-greek-punishment-cpu-edition-icon.png
 link: "https://pippinbarr.github.io/letsplayancientgreekpunishmentcpuedition/info/"
 draft: false
-ideas: ["ancient greek punishment", "variations", "computation"]
+tags: ["project"]
+ideas: ["ancient greek punishment", "variations", "computation", "the stuff games are made of"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]
 ---
