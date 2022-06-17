@@ -19,7 +19,7 @@ html {
 
 body {
   background-color: var(--background);
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   max-width: 60rem;
   margin: 0 auto;
   padding: 0rem 1rem 1rem 1rem;
@@ -40,7 +40,7 @@ body {
 }
 
 .main-nav {
-  font-size: 2rem;
+  font-size: 1.8em;
   font-weight: bold;
   color: var(--foreground);
   padding-top: 0.5em;
@@ -82,14 +82,28 @@ a {
 .list {
   display: grid;
   grid-template-columns: 100%;
-  grid-gap: 2rem;
+  grid-gap: 2em;
 }
 
 .item {
   display: flex;
   flex-flow: row wrap;
-  gap: 2rem;
+  gap: 2em;
   width: 100%;
+}
+
+.list-item-title {
+  font-size: 1.25em;
+}
+
+.parenthetical {
+  font-size: 0.9em;
+}
+
+.warning {
+  font-size: 1em;
+  background-color: red !important;
+  color: white;
 }
 
 div.list-image {
@@ -107,39 +121,25 @@ img {
   height: auto;
 }
 
-/* 404 search */
-
-.site-search {
-  display: inline;
-  white-space: nowrap;
-}
-
-.site-search input {
-  font-family: Atkinson, sans-serif;
-  background-color: white;
-  border: none;
-  font-size: 1.25rem;
-}
-
 /* Tag menus */
 
 .game-tag-display {
-  margin-bottom: 2rem;
+  margin-bottom: 2em;
 }
 
 .game-tag-group {
-  margin-bottom: 1rem;
+  margin-bottom: 1em;
   /* position: relative; */
   /* display: block; */
 }
 
 .game-tag-group-title {
   font-weight: bold;
-  font-size: 1rem;
+  font-size: 1em;
 }
 
 .game-tag-group-tags {
-  line-height: 1.25em;
+  line-height: 1.5em;
   /* display: none; */
   /* width: auto; */
   /* height: 0px; */
@@ -161,33 +161,35 @@ img {
 /* Tags */
 
 .game-tags {
-  padding-top: 0.5rem;
-  font-size: 1.12rem;
+  padding-top: 0.5em;
+  line-height: 1.5em;
 }
 
 .game-tag {
-  font-size: 1rem;
+  font-size: 0.75em;
   background-color: var(--link);
-  padding: 0.35rem 0.45rem 0.35rem 0.45rem;
-  border-radius: 0.5rem;
+  padding: 0.35em 0.45em 0.35em 0.45em;
+  border-radius: 0.5em;
   /* color: white; */
   color: var(--background);
 }
 
 .game-tag-separator {
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
+  padding-left: 0.25em;
+  padding-right: 0.25em;
 }
 
-/* parenthetical */
-.parenthetical {
-  font-size: 1.25rem;
+
+/* 404 search */
+
+.site-search {
+  display: inline;
+  white-space: nowrap;
 }
 
-/* Warning */
-
-.warning {
-  font-size: 1.25rem;
-  background-color: red !important;
-  color: white;
+.site-search input {
+  font-family: Atkinson, sans-serif;
+  background-color: white;
+  border: none;
+  font-size: 1em;
 }
