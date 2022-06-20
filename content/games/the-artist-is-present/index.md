@@ -9,6 +9,6 @@ draft: false
 parenthetical: "Port to JavaScript in progress"
 tags: ["inprogress", "project"]
 ideas: ["art world", "marina abramović", "time", "the stuff games are made of"]
-platforms: ["browser"]
-tools: ["phaser", "flash"]
+platforms: ["browser", "flash"]
+tools: ["phaser"]
 ---
