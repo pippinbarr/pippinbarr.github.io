@@ -9,7 +9,7 @@ draft: false
 parenthetical: "Originally released 22 April 2015"
 tags: ["project"]
 ideas: ["adaptation", "cinema"]
-platforms: ["browser", "flash"]
+platforms: ["browser", "flash", "mac"]
 tools: ["haxeflixel"]
 ---
 
