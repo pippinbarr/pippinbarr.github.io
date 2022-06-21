@@ -180,7 +180,16 @@ img {
 }
 
 
-/* 404 search */
+/* 404 */
+
+.flipped-four-oh-four {
+  display: inline-block;
+  color: var(--link);
+  font-size: 8em;
+  font-weight: bold;
+  position: relative;
+  transform: rotate(180deg);
+}
 
 .site-search {
   display: inline;
