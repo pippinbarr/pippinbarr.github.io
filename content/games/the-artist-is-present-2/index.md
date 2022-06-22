@@ -7,7 +7,7 @@ listimage: images/the-artist-is-present-2-icon.png
 link: "https://pippinbarr.github.io/the-artist-is-present-2/info/"
 draft: false
 tags: ["project"]
-ideas: ["art world", "marina abramović", "time"]
+ideas: ["art world", "marina abramović", "time", "care"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]
 ---
