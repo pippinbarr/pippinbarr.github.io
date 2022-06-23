@@ -6,7 +6,7 @@ description: They know what we did. What do we do now?
 listimage: /images/what-we-did-icon.png
 link: "https://pippinbarr.github.io/what-we-did/info/"
 draft: false
-parenthetical: "with [Rilla Khaled](https://www.rillakhaled.com/)"
+parenthetical: "with [Rilla Khaled](https://www.rillakhaled.com/), originally released 3 February 2015"
 tags: ["project"]
 ideas: ["violence", "the stuff games are made of"]
 platforms: ["browser", "mac", "windows", "flash"]
