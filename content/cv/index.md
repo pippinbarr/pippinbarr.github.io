@@ -345,7 +345,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 - Jury member for the GAMERella Game Jam. 2021.
 - International Choice Awards Network Member. 2018 – present.
-- Jury member for IndieCade. 2014 – present.
+- Jury member for IndieCade. 2014 – 2019, 2022.
 - Judge for Independent Games Festival (IGF). 2013 – present.
 - Nuovo Award and Grand Prize Juror for Independent Games Festival (IGF). 2013 – 2015, 2017 - 2019, 2021-2022.
 - Jury member for the Global Game Jam at the Technoculture, Art and Games (TAG) Research Centre. 2016, 2018, 2019.
