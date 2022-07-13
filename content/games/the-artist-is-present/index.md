@@ -10,5 +10,5 @@ parenthetical: "Originally released 14 September 2011"
 tags: ["project"]
 ideas: ["art world", "marina abramović", "time", "the stuff games are made of"]
 platforms: ["browser", "mobile-friendly", "flash"]
-tools: ["phaser", "flash builder"]
+tools: ["phaser", "flixel"]
 ---
