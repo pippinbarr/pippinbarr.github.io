@@ -8,7 +8,7 @@ link: "https://pippinbarr.github.io/SNAKISMS/info/"
 draft: false
 tags: ["project", "top five"]
 ideas: ["variations", "adaptation", "philosophy"]
-platforms: ["browser"]
+platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]
 ---
 
