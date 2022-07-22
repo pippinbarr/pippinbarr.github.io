@@ -2,7 +2,7 @@
 title: "The Artist Is Present"
 date: 2022-07-13
 year: 2022
-description: "I'm currently porting my Flash game *The Artist Is Present* from ActionScript 3.0 with Flixel over to JavaScript with Phaser 3. In the end it will be exactly the same, with the important difference that it will actually work in modern browsers."
+description: "Are games art?! This one definitely is! The Artist is Present is a Sierra-style recreation of the famed performance piece of the same name by artist Marina Abramovic at the Museum of Modern Art in New York City. Have the experience only a lucky few have ever had! Stare into Marina Abramovic’s eyes! Make of it what you will! Just like art!"
 listimage: images/the-artist-is-present-icon-300x300.png
 link: "https://www.pippinbarr.com/the-artist-is-present/info/"
 draft: false
