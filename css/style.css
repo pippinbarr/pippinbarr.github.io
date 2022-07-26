@@ -203,3 +203,35 @@ img {
   border: none;
   font-size: 1em;
 }
+
+/* Funny stuff */
+
+.skewer {
+  animation-name: skewAnim;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes skewAnim {
+  from {
+    transform: skewX(0deg)
+  }
+  to {
+    transform: skewX(360deg)
+  }
+}
+
+.rotater {
+  animation-name: rotateAnim;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes rotateAnim {
+  from {
+    transform: rotate(0deg)
+  }
+  to {
+    transform: rotate(-360deg)
+  }
+}
