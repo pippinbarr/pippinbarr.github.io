@@ -10,7 +10,7 @@ tags: ["project", "podcast"]
 
 ## {{<param title >}}
 
-{{<param description>}}
+{{<markdownified_param description>}}
 
 The episodes are short. You might as well listen to one.
 
