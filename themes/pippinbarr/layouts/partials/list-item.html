@@ -16,7 +16,7 @@
   <div class="list-text">
 
     <!-- First the title -->
-    <a class="list-item-title" href="{{ $link }}">{{ .Title }}</a>
+    <a class="list-item-title" href="{{ $link }}">{{ .Title | safeHTML }}</a>
 
     <!-- Include a parenthetical if one is set -->
     {{if (isset .Params "parenthetical")}}

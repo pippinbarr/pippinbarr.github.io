@@ -7,7 +7,7 @@ listimage: images/v-r-1-icon.png
 link: "https://pippinbarr.github.io/v-r-1/info/"
 draft: false
 tags: ["project"]
-ideas: ["art world", "game engines"]
+ideas: ["art world", "game engines", "v r"]
 platforms: ["mac", "windows", "browser"]
 tools: ["unity"]
 ---
