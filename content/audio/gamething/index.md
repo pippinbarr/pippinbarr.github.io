@@ -5,8 +5,11 @@ description: A podcast by David Wolinsky ([Don't Die](https://nodontdie.com/)), 
 listimage: images/gamething-logo.png
 draft: false
 parenthetical: "with David Wolinsky"
+link: "https://gamething.life"
 tags: ["project", "podcast"]
 ---
+
+# HOW ARE YOU EVEN SEEING THIS?
 
 ## {{<param title >}}
 
