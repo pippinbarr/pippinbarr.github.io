@@ -1,7 +1,7 @@
 ---
 title: "GAMETHING"
 date: 2019-03-07
-description: A podcast by David Wolinsky ([Don't Die](https://nodontdie.com/)), Pippin Barr, and Mark Chains. Released one episode per week when each season is ready. ([Subscribe to our newsletter](https://tinyletter.com/GAMETHING) to hear when new seasons are ready.)
+description: GAMETHING is an audio book club about videogames. Experimental game designer Pippin Barr and writer-interviewer David Wolinsky exchange answerphone messages about anything and everything (mostly everything) they find interesting about videogames. ([Subscribe to our newsletter](https://tinyletter.com/GAMETHING) to hear when new seasons are ready.)
 listimage: images/gamething-logo.png
 draft: false
 parenthetical: "with David Wolinsky"
