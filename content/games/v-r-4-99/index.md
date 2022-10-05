@@ -1,13 +1,12 @@
 ---
 title: "v r $4.99"
-date: 2022-09-26
+date: 2022-10-05
 year: 2022
-description: "I'm working on the next game in my *v r* series. This one is an exhibition/showroom of 3D models from the Unity Asset Store that cost exactly $4.99 each. Achingly close to release now."
+description: "What does $4.99 get you these days?! One crowbar?! Two swordfish?! Three airliners?! Four Sci-Fi doors?! A super store?! The Taj Mahal?! The Sahara desert?! A seagull?! Come and see!"
 listimage: images/v-r-4-99-icon.png
 link: "https://pippinbarr.github.io/v-r-4-99/info/"
 draft: false
-parenthetical: "In progress"
-tags: ["inprogress"]
+tags: ["project"]
 ideas: ["art world", "game engines", "v r", "money", "the stuff games are made of"]
 platforms: ["mac", "windows"]
 tools: ["unity"]
