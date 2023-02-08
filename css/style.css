@@ -5,7 +5,7 @@
 :root {
   --background: rgb(255, 190, 190);
   --foreground: rgb(0, 0, 0);
-  --link: rgb(255,100,100);
+  --link: rgb(255, 100, 100);
 }
 
 html {
@@ -21,7 +21,8 @@ body {
   padding: 0rem 1rem 1rem 1rem;
 }
 
-p, li {
+p,
+li {
   line-height: 1.5em;
 }
 
@@ -216,6 +217,7 @@ img {
   from {
     transform: skewX(0deg)
   }
+
   to {
     transform: skewX(360deg)
   }
@@ -231,6 +233,7 @@ img {
   from {
     transform: rotate(0deg)
   }
+
   to {
     transform: rotate(-360deg)
   }
