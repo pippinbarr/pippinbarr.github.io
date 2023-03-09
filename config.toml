@@ -30,7 +30,7 @@ theme = "pippinbarr"
     url = "/books/"
     weight = 4
   [[menu.main]]
-    name = "Audio"
+    name = "Podcast"
     url = "/audio/"
     weight = 5
   [[menu.main]]
