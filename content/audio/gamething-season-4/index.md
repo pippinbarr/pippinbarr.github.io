@@ -6,7 +6,7 @@ listimage: images/gamething-season-4-icon.png
 draft: false
 parenthetical: "with David Wolinsky"
 link: "https://gamething.life"
-tags: ["podcast"]
+tags: ["project", "podcast"]
 ---
 
 HOW ARE YOU EVEN SEEING THIS?
