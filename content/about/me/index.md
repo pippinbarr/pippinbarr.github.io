@@ -11,7 +11,7 @@ draft: false
 
 Hi, I'm Pippin. I make [games](/games/). I'm on [Twitter](https://www.twitter.com/pippinbarr), [Instagram](https://www.instagram/pippinbarr), [Email](mailto:pippin.barr@gmail.com), and I even have an incredibly unreliable [Newsletter](https://tinyletter.com/pippinbarr).
 
-I'm an Associate Professor in the [Department of Design and Computation Arts](http://www.concordia.ca/finearts/design.html) at [Concordia University](http://www.concordia.ca/) in Montréal. I'm the associate director of the [Technoculture, Art, and Games (TAG) Research Centre](http://tag.hexagram.ca/), part of the [Milieux Institute for Arts, Culture, and Technology](http://milieux.concordia.ca/).
+I'm an Associate Professor in the [Department of Design and Computation Arts](http://www.concordia.ca/finearts/design.html) at [Concordia University](http://www.concordia.ca/) in Montréal. I'm a member of the [Technoculture, Art, and Games (TAG) Research Centre](http://tag.hexagram.ca/), part of the [Milieux Institute for Arts, Culture, and Technology](http://milieux.concordia.ca/).
 
 I teach or have taught creative programming, game design and development, game analysis and criticism, and internet/web-based art. Previously I have taught at the [Institute of Digital Games](http://www.um.edu.mt/about/academic/institutes) at the [University of Malta](http://www.um.edu.mt/) (2012-2015), the [Center for Computer Games Research](http://game.itu.dk/) at the [IT University of Copenhagen](http://www.itu.dk/) in Denmark (2009-2012), and the [HotSoft Lab](http://hotsoft.carleton.ca/) at [Carleton University](http://carleton.ca/) in Ottawa, Canada (2008-2009).
 

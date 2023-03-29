@@ -164,6 +164,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Keynotes and invited talks
 
+1. Barr, P. Office Hours: Browser as a Playground w/ Pippin Barr. Rhizome. 30 March 2023. Online.
 1. Barr, P. PLAY-PRODUCTION-ROUTINE. Department of Architecture, ETH Zurich. 11 March 2022. Online.
 1. Barr, P. High-performance Game Design. V-A-C. 22 January 2022. Online.
 1. Barr, P. Artist Talk. Davis Media Arts Intensive. 7 May 2021. Online.
@@ -180,7 +181,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 1. The Code is Present. A MAZE / Johannesburg. Johannesburg, South Africa. 2014.
 1. Game. Time. Critical Hit Collaboratory. Montréal, Canada. 2014.
 1. The Game Designer is Present. A MAZE / Berlin. Berlin, Germany. 2014.
-   Time. Pecha Kucha Mdina, Malta. 2014.
+    Time. Pecha Kucha Mdina, Malta. 2014.
 1. Curious Games. Mozilla Festival. London, UK. 2013.
 1. Curious Games. Playful. London, UK. 2013.
 1. Curious Games. A MAZE / Republika. Rijeka, Croatia. July 2013.
