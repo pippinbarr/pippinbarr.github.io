@@ -20,6 +20,7 @@ I have a doctorate and a master's degree from Victoria University of Wellington/
 ## More?
 
 * [Curriculum Vitae](/cv/)
+* [2023 talk for Rhizome's Office Hours](https://video.rhizome.org/w/vksC4RWqf54epd8voy7BKo) (First couple of minutes are silent, then there's audio)
 * [2021 interview with We Make Money Not Art](https://we-make-money-not-art.com/interview-with-pippin-barr-maker-of-witty-and-infuriating-video-games/)
 * [2019 interview with Engadget](https://www.engadget.com/2019/10/23/twitter-game-ideas-philosopher-pippin-barr-interview)
 * [2017 interview with Format](https://www.format.com/magazine/features/art/pippin-barr-art-computer-games)
