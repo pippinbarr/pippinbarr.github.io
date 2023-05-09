@@ -8,7 +8,7 @@ link: "https://pippinbarr.github.io/safety-instructions/info/"
 draft: false
 tags: ["project"]
 ideas: ["text", "typing"]
-platforms: ["browser"]
+platforms: ["browser", "flash"]
 tools: ["flixel"]
 ---
 
