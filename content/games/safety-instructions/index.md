@@ -8,9 +8,8 @@ link: "https://pippinbarr.github.io/safety-instructions/info/"
 draft: false
 tags: ["project"]
 ideas: ["text", "typing"]
-platforms: ["flash"]
+platforms: ["browser"]
 tools: ["flixel"]
-warning: "This is a Flash project and Flash has been discontinued. View the game's page for more information."
 ---
 
 ## {{<param title >}}
