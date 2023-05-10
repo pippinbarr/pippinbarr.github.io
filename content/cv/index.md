@@ -14,8 +14,8 @@ Montréal, Canada
 ## Contact
 
 - **Phone** +1 438 496 7732
-- **Email**: pippin.barr@concordia.ca
-- **Web**: www.pippinbarr.com
+- **Email**: <pippin.barr@concordia.ca>
+- **Web**: <www.pippinbarr.com>
 
 ## Basic information
 
@@ -95,7 +95,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ### Journals
 
-1. Khaled, R. and Barr, P. Generative Logics and Conceptual Clicks. Design Issues (forthcoming in 2022).
+1. Khaled, R. and Barr, P. (2023) Generative Logics and Conceptual Clicks: A Case Study of the Method for Design Materialization. _Design Issues_, _39_(1), 55–69. <https://doi.org/10.1162/desi_a_00706>
 1. Barr, P. Film Adaptation as Experimental Game Design. Arts 9:4. 2020. <https://doi.org/10.3390/arts9040103>
 1. Barr, P. Permadeath: Speedrun. Well Played Journal, 6:1, 2017.
 1. Barr, P. Critical Jostling: Jostle Bastard and Jostle Parent as Critical Reflective Practice. GAME: The Italian Journal of Game Studies. No.5. 2016.
@@ -151,7 +151,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Invited publications
 
-1. Barr, P. Curate Your Own Artgame. Chapter in forthcoming publication from Sporobole, 2022.
+1. Barr, P. (2023) Curate Your Own Artgame. In Nathalie Bachand and Lynn Hughes (Eds.), _ART X GAME = JEU X ART =_., Éditions OQP.
 1. Barr, P. Consider the Gunshot. Chapter in _Videogames: Design/Play/Disrupt_. V&A Museum. 2018.
 1. Barr, P. Playing It Is As If: A Perspective. Peabody Essex Museum Website. 24 November 2017. <http://playtime.pem.org/playing-it-is-as-if-a-perspective/>
 1. Barr, P. Hurt You So. Kill Screen. 30 February 2012. <http://killscreendaily.com/articles/hurt-you-so/>
@@ -161,6 +161,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Keynotes and invited talks
 
+1. Barr, P. Up Close and Personal: Documenting Design with the Method for Design Materialization. Archive/Counter Archive Archival Aterlier Workshop Series. 4 May 2023. Online.
 1. Barr, P. Office Hours: Browser as a Playground w/ Pippin Barr. Rhizome. 30 March 2023. Online. [https://video.rhizome.org/w/vksC4RWqf54epd8voy7BKo](https://video.rhizome.org/w/vksC4RWqf54epd8voy7BKo)
 1. Barr, P. PLAY-PRODUCTION-ROUTINE. Department of Architecture, ETH Zurich. 11 March 2022. Online.
 1. Barr, P. High-performance Game Design. V-A-C. 22 January 2022. Online.
@@ -223,6 +224,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 # Research funding
 
+1. SSHRC Insight Grant: Games as Research. 2022–2026.
 1. Aid to Research Related Events, Exhibition, Publication and Dissemination Activities (ARRE) Program. For: The Queerness and Games Conference at Concordia. 2019.
 1. Take Two. Pilot Micro-Funding Program for Fine Arts. For: The Queerness and Games Conference at Concordia. 2019.
 1. Aid to Research Related Events, Exhibition, Publication and Dissemination Activities (ARRE) Program: The Queerness and Games Conference at Concordia. 2018.
