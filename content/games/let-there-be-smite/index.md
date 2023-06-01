@@ -8,9 +8,8 @@ link: "https://pippinbarr.github.io/let-there-be-smite/info/"
 draft: false
 tags: ["project"]
 ideas: ["user interface"]
-platforms: ["flash"]
+platforms: ["browser", "flash"]
 tools: ["flixel"]
-warning: "This is a Flash project and Flash has been discontinued. View the game's page for more information."
 ---
 
 ## {{<param title >}}
