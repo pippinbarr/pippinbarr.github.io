@@ -163,6 +163,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 1. Barr, P. Up Close and Personal: Documenting Design with the Method for Design Materialization. Archive/Counter Archive Archival Aterlier Workshop Series. 4 May 2023. Online.
 1. Barr, P. Office Hours: Browser as a Playground w/ Pippin Barr. Rhizome. 30 March 2023. Online. [https://video.rhizome.org/w/vksC4RWqf54epd8voy7BKo](https://video.rhizome.org/w/vksC4RWqf54epd8voy7BKo)
+1. Barr, P. The Seagull and the Taj Mahal. Museums Without Walls Conference, Queen's University, Kingston, Ontario, Canada. 15-17 August 2022.
 1. Barr, P. PLAY-PRODUCTION-ROUTINE. Department of Architecture, ETH Zurich. 11 March 2022. Online.
 1. Barr, P. High-performance Game Design. V-A-C. 22 January 2022. Online.
 1. Barr, P. Artist Talk. Davis Media Arts Intensive. 7 May 2021. Online.
@@ -193,6 +194,9 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Conference presentations
 
+1. Khaled, R. and Barr, P. A Method for Design Materialization: Accountable Game Design Research. Digital Games Research Association (DiGRA) Conference 2023. Seville, Spain. 19-23 June 2023.
+1. Sicart, M., Simon, B., Khaled, R., Barr, P., Boluk, S., and LeMieux, P.
+Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research Association (DiGRA) Conference 2023. Seville, Spain. 19-23 June 2023.
 1. Barr, P. One easy payment of $4.99! Affecting Game Spaces: Theory and Practice. Online Conference. 3 September 2021.
 1. Khaled, R., Lessard, J., and Barr, P. Documenting Trajectories in Design Space: A Methodology for Applied Game Design Research. In the Proceedings of Foundations of Digital Games (FDG) 2018. 2018.
 1. Barr, P., Khaled R., Lewis, J., Arista, N. Crossing Oceans with Game Making Workshops. Game Developers Conference (GDC), San Francisco, USA, 2018.
