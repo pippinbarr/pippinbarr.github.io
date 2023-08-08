@@ -1,7 +1,7 @@
 ---
 title: "The Stuff Games Are Made Of"
 date: 2023-08-01
-description: "I'm in the process of writing a book for The MIT Press about experimental game design seen through the perspective of the materials of game creation. I've been writing about everything from computation to user interfaces to time. Check out the [the stuff games are made of](/ideas/the-stuff-games-are-made-of) tag to see the games discussed in the book."
+description: "I wrote a book about experimental game design seen through the perspective of the materials of game creation. There are chapters about everything from computation to user interfaces to time. Check out the [the stuff games are made of](/ideas/the-stuff-games-are-made-of) tag to see the games discussed in the book."
 listimage: images/the-stuff-games-are-made-of-icon.png
 draft: false
 link: https://mitpress.mit.edu/9780262546119/the-stuff-games-are-made-of/
