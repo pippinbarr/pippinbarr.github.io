@@ -123,6 +123,12 @@ img {
   max-height: 50vh;
 }
 
+div.list-image img {
+  width: auto;
+  height: auto;
+  max-height: auto;
+}
+
 /* Tag menus */
 
 .game-tag-display {
