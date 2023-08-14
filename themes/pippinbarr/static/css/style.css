@@ -124,9 +124,9 @@ img {
 }
 
 div.list-image img {
-  width: auto;
+  width: 100%;
   height: auto;
-  max-height: 100%;
+  max-height: none;
 }
 
 /* Tag menus */
