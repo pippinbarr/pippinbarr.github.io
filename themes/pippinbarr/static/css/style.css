@@ -120,6 +120,7 @@ div.list-text {
 img {
   width: 100%;
   height: auto;
+  max-height: 50vh;
 }
 
 /* Tag menus */
