@@ -126,7 +126,7 @@ img {
 div.list-image img {
   width: auto;
   height: auto;
-  max-height: auto;
+  max-height: 100%;
 }
 
 /* Tag menus */
