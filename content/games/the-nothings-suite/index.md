@@ -7,7 +7,7 @@ listimage: images/the-nothings-suite-icon.png
 link: "https://pippinbarr.github.io/the-nothings-suite/"
 draft: false
 tags: ["project", "top five"]
-ideas: ["variations", "game engines"]
+ideas: ["nothing", "variations", "game engines"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["multiple"]
 ---
