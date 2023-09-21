@@ -2,7 +2,7 @@
 title: "Staring Contest"
 date: 2023-09-21
 year: 2023
-description: Staring
+description: Face off against famous artworks, try not to blink!
 listimage: images/staring-contest-icon.png
 link: "https://artsandculture.google.com/experiment/bQGm5oTJscGf_w"
 parenthetical: "with Google Arts and Culture"
