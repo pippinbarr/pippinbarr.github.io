@@ -87,7 +87,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Books
 
-1. Barr, P. _The Stuff Games Are Made Of_. The MIT Press. (forthcoming in 2023).
+1. Barr, P. _The Stuff Games Are Made Of_. The MIT Press. 2023.
 1. Lessard, J. and Barr, P. _Les grands classiques de l'épouvante en mots cachés_. Les Éditions Goélette. 2021.
 1. Barr, P. _How to Play a Video Game_. Awa Press, 2011.
 
@@ -228,13 +228,13 @@ Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research As
 
 # Research funding
 
-1. SSHRC Insight Grant: Games as Research. 2022–2026.
-1. Aid to Research Related Events, Exhibition, Publication and Dissemination Activities (ARRE) Program. For: The Queerness and Games Conference at Concordia. 2019.
-1. Take Two. Pilot Micro-Funding Program for Fine Arts. For: The Queerness and Games Conference at Concordia. 2019.
-1. Aid to Research Related Events, Exhibition, Publication and Dissemination Activities (ARRE) Program: The Queerness and Games Conference at Concordia. 2018.
-1. FRQSC Team Research-Creation Grant: Speculative Play. 2016 – 2019.
-1. FRDP Grant: Experimental Games. 2016 – 2019.
-1. SSHRC Partnership Grant: Initiative for Indigenous Futures. 2015 – 2022.
+1. SSHRC Insight Grant: Games as Research. 2022–2026. Co-investigator.
+1. Aid to Research Related Events, Exhibition, Publication and Dissemination Activities (ARRE) Program. For: The Queerness and Games Conference at Concordia. 2019. PI.
+1. Take Two. Pilot Micro-Funding Program for Fine Arts. For: The Queerness and Games Conference at Concordia. 2019. PI.
+1. Aid to Research Related Events, Exhibition, Publication and Dissemination Activities (ARRE) Program: The Queerness and Games Conference at Concordia. 2018. PI.
+1. FRQSC Team Research-Creation Grant: Speculative Play. 2016 – 2019. Co-investigator.
+1. FRDP Grant: Experimental Games. 2016 – 2019. PI.
+1. SSHRC Partnership Grant: Initiative for Indigenous Futures. 2015 – 2022. Co-investigator.
 
 # Teaching
 
@@ -306,12 +306,13 @@ Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research As
 
 ## Departmental service
 
-- **Ubisoft Game Lab Competition Co-ordinator**. Department of Design and Computation Arts, Concordia University. 2019 - present.
-- **Undergraduate Program Director**. Department of Design and Computation Arts, Concordia University. 2018 – present.
-- **Coop Academic Director**. Department of Design and Computation Arts, Concordia University. 2016 – present.
+- **Ubisoft Game Lab Competition Co-ordinator**. Department of Design and Computation Arts, Concordia University. 2019 - 2022.
+- **Undergraduate Program Director**. Department of Design and Computation Arts, Concordia University. 2018 – 2022.
+- **Coop Academic Director**. Department of Design and Computation Arts, Concordia University. 2016 – 2022.
 - **Departmental Web Committee**. Department of Design and Computation Arts, Concordia University. 2016 - present.
 - **Undergraduate Award Jury**. Department of Design and Computation Arts, Concordia University. 2020.
 - **Department Personnel Committee**. Department of Design and Computation Arts, Concordia University. 2021 – 2022.
+- **Department Chair**. Department of Design and Computation Arts, Concordia University. 2023 – present.
 
 ## Faculty service
 
@@ -322,10 +323,10 @@ Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research As
 
 ## University service
 
-- **Associate Director of Technoculture, Art, and Games (TAG) Research Centre**. 2017 – 2019, 2019 - present.
+- **Associate Director of Technoculture, Art, and Games (TAG) Research Centre**. 2017 – 2019, 2019 - 2022.
   Concordia University
 - **Interim Director of Technoculture, Art, and Games (TAG) Research Centre**. 2019.
-- **Milieux Institute Steering Committee**. Concordia University. 2017 – present.
+- **Milieux Institute Steering Committee**. Concordia University. 2017 – 2022.
 - **Working group on the impact of the pandemic on the career progression of faculty members**. Concordia University. 2021.
 - **University Appeals Board**. Alternate member. Concordia University. 2021 – 2022.
 - **Faculty Equity Advocate**. Concordia University. 2021 - present.
@@ -369,102 +370,113 @@ Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research As
 
 ## Video works
 
-- _Let's Play Permadeath Speedrun, season 2_. 2019. [(link)](https://tag.hexagram.ca/projects/lets-play-permadeath-speedrun-season-2/)
-- _Let's Play Permadeath Speedrun, season 1_. 2014-2016. [(link)](https://tag.hexagram.ca/projects/lets-play-permadeath-speedrun-season-1/)
+- _Let's Play Permadeath Speedrun, season 2_. 2019. <https://tag.hexagram.ca/projects/lets-play-permadeath-speedrun-season-2/>
+- _Let's Play Permadeath Speedrun, season 1_. 2014-2016. <https://tag.hexagram.ca/projects/lets-play-permadeath-speedrun-season-1/>
 
 ## Audio works
 
-- _GAMETHING_. Experimental videogame analysis podcast coproduced with David Wolinsky. 2018-2019. [(link)](https://www.soundcloud.com/gamething/)
+- _GAMETHING_. Experimental videogame analysis podcast coproduced with David Wolinsky. 2018-2019, 2022–present. <https://gamething.life/>
 
 ## Non-digital games
 
-- _Art Deck_. (Contributed texts for three playing cards in the game.) Published by Matheson Marcault. October 2018. [(link)](https://artdeckgame.com/wp/)
+- _Art Deck_. (Contributed texts for three playing cards in the game.) Published by Matheson Marcault. October 2018. <https://artdeckgame.com/wp/>
 
 ## Videogames
 
-- _The Nothings Suite_. 21 April 2021. [(link)](https://pippinbarr.github.io/the-nothings-suite/)
-- _Combat at the Movies_. 2 December 2020. [(link)](https://pippinbarr.github.io/combat-at-the-movies/info/)
-- _Chesses 3_. April 2020. [(link)](https://pippinbarr.github.io/chesses3/info/)
-- _b r 3_. April 2020. [(link)](https://pippinbarr.github.io/b-r-3/info/)
-- _Chesses 2_. April 2020. [(link)](https://pippinbarr.github.io/chesses2/info/)
-- _The Artist Is Present 2_. February 2020.  [(link)](https://pippinbarr.github.io/the-artist-is-present-2/info/)
-- _Let's Play: Ancient Greek Punishment: The Text Adventure_. January 2020. [(link)](http://www.pippinbarr.com/games/2020/01/10/lets-play-ancient-greek-punishment-the-text-adventure.html)
-- _Let's Play: Ancient Greek Punishment: Competition Edition_. September 2019. [(link)](http://www.pippinbarr.com/games/2019/09/04/lets-play-ancient-greek-punishment-competition-edition.html)
-- _Let's Play: Ancient Greek Punishment: Five-in-One_. August 2019. [(link)](http://www.pippinbarr.com/games/2019/08/21/lets-play-ancient-greek-punishment-five-in-one.html)
-- _Chesses_. August 2019. [(link)](http://www.pippinbarr.com/games/2019/08/07/chesses.html)
-- _Mobile Chogue_. July 2019. [(link)](http://www.pippinbarr.com/games/2019/07/24/mobile-chogue.html)
-- _Let's Play: Ancient Greek Punishment: Bitsy Demake_. July 2019. [(link)](http://www.pippinbarr.com/games/2019/07/17/lets-play-ancient-greek-punishment-bitsy-demake.html)
-- _Let's Play: Ancient Greek Punishment: The Twine_. July 2019. [(link)](http://www.pippinbarr.com/games/2019/07/03/lets-play-ancient-greek-punishment-the-twine.html)
-- _Rogess_. May 2019. [(link)](https://www.pippinbarr.com/games/2019/05/21/rogess.html)
-- _Let's Play: Ancient Greek Punishment: Chess Edition_. April 2019. [(link)](http://www.pippinbarr.com/games/2019/04/23/lets-play-ancient-greek-punishment-chess-edition.html)
-- _Let's Play: Ancient Greek Punishment: Teaches Typing_. April 2019. [(link)](http://www.pippinbarr.com/games/2019/04/05/lets-play-ancient-greek-punishment-teaches-typing.html)
-- _Let's Play: Ancient Greek Punishment: UI Edition_. February 2019. [(link)](http://www.pippinbarr.com/games/2019/02/20/lets-play-ancient-greek-punishment-ui-edition.html)
-- _Let's Play: Ancient Greek Punishment: Inversion Edition_. January 2019. [(link)](http://www.pippinbarr.com/games/2019/01/29/lets-play-ancient-greek-punishment-inversion-edition.html)
-- _Chogue_. (With Jonathan Lessard.) July 2018. [(link)](http://www.pippinbarr.com/games/2018/07/12/chogue.html)
-- _It is as if you were making love_. June 2018. [(link)](http://www.pippinbarr.com/games/2018/06/28/it-is-as-if-you-were-making-love.html)
-- _b r 1_. May 2018. [(link)](http://www.pippinbarr.com/games/2018/05/23/b-r-1.html)
-- _Tanks!?_. March 2018. [(link)](https://www.pippinbarr.com/games/2018/03/07/tanks-exclamation-mark-question-mark.html)
-- _Sibilant Snakelikes_. December 2017. [(link)](https://www.pippinbarr.com/games/2017/12/13/sibilant-snakelikes.html)
-- _It is as if you were doing work_. July 2017. [(link)](https://www.pippinbarr.com/games/2017/07/03/it-is-as-if-you-were-doing-work.html)
-- _Let's Play: Ancient Greek Punishment: CPU Edition!_. April 2017. [(link)](https://www.pippinbarr.com/2017/04/12/lets-play-ancient-greek-punishment-cpu-edition/)
-- _v r 3_. March 2017. [(link)](https://www.pippinbarr.com/2017/03/29/v-r-3/)
-- _SNAKISMS_. January 2017. [(link)](https://www.pippinbarr.com/2017/01/25/snakisms/)
-- _Burnt Matches_. November 2016. [(link)](https://www.pippinbarr.com/2016/11/29/burnt-matches/)
-- _It is as if you were playing chess_. August 2016. [(link)](http://www.pippinbarr.com/2016/08/19/it-is-as-if-you-were-playing-chess/) [(link)](https://www.pippinbarr.com/2016/08/19/it-is-as-if-you-were-playing-chess/)
-- _Independence, Missouri_. July 2016. [(link)](https://www.pippinbarr.com/games/2016/07/21/independence-missouri.html)
-- _Game Studies_. (With Jonathan Lessard.) July 2016. [(link)](https://www.pippinbarr.com/2016/07/06/game-studies/)
-- _Let's Play: Ancient Greek Punishment: Limited Edition!_. June 2016. [(link)](https://www.pippinbarr.com/2016/06/21/lets-play-ancient-greek-punishment-limited-edition/)
-- _v r 2_. June 2016. [(link)](https://www.pippinbarr.com/2016/06/08/v-r-2/)
-- _v r 1_. May 2016. [(link)](https://www.pippinbarr.com/2016/05/19/v-r-1/)
-- _Post-Apocalyptic Abramovic Method Game_. April 2016. [(link)](https://www.pippinbarr.com/2016/04/15/post-apocalyptic-abramovic-method-game/)
-- _Eveline_. March 2016. [(link)](https://www.pippinbarr.com/2016/03/23/eveline/)
-- _Indie Bungle 2: Breakout Indies_. January 2016. [(link)](https://www.pippinbarr.com/2016/01/20/indie-bungle-2-breakout-indies/)
-- _A Series of Gunshots_. November 2015. [(link)](https://www.pippinbarr.com/2015/11/19/a-series-of-gunshots/)
-- _BREAKSOUT_. October 2015. [(link)](https://www.pippinbarr.com/2015/10/01/breaksout/)
-- _Best Chess_. July 2015. [(link)](https://www.pippinbarr.com/2015/07/30/best-chess/)
-- _REAL BAKU 2015_. June 2016. [(link)](https://www.pippinbarr.com/2015/06/16/real-baku-2015/)
-- _The Stolen Art Gallery_. May 2016. [(link)](https://www.pippinbarr.com/2015/05/13/the-stolen-art-gallery/)
-- _Let's Play: The Shining_. April 2016. [(link)](https://www.pippinbarr.com/2015/04/22/lets-play-the-shining/)
-- _Jostle Parent_. April 2015. [(link)](https://www.pippinbarr.com/2015/04/10/jostle-parent/)
-- _Sound System II_. March 2015. [(link)](https://www.pippinbarr.com/2015/03/13/sound-system-ii/)
-- _What We Did_. (With Rilla Khaled.) February 2015. [(link)](https://www.pippinbarr.com/2015/02/03/what-we-did/)
-- _Let's Play: Ancient Greek Punishment: Art Edition Edition!_. January 2015. [(link)](https://www.pippinbarr.com/2015/01/14/lets-play-lets-play-ancient-greek-punishment-art-edition-edition/)
-- _Sound System I_. January 2015. [(link)](https://www.pippinbarr.com/2015/01/08/sound-system-i/)
-- _MANIFEST_. September 2014. [(link)](https://www.pippinbarr.com/2014/09/30/manifest/)
-- _Abramovic Method Games_. (With Marina Abramovic.) September 2014. [(link)](https://www.pippinbarr.com/2014/09/29/abramovic-method-games/)
-- _Get X Avoid Y_. June 2014. [(link)](https://www.pippinbarr.com/2014/06/24/get-x-avoid-y/)
-- _The Junior Mint_. May 2014. [(link)](https://www.pippinbarr.com/2014/05/04/the-junior-mint/)
-- _Leaderboarder_. April 2014. [(link)](https://www.pippinbarr.com/2014/04/25/leaderboarder/)
-- _Don't Drown_. April 2014. [(link)](https://www.pippinbarr.com/2014/04/20/dont-drown/)
-- _Durations_. March 2014. [(link)](https://www.pippinbarr.com/2014/03/16/durations/)
-- _Lo-Fi Dick Fight_. February 2014. [(link)](https://www.pippinbarr.com/2014/02/06/lo-fi-dick-fight/)
-- _Drosophilia_. (With Gordon Calleja and Sidsel Hermansen.) January 2014. [(link)](https://www.pippinbarr.com/2014/01/31/drosophilia/)
-- _Jostle Bastard_. November 2013. [(link)](https://www.pippinbarr.com/2013/11/19/jostle-bastard/)
-- _The Digital Marina Abramovic Institute_. (With Marina Abramovic.) August 2013. [(link)](https://www.pippinbarr.com/2013/10/23/the-digital-marina-abramovic-institute/)
-- _Snek._. June 2013. [(link)](https://www.pippinbarr.com/2013/06/13/snek/)
-- _Mumble Indie Bungle_. April 2013. [(link)](https://www.pippinbarr.com/2013/04/08/mumble-indie-bungle-2/)
-- _Art Game_. February 2013. [(link)](https://www.pippinbarr.com/2013/02/04/art-game/)
-- _Kicker_. November 2012. [(link)](https://www.pippinbarr.com/2012/11/23/kicker/)
-- _Ludwig Von Beatdown_. October 2012. [(link)](https://www.pippinbarr.com/2012/10/17/ludwig-von-beatdown/)
-- _War Game_. June 2012. [(link)](https://www.pippinbarr.com/2012/06/15/war-game/)
-- _Hot Coffee_. May 2012. [(link)](https://www.pippinbarr.com/2012/05/04/hot-coffee/)
-- _PONGS_. April 2012. [(link)](https://www.pippinbarr.com/2012/04/11/pongs/)
-- _Epic Sax Game_. March 2012. [(link)](https://www.pippinbarr.com/2012/03/27/epic-sax-game/)
-- _Two-Player Breakout_. March 2012. [(link)](https://www.pippinbarr.com/2012/03/03/two-player-breakout/)
-- _You Say Jump I Say How High_. January 2012. [(link)](https://www.pippinbarr.com/2012/01/24/you-say-jump-i-say-how-high/)
-- _Let’s Play: Ancient Greek Punishment_. December 2011. [(link)](https://www.pippinbarr.com/2011/12/30/lets-play-ancient-greek-punishment/)
-- _All's Well That Ends Well_. November 2011. [(link)](https://www.pippinbarr.com/2011/11/30/alls-well-that-ends-well/)
-- _ZORBA_. November 2011. [(link)](https://www.pippinbarr.com/2011/11/08/zorba/)
-- _Trolley Problem_. October 2011. [(link)](https://www.pippinbarr.com/2011/10/07/trolley-problem/)
-- _The Artist Is Present_. September 2011. [(link)](https://www.pippinbarr.com/2011/09/14/the-artist-is-present/)
-- _Safety Instructions_. August 2011. [(link)](https://www.pippinbarr.com/2011/08/15/safety-instructions/)
-- _Let There Be Smite!_. July 2011. [(link)](https://www.pippinbarr.com/2011/07/01/let-there-be-smite/)
-- _GuruQuest_. May 2011. [(link)](https://www.pippinbarr.com/2011/05/02/guruquest/)
+- _Staring Contest_. With Google Arts and Culture. 21 September 2023. <https://artsandculture.google.com/experiment/bQGm5oTJscGf_w>
+- _Artot_. With Google Arts and Culture. 21 September 2023. <https://artsandculture.google.com/experiment/uAG3u5XL9av55A>
+- _Super Mario Nothing_. 11 August 2023. <https://pippinbarr.com/super-mario-nothing/info/>
+- _Curate Your Own Art Game_. 1 February 2023. <https://pippinbarr.com/curate-your-own-art-game/info/>
+- _v r $4.99_. 5 October 2022. <https://pippinbarr.com/v-r-4-99/info/>
+- _v r <sup>2</sup>_. 24 August 2022. <https://pippinbarr.com/v-r-to-the-2/info/>
+- _It is as if you were doing paperwork_. 14 July 2022. <https://pippinbarr.com/it-is-as-if-you-were-doing-paperwork/info/>
+- _The Nothings Suite_. 21 April 2021. <https://pippinbarr.com/the-nothings-suite/>
+- _Combat at the Movies_. 2 December 2020. <https://pippinbarr.com/combat-at-the-movies/info/>
+- _Chesses 3_. April 2020. <https://pippinbarr.com/chesses3/info/>
+- _b r 3_. April 2020. <https://pippinbarr.com/b-r-3/info/>
+- _Chesses 2_. April 2020. <https://pippinbarr.com/chesses2/info/>
+- _The Artist Is Present 2_. February 2020.  <https://pippinbarr.com/the-artist-is-present-2/info/>
+- _Let's Play: Ancient Greek Punishment: The Text Adventure_. January 2020. <http://www.pippinbarr.com/lets-play-ancient-greek-punishment-the-text-adventure/info/>
+- _Let's Play: Ancient Greek Punishment: Competition Edition_. September 2019. <http://www.pippinbarr.com/lets-play-ancient-greek-punishment-competition-edition/info/>
+- _Let's Play: Ancient Greek Punishment: Five-in-One_. August 2019. <http://www.pippinbarr.com/lets-play-ancient-greek-punishment-five-in-one/info/>
+- _Chesses_. August 2019. <http://www.pippinbarr.com/chesses/info/>
+- _Mobile Chogue_. July 2019. <http://www.pippinbarr.com/chogue/info/>
+- _Let's Play: Ancient Greek Punishment: Bitsy Demake_. July 2019. <http://www.pippinbarr.com/lets-play-ancient-greek-punishment-bitsy-demake/info/>
+- _Let's Play: Ancient Greek Punishment: The Twine_. July 2019. <http://www.pippinbarr.com/lets-play-ancient-greek-punishment-the-twine/info/>
+- _Rogess_. May 2019. <https://www.pippinbarr.com/rogess/info/>
+- _Let's Play: Ancient Greek Punishment: Chess Edition_. April 2019. <http://www.pippinbarr.com/lets-play-ancient-greek-punishment-chess-edition/info/>
+- _Let's Play: Ancient Greek Punishment: Teaches Typing_. April 2019. <http://www.pippinbarr.com/lets-play-ancient-greek-punishment-teaches-typing/info/>
+- _Let's Play: Ancient Greek Punishment: UI Edition_. February 2019. <http://www.pippinbarr.com/lets-play-ancient-greek-punishment-ui-edition/info/>
+- _Let's Play: Ancient Greek Punishment: Inversion Edition_. January 2019. <http://www.pippinbarr.com/lets-play-ancient-greek-punishment-inversion-edition/info/>
+- _Chogue_. (With Jonathan Lessard.) July 2018. <http://www.pippinbarr.com/chogue/info/>
+- _It is as if you were making love_. June 2018. <http://www.pippinbarr.com/itisasifyouweremakinglove/info/>
+- _b r 1_. May 2018. <http://www.pippinbarr.com/b-r-1/info/>
+- _Tanks!?_. March 2018. <https://www.pippinbarr.com/tanks-exclamation-mark-question-mark/info/>
+- _Sibilant Snakelikes_. December 2017. <https://www.pippinbarr.com/sibilant-snakelikes/info/>
+- _It is as if you were doing work_. July 2017. <https://www.pippinbarr.com/itisasifyouweredoingwork/info/>
+- _Let's Play: Ancient Greek Punishment: CPU Edition!_. April 2017. <https://www.pippinbarr.com/letsplayancientgreekpunishmentcpuedition/info/>
+- _v r 3_. March 2017. <https://www.pippinbarr.com/v-r-3/info/>
+- _SNAKISMS_. January 2017. <https://www.pippinbarr.com/SNAKISMS/info/>
+- _Burnt Matches_. November 2016. <https://www.pippinbarr.com/burnt-matches/info/>
+- _It is as if you were playing chess_. August 2016. <http://www.pippinbarr.com/it-is-as-if-you-were-playing-chess/info/>
+- _Independence, Missouri_. July 2016. <https://www.pippinbarr.com/independence-missouri/info/>
+- _Game Studies_. (With Jonathan Lessard.) July 2016. <https://www.pippinbarr.com/game-studies/info/>
+- _Let's Play: Ancient Greek Punishment: Limited Edition!_. June 2016. <https://www.pippinbarr.com/lets-play-ancient-greek-punishment-limited-edition/info/>
+- _v r 2_. June 2016. <https://www.pippinbarr.com/v-r-2/info/>
+- _v r 1_. May 2016. <https://www.pippinbarr.com/v-r-1/info/>
+- _Post-Apocalyptic Abramovic Method Game_. April 2016. <https://www.pippinbarr.com/post-apocalyptic-abramovic-method-game/info/>
+- _Eveline_. March 2016. <https://www.pippinbarr.com/eveline/info/>
+- _Indie Bungle 2: Breakout Indies_. January 2016. <https://www.pippinbarr.com/indie-bungle-2-breakout-indies/info/>
+- _A Series of Gunshots_. November 2015. <https://www.pippinbarr.com/a-series-of-gunshots/info/>
+- _BREAKSOUT_. October 2015. <https://www.pippinbarr.com/breaksout/info/>
+- _Best Chess_. July 2015. <https://www.pippinbarr.com/best-chess/info/>
+- _REAL BAKU 2015_. June 2016. <https://www.pippinbarr.com/real-baku-2015/info/>
+- _The Stolen Art Gallery_. May 2016. <https://www.pippinbarr.com/the-stolen-art-gallery/info/>
+- _Let's Play: The Shining_. April 2016. <https://www.pippinbarr.com/lets-play-the-shining/info/>
+- _Jostle Parent_. April 2015. <https://www.pippinbarr.com/jostle-parent/info/>
+- _Sound System II_. March 2015. <https://www.pippinbarr.com/sound-system-ii/info/>
+- _What We Did_. (With Rilla Khaled.) February 2015. <https://www.pippinbarr.com/what-we-did/info/>
+- _Let's Play: Ancient Greek Punishment: Art Edition Edition!_. January 2015. <https://www.pippinbarr.com/lets-play-lets-play-ancient-greek-punishment-art-edition-edition/info/>
+- _Sound System I_. January 2015. <https://www.pippinbarr.com/sound-system-i/info/>
+- _MANIFEST_. September 2014. <https://www.pippinbarr.com/manifest/info/>
+- _Abramovic Method Games_. (With Marina Abramovic.) September 2014. <https://www.pippinbarr.com/abramovic-method-games/info/>
+- _Get X Avoid Y_. June 2014. <https://www.pippinbarr.com/get-x-avoid-y/info/>
+- _The Junior Mint_. May 2014. <https://www.pippinbarr.com/the-junior-mint/info/>
+- _Leaderboarder_. April 2014. <https://www.pippinbarr.com/leaderboarder/info/>
+- _Don't Drown_. April 2014. <https://www.pippinbarr.com/dont-drown/info/>
+- _Durations_. March 2014. <https://www.pippinbarr.com/durations/info/>
+- _Lo-Fi Dick Fight_. February 2014. <https://www.pippinbarr.com/lo-fi-dick-fight/info/>
+- _Drosophilia_. (With Gordon Calleja and Sidsel Hermansen.) January 2014. <https://www.pippinbarr.com/drosophilia/info/>
+- _Jostle Bastard_. November 2013. <https://www.pippinbarr.com/jostle-bastard/info/>
+- _The Digital Marina Abramovic Institute_. (With Marina Abramovic.) August 2013. <https://www.pippinbarr.com/the-digital-marina-abramovic-institute/info/>
+- _Snek._. June 2013. <https://www.pippinbarr.com/snek/info/>
+- _Mumble Indie Bungle_. April 2013.
+- _Art Game_. February 2013. <https://www.pippinbarr.com/art-game/info/>
+- _Kicker_. November 2012. <https://www.pippinbarr.com/kicker/info/>
+- _Ludwig Von Beatdown_. October 2012. <https://www.pippinbarr.com/ludwig-von-beatdown/info/>
+- _War Game_. June 2012. <https://www.pippinbarr.com/war-game/info/>
+- _Hot Coffee_. May 2012. <https://www.pippinbarr.com/hot-coffee/info/>
+- _PONGS_. April 2012. <https://www.pippinbarr.com/pongs/info/>
+- _Epic Sax Game_. March 2012. <https://www.pippinbarr.com/epic-sax-game/info/>
+- _Two-Player Breakout_. March 2012. <https://www.pippinbarr.com/two-player-breakout/info/>
+- _You Say Jump I Say How High_. January 2012. <https://www.pippinbarr.com/you-say-jump-i-say-how-high/info/>
+- _Let’s Play: Ancient Greek Punishment_. December 2011. <https://www.pippinbarr.com/lets-play-ancient-greek-punishment/info/>
+- _All's Well That Ends Well_. November 2011. <https://www.pippinbarr.com/alls-well-that-ends-well/info/>
+- _ZORBA_. November 2011. <https://www.pippinbarr.com/zorba/info/>
+- _Trolley Problem_. October 2011. <https://www.pippinbarr.com/trolley-problem/info/>
+- _The Artist Is Present_. September 2011. <https://www.pippinbarr.com/the-artist-is-present/info/>
+- _Safety Instructions_. August 2011. <https://www.pippinbarr.com/safety-instructions/info/>
+- _Let There Be Smite!_. July 2011. <https://www.pippinbarr.com/let-there-be-smite/info/>
+- _GuruQuest_. May 2011. <https://www.pippinbarr.com/guruquest/info/>
 
 My full portfolio of research-creation, including links to notable publicity and often a press kit, is available on my website at <https://www.pippinbarr.com>
 
 # Exhibitions and festivals
 
+1. Dizzy Spell. Buntport Theater. Denver, CO, USA. 8 - 22 July 2023 <http://dizzyspell.xyz/> (Featured A Series of Gunshots)
+1. Runaway Paradise: LET'S ENTERTAIN. Times Art Museum. Chongqing, China. 21 April - 23 July 2023 <https://mp.weixin.qq.com/s/Pi3E4JpO8ZysYPJZ1aP-gA> (Featured Jostle Parent, Sound System II, SNAKISMS)
+1. Voluntary Attempts to Overcome Necessary Obstacles. Elizabeth Foundation of the Arts Project Space. New York City, NY. 27 September - 29 October 2022. <https://essaygames.itch.io/va-catalog> (Featured Let's Play: Ancient Greek Punishment)
+1. Video Games: Art and Technology. Art Gallery of Grande Prairie. Grande Prairie, Alberta, Canada. <https://aggp.ca/exhibitions/video-games-art-and-technology> (Featured Let's Play: Ancient Greek Punishment)
 1. Playmode. Centro Cultural Banco do Brasil Belo Horizonte. Belo Horizonte, Brazil. 30 March - 6 June 2022. <https://ccbb.com.br/belo-horizonte/bh-programacao/playmode/> (Featured The Artist Is Present and Let's Play: Ancient Greek Punishment)
 1. Se voisiner - neighbouring. Produit Rien. Montréal, Canada. 25 March - 10 April 2022. <http://www.produitrien.com/index.html> (Featured the chalk drawing The museum that's just glad to be here)
 1. Working towards our own obsolescence. NeMe Arts Centre. Limassol, Cyprus. 18 June - 30 July 2021. <https://www.neme.org/projects/working-towards-our-own-obsolescence> (Featured It is as if you were doing work)
@@ -548,6 +560,7 @@ My full portfolio of research-creation, including links to notable publicity and
 
 # Selected media and publicity
 
+1. Allnutt, Chris. [Game developer Pippin Barr on pointless pursuits and the joy of queueing](https://www.ft.com/content/51f8a1c7-639b-4bda-b3c8-997b2b91e61f). Financial Times. 7 August 2023.
 1. [The Children’s Media Conference In Sheffield Launch the Ground-Breaking Interactive Digital Art Exhibition PLAYGROUND](https://thefancarpet.com/movie_news/the-childrens-media-conference-in-sheffield-is-a-game-changer-with-the-launch-of-ground-breaking-interactive-digital-art-exhibition-playground/). The Fan Carpet. 5 June 2019.
 1. Anabel, Aubrey. Playing with Feelings: Videogames and Affect. University of Minnesota Press. 2018.
 1. Whipple, Tom. [Exhibition review: Videogames — Design/Play/Disrupt at the V&A](https://www.thetimes.co.uk/article/exhibition-review-videogames-design-play-disrupt-atthev-a-8qllnsnt6). The Telegraph. 7 September 2018. (Includes mention of A Series of Gunshots.)
