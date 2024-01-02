@@ -161,6 +161,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Keynotes and invited talks
 
+1. Barr, P. [Humor, Tragedy, and the Human Condition with Pippin Barr](https://killscreen.com/product/12-6-pippin-barr-five-games/). In conversation with Jamin Warren. Killscreen. 6 December 2023.
 1. Barr, P. Up Close and Personal: Documenting Design with the Method for Design Materialization. Archive/Counter Archive Archival Aterlier Workshop Series. 4 May 2023. Online.
 1. Barr, P. Office Hours: Browser as a Playground w/ Pippin Barr. Rhizome. 30 March 2023. Online. [https://video.rhizome.org/w/vksC4RWqf54epd8voy7BKo](https://video.rhizome.org/w/vksC4RWqf54epd8voy7BKo)
 1. Barr, P. The Seagull and the Taj Mahal. Museums Without Walls Conference, Queen's University, Kingston, Ontario, Canada. 15-17 August 2022.
@@ -560,6 +561,7 @@ My full portfolio of research-creation, including links to notable publicity and
 
 # Selected media and publicity
 
+1. Hannah, G. My First Season. [Episode 15: Pointy Polygons and Pixelated Personas](https://www.myfirstseason.com/e/pointy-polygons-and-pixelated-personas/). 8 December 2023.
 1. Allnutt, Chris. [Game developer Pippin Barr on pointless pursuits and the joy of queueing](https://www.ft.com/content/51f8a1c7-639b-4bda-b3c8-997b2b91e61f). Financial Times. 7 August 2023.
 1. [The Children’s Media Conference In Sheffield Launch the Ground-Breaking Interactive Digital Art Exhibition PLAYGROUND](https://thefancarpet.com/movie_news/the-childrens-media-conference-in-sheffield-is-a-game-changer-with-the-launch-of-ground-breaking-interactive-digital-art-exhibition-playground/). The Fan Carpet. 5 June 2019.
 1. Anabel, Aubrey. Playing with Feelings: Videogames and Affect. University of Minnesota Press. 2018.
