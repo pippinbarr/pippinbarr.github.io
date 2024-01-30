@@ -1,12 +1,12 @@
 ---
 title: "GAMETHING, Season 7: noclip"
-date: 2023-09-26
-description: Season 7 of GAMETHING, my podcast with David Wolinsky, is about noclip! We're walking through walls!
+date: 2024-01-30
+description: Season 7 of GAMETHING, my podcast with David Wolinsky, is about noclip! Come walk through walls with us!
 listimage: images/gamething-season-7-icon.png
 draft: false
 parenthetical: "with David Wolinsky"
 link: "https://gamething.life"
-tags: ["inprogress", "project", "podcast"]
+tags: ["project", "podcast"]
 ---
 
 HOW ARE YOU EVEN SEEING THIS?
