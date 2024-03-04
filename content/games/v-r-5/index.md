@@ -1,6 +1,6 @@
 ---
 title: "v r 5"
-date: 2023-09-22
+date: 2024-03-03
 year: 2023
 description: "In praise of shadows."
 listimage: images/v-r-5-icon.png
