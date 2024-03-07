@@ -474,7 +474,8 @@ My full portfolio of research-creation, including links to notable publicity and
 
 # Exhibitions and festivals
 
-1. Now Play This. Somerset House, London, UK. 6 - 8 April 2024 <https://nowplaythis.net/> (Featured v r 5)
+1. Now Play This. Somerset House, London, UK. 6 - 8 April 2024. <https://nowplaythis.net/> (Featured v r 5)
+1. De la case au pixel. Musée Suisse de Jeu, La Tour-de-Peilz, Switzerland. 10 February 2024 - 6 January 2025. <https://museedujeu.ch/exposition/de-la-case-au-pixel/> (Featured Chesses)
 1. Dizzy Spell. Buntport Theater. Denver, CO, USA. 8 - 22 July 2023 <http://dizzyspell.xyz/> (Featured A Series of Gunshots)
 1. Runaway Paradise: LET'S ENTERTAIN. Times Art Museum. Chongqing, China. 21 April - 23 July 2023 <https://mp.weixin.qq.com/s/Pi3E4JpO8ZysYPJZ1aP-gA> (Featured Jostle Parent, Sound System II, SNAKISMS)
 1. Voluntary Attempts to Overcome Necessary Obstacles. Elizabeth Foundation of the Arts Project Space. New York City, NY. 27 September - 29 October 2022. <https://essaygames.itch.io/va-catalog> (Featured Let's Play: Ancient Greek Punishment)
