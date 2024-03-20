@@ -6,8 +6,7 @@ description: "Shadows! Flickering shadows! With hard edges! Or soft! Baked or re
 listimage: images/v-r-5-icon.png
 link: "https://www.pippinbarr.com/v-r-5/info/"
 draft: false
-tags: ["inprogress"]
-parenthetical: "in progress"
+tags: ["project"]
 ideas: ["shadows", "game engines", "art world", "v r"]
 platforms: ["browser", "mac", "windows"]
 tools: ["unity"]
