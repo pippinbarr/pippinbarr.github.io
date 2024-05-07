@@ -161,7 +161,10 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Keynotes and invited talks
 
+1. Barr, P. In Praise of Shadows: Reflections, Prototypes and Other Traces of Design. Texas A&M, Texas, USA. 23 April 2024.
+1. Barr, P. In Praise of Shadows: Reflections, Prototypes and Other Traces of Design. University of Utah, Utah, USA. 18 April 2024.
 1. Barr, P. [Humor, Tragedy, and the Human Condition with Pippin Barr](https://killscreen.com/product/12-6-pippin-barr-five-games/). In conversation with Jamin Warren. Killscreen. 6 December 2023.
+1. Barr, P. See Jack Design. Open for Community, Concordia University, Montreal, QC, Canada. 27 October 2023.
 1. Barr, P. Up Close and Personal: Documenting Design with the Method for Design Materialization. Archive/Counter Archive Archival Aterlier Workshop Series. 4 May 2023. Online.
 1. Barr, P. Office Hours: Browser as a Playground w/ Pippin Barr. Rhizome. 30 March 2023. Online. [https://video.rhizome.org/w/vksC4RWqf54epd8voy7BKo](https://video.rhizome.org/w/vksC4RWqf54epd8voy7BKo)
 1. Barr, P. The Seagull and the Taj Mahal. Museums Without Walls Conference, Queen's University, Kingston, Ontario, Canada. 15-17 August 2022.
@@ -217,7 +220,9 @@ Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research As
 
 # Events
 
-1. Facilitator. Making Worlds in Unity. Online workshop for Indigenous people in the Northwest Territories. 8 - 12 June 2020.
+1. Let's Prototype: Ancient Greek Punishment. Workshop at School of Performance, Visualization & Fine Arts, Texas A&M. 22 April 2024.
+1. Let's Prototype: Ancient Greek Punishment. Workshop at English Department, University of Utah. 19 April 2024.
+1. Making Worlds in Unity. Online workshop for Indigenous people in the Northwest Territories. 8 - 12 June 2020.
 1. Co-curator of ARCADE 11 at the 4th Space, part of Montréal Joue. 4 - 8  March 2019.
 1. Design lead. Skins 6.0 workshop for Indigenous game development. Honolulu, Hawai'i. 3 - 30 July 2018.
 1. Making Worlds in Unity. Online workshop for Indigenous people in the Northwest Territories. May 2018.
