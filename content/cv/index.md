@@ -161,6 +161,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Keynotes and invited talks
 
+1. Barr, p. Chasing Shadows: The true story of v r 5. ARTGAME Colloque. Centre NAD, Montréal, Canada/Université Paul-Valéry, Montpellier, France. 11-12 June 2024.
 1. Barr, P. In Praise of Shadows: Reflections, Prototypes and Other Traces of Design. Texas A&M, Texas, USA. 23 April 2024.
 1. Barr, P. In Praise of Shadows: Reflections, Prototypes and Other Traces of Design. University of Utah, Utah, USA. 18 April 2024.
 1. Barr, P. [Humor, Tragedy, and the Human Condition with Pippin Barr](https://killscreen.com/product/12-6-pippin-barr-five-games/). In conversation with Jamin Warren. Killscreen. 6 December 2023.
