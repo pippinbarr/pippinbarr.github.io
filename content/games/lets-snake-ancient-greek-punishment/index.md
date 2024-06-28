@@ -1,6 +1,6 @@
 ---
-title: "SNAKISMS"
-date: 2023-06-28
+title: "Let's Snake: Ancient Greek Punishment"
+date: 2024-06-28
 year: 2024
 description: You can do it Sssisssyphusss! Be the boulder! Keep on rollin’! Don’t ssstop! Never give up! No retreat! No sssurrender! No end in sssight! Just deliciousss Greek torment asss far asss the eye can sssee and asss fassst asss the fingersss can type!
 listimage: images/lets-snake-ancient-greek-punishment-icon.png
