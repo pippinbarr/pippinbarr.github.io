@@ -10,6 +10,7 @@ tags: ["inprogress"]
 ideas: ["variations"]
 platforms: ["browser"]
 tools: ["p5"]
+parenthetical: In development
 ---
 
 ## {{<param title >}}
