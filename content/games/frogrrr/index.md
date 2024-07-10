@@ -6,7 +6,7 @@ description: ...!
 listimage: images/frogrrr-icon.png
 link: "https://www.pippinbarr.com/frogrrr/info/"
 draft: false
-tags: ["project", "inprogress"]
+tags: ["inprogress"]
 ideas: ["variations"]
 platforms: ["browser"]
 tools: ["p5"]
