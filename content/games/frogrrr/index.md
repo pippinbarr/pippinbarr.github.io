@@ -1,10 +1,10 @@
 ---
-title: "FROGRRR"
+title: "FrogsFrogsFrogs"
 date: 2024-07-10
 year: 2024
 description: ...!
-listimage: images/frogrrr-icon.png
-link: "https://www.pippinbarr.com/frogrrr/info/"
+listimage: images/frogsfrogsfrogs-icon.png
+link: "https://www.pippinbarr.com/frogsfrogsfrogs/info/"
 draft: false
 tags: ["inprogress"]
 ideas: ["variations"]
