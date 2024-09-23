@@ -95,6 +95,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ### Journals
 
+1. Bethancourt, M. and Barr, P. (2024) Experiments in Soundwalks for Video Games. _Sonic Ideas_, 32. 2024. 90-97. <https://www.cmmas.com/en/sonicideas>
 1. Khaled, R. and Barr, P. (2023) Generative Logics and Conceptual Clicks: A Case Study of the Method for Design Materialization. _Design Issues_, _39_(1), 55–69. <https://doi.org/10.1162/desi_a_00706>
 1. Barr, P. Film Adaptation as Experimental Game Design. Arts 9:4. 2020. <https://doi.org/10.3390/arts9040103>
 1. Barr, P. Permadeath: Speedrun. Well Played Journal, 6:1, 2017.
