@@ -104,6 +104,8 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ### Conference Proceedings
 
+1. Khaled, R. and Barr, P. A Method for Design Materialization: Accountable Game Design Research. Digital Games Research Association (DiGRA) Conference 2023. Seville, Spain. 19-23 June 2023.
+1. Sicart, M., Simon, B., Khaled, R., Barr, P., Boluk, S., and LeMieux, P. Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research Association (DiGRA) Conference 2023. Seville, Spain. 19-23 June 2023.
 1. Khaled, R., Lessard, J., and Barr, P. Documenting Trajectories in Design Space: A Methodology for Applied Game Design Research. In the Proceedings of Foundations of Digital Games (FDG) 2018. 2018.
 1. Khaled, R., Nelson, M., and Barr, P. Design Metaphors for Procedural Content Generation in Games (full paper). In the Proceedings of CHI '13, 2013.
 1. Khaled, R., Barr, P., Greenspan, B., and Biddle, R. StoryTrek: Experiencing Stories in the Real World (full paper). In the Proceedings of MindTrek '11, 2011.
@@ -162,12 +164,13 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Keynotes and invited talks
 
-1. Barr, p. Chasing Shadows: The true story of v r 5. ARTGAME Colloque. Centre NAD, Montréal, Canada/Université Paul-Valéry, Montpellier, France. 11-12 June 2024.
+1. Barr, P. It is as if you were making videogames. Master class for the REPLAY European Masters Program. Lisbon, Portugal. 16 October 2024. (Online)
+1. Barr, P. Chasing Shadows: The true story of v r 5. ARTGAME Colloque. Centre NAD, Montréal, Canada/Université Paul-Valéry, Montpellier, France. 11-12 June 2024.
 1. Barr, P. In Praise of Shadows: Reflections, Prototypes and Other Traces of Design. Texas A&M, Texas, USA. 23 April 2024.
 1. Barr, P. In Praise of Shadows: Reflections, Prototypes and Other Traces of Design. University of Utah, Utah, USA. 18 April 2024.
 1. Barr, P. [Humor, Tragedy, and the Human Condition with Pippin Barr](https://killscreen.com/product/12-6-pippin-barr-five-games/). In conversation with Jamin Warren. Killscreen. 6 December 2023.
 1. Barr, P. See Jack Design. Open for Community, Concordia University, Montreal, QC, Canada. 27 October 2023.
-1. Barr, P. Up Close and Personal: Documenting Design with the Method for Design Materialization. Archive/Counter Archive Archival Aterlier Workshop Series. 4 May 2023. Online.
+1. Barr, P. Up Close and Personal: Documenting Design with the Method for Design Materialization. Archive/Counter Archive Archival Atelier Workshop Series. 4 May 2023. Online.
 1. Barr, P. Office Hours: Browser as a Playground w/ Pippin Barr. Rhizome. 30 March 2023. Online. [https://video.rhizome.org/w/vksC4RWqf54epd8voy7BKo](https://video.rhizome.org/w/vksC4RWqf54epd8voy7BKo)
 1. Barr, P. The Seagull and the Taj Mahal. Museums Without Walls Conference, Queen's University, Kingston, Ontario, Canada. 15-17 August 2022.
 1. Barr, P. PLAY-PRODUCTION-ROUTINE. Department of Architecture, ETH Zurich. 11 March 2022. Online.
@@ -267,17 +270,25 @@ Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research As
 
 ### Primary supervisor
 
-- Rowena Chodkowski. HUMA Ph.D. Started Winter 2022.
-- Matthew Bethancourt. INDI Ph.D. Starting Fall 2022.
-- Cyrus Lognonné. M.Des. Completed 2021.
+- Rowena Chodkowski. HUMA Ph.D., started 2022.
+- Matthew Bethancourt. INDI Ph.D., started 2022.
+- Teague Riordon, MDes, starting 2022
+- Junior Vigneault, MDes, started 2023
+- Alexandre Franchi, MDes, completed 2023
+- Cyrus Lognonné, MDes, completed 2021.
 
 ### Committee member
 
-- Waylon Wilson. M.Des.
-- Naomi Joanis. M.Des.
-- Enric Llagostera. INDI Ph.D.
-- Courtney Blamey. Communication Studies Ph.D.
-- Abbie Rappaport. INDI MA. Completed May 2020.
+- Courtney Blamey, HUMA PhD
+- Leonardo Abate, INDI PhD
+- Dimana Radoeva, INDI MA
+- Enric Llagostera, INDI PhD, completed 2024
+- Naomi Joanis, MDes, completed 2023
+- Antoine Beauchesne, MDes, completed 2023
+- Hosna Salimi, MDes, completed 2023
+- Timothy Thomasson, MDes, completed 2023
+- Waylon Wilson, MDes, completed 2020.
+- Abbie Rappaport. INDI MA. Completed 2020.
 
 ## Ph.D. Directed Studies
 
@@ -314,13 +325,16 @@ Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research As
 
 ## Departmental service
 
-- **Ubisoft Game Lab Competition Co-ordinator**. Department of Design and Computation Arts, Concordia University. 2019 - 2022.
-- **Undergraduate Program Director**. Department of Design and Computation Arts, Concordia University. 2018 – 2022.
-- **Coop Academic Director**. Department of Design and Computation Arts, Concordia University. 2016 – 2022.
-- **Departmental Web Committee**. Department of Design and Computation Arts, Concordia University. 2016 - present.
+- **Ubisoft Game Lab Competition Co-ordinator**. Department of Design and Computation Arts, Concordia University. 2019-2022.
+- **Undergraduate Program Director**. Department of Design and Computation Arts, Concordia University. 2018–2022.
+- **Coop Academic Director**. Department of Design and Computation Arts, Concordia University. 2016–2022.
+- **Departmental Web Committee**. Department of Design and Computation Arts, Concordia University. 2016-present.
 - **Undergraduate Award Jury**. Department of Design and Computation Arts, Concordia University. 2020.
-- **Department Personnel Committee**. Department of Design and Computation Arts, Concordia University. 2021 – 2022.
-- **Department Chair**. Department of Design and Computation Arts, Concordia University. 2023 – present.
+- **Department Personnel Committee**. Department of Design and Computation Arts, Concordia University. 2021–2022.
+- **Department Chair**. Department of Design and Computation Arts, Concordia University. 2023–2026
+- **Computation Arts Curriculum Committee**. Department of Design and Computation Arts, Concordia University. 2016–present.
+- **Decolonization and Indigenization Committee**, Department of Design and Computation Arts. 2023–present.
+- **Departmental Web Master**, Department of Design and Computation Arts, 2018–present.
 
 ## Faculty service
 
@@ -343,24 +357,26 @@ Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research As
 
 ### Academic
 
-- Reviewer for Game Studies Journal. 2020 – present.
-- Reviewer for Interacting with Computers Journal. 2016 - present.
-- Reviewer for Digital Games Research Association (DiGRA) Conference. 2016 – present.
-- Reviewer for Foundations of Digital Games (FDG) Conference. 2012, 2015 – present.
+-	Reviewer, Design of Interactive Systems (DIS) Conference, 2024
+-	Reviewer, International Conference on Interactive Digital Storytelling (ICIDS), 2022
+- Reviewer for Game Studies Journal. 2020–present.
+- Reviewer for Interacting with Computers Journal. 2016-present.
+- Reviewer for Digital Games Research Association (DiGRA) Conference. 2016–present.
+- Reviewer for Foundations of Digital Games (FDG) Conference. 2012, 2015–present.
 - Ph.D. examiner for Alexander Julian Muscat. Royal Melbourne Institute of Technology (RMIT), Melbourne, Australia. 2018.
 - Reviewer for International Conference on Human-Computer Interaction (INTERACT). 2017.
 - Game Competition Track Chair for Foundations of Digital Games (FDG) Conference. 2017.
-- Reviewer for Human Factors in Computing System (CHI) Conference. 2015 – 2017.
-- Reviewer for CHI PLAY Conference. 2014 – 2015.
-- Reviewer for Experimental AI in Games (EXAG) Conference. 2014 – 2015.
+- Reviewer for Human Factors in Computing System (CHI) Conference. 2015–2017.
+- Reviewer for CHI PLAY Conference. 2014–2015.
+- Reviewer for Experimental AI in Games (EXAG) Conference. 2014–2015.
 
 ### Game design
 
 - Jury member for the GAMERella Game Jam. 2021.
-- International Choice Awards Network Member. 2018 – present.
-- Jury member for IndieCade. 2014 – 2019, 2022.
-- Judge for Independent Games Festival (IGF). 2013 – present.
-- Nuovo Award and Grand Prize Juror for Independent Games Festival (IGF). 2013 – 2015, 2017 - 2019, 2021-2022.
+- International Choice Awards Network Member. 2018–present.
+- Jury member for IndieCade. 2014–2019, 2022.
+- Judge for Independent Games Festival (IGF). 2013–present.
+- Nuovo Award and Grand Prize Juror for Independent Games Festival (IGF). 2013–2015, 2017-2019, 2021–present.
 - Jury member for the Global Game Jam at the Technoculture, Art and Games (TAG) Research Centre. 2016, 2018, 2019.
 - A MAZE / Berlin. Awards jury, A MAZE / Berlin. 2014.
 
@@ -391,6 +407,8 @@ Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research As
 
 ## Videogames
 
+- _Let's Snake: Ancient Greek Punishment_. 28 June 2024. <https://pippinbarr.com/lets-snake-ancient-greek-punishment/info/>
+- _v r 5_. 20 March 2024. <https://pippinbarr.com/v-r-5/info/>
 - _Staring Contest_. With Google Arts and Culture. 21 September 2023. <https://artsandculture.google.com/experiment/bQGm5oTJscGf_w>
 - _Artot_. With Google Arts and Culture. 21 September 2023. <https://artsandculture.google.com/experiment/uAG3u5XL9av55A>
 - _Super Mario Nothing_. 11 August 2023. <https://pippinbarr.com/super-mario-nothing/info/>
