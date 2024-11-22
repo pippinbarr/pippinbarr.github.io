@@ -345,6 +345,8 @@ Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research As
 
 ## University service
 
+- **Joint Equity Committee**. Concordia University. 2024–2027.
+- **Strategic Enrolment Management Steering Committee**. Concordia University. 2024-ongoing.
 - **Associate Director of Technoculture, Art, and Games (TAG) Research Centre**. 2017 – 2019, 2019 - 2022.
   Concordia University
 - **Interim Director of Technoculture, Art, and Games (TAG) Research Centre**. 2019.
