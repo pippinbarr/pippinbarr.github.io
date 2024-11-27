@@ -501,8 +501,7 @@ My full portfolio of research-creation, including links to notable publicity and
 
 # Exhibitions and festivals
 
-1. Famous Fifty. Städtische Galerie
-Wolfsburg, Wolfsburg, Germany. 20 October 2024. <https://www.staedtische-galerie-wolfsburg.de/ausstellungen#famous-fifty>
+1. Famous Fifty. Städtische Galerie Wolfsburg, Wolfsburg, Germany. 20 October 2024. <https://www.staedtische-galerie-wolfsburg.de/ausstellungen#famous-fifty>
 1. Now Play This. Somerset House, London, UK. 6 - 8 April 2024. <https://nowplaythis.net/> (Featured v r 5)
 1. De la case au pixel. Musée Suisse de Jeu, La Tour-de-Peilz, Switzerland. 10 February 2024 - 6 January 2025. <https://museedujeu.ch/exposition/de-la-case-au-pixel/> (Featured Chesses)
 1. Dizzy Spell. Buntport Theater. Denver, CO, USA. 8 - 22 July 2023 <http://dizzyspell.xyz/> (Featured A Series of Gunshots)
