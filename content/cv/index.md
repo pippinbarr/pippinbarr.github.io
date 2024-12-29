@@ -374,6 +374,7 @@ Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research As
 
 ### Game design
 
+- Mentor for CPH:LAB team "Dioramas of the Unused". Part of CPH:DOX. 2024-2025.
 - Jury member for the GAMERella Game Jam. 2021.
 - International Choice Awards Network Member. 2018–present.
 - Jury member for IndieCade. 2014–2019, 2022.
@@ -501,6 +502,7 @@ My full portfolio of research-creation, including links to notable publicity and
 
 # Exhibitions and festivals
 
+1. Chronique: Biennale des Imaginaire Numériques. Medialab. Marseilles, France. 25 December 2024 – 6 January 2025. <https://chroniques-biennale.org/event/entrez-libres-faites-le-plein-de-dopamine-4/> (Featured Let's Play: Ancient Greek Punishment and Let's Play: Ancient Greek Punishment: Inversion Edition)
 1. Famous Fifty. Städtische Galerie Wolfsburg, Wolfsburg, Germany. 20 October 2024. <https://www.staedtische-galerie-wolfsburg.de/ausstellungen#famous-fifty>
 1. Now Play This. Somerset House, London, UK. 6 - 8 April 2024. <https://nowplaythis.net/> (Featured v r 5)
 1. De la case au pixel. Musée Suisse de Jeu, La Tour-de-Peilz, Switzerland. 10 February 2024 - 6 January 2025. <https://museedujeu.ch/exposition/de-la-case-au-pixel/> (Featured Chesses)
