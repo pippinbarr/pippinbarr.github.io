@@ -1,7 +1,7 @@
 <!-- Get the link -->
 {{ $link := .RelPermalink }}
 {{ if isset .Params "link" }}
-  {{ $link = .Params.Link }}
+{{ $link = .Params.Link }}
 {{ end }}
 
 <!-- Display the item -->
@@ -16,19 +16,19 @@
   <div class="list-text">
 
     <!-- First the title -->
-    <a class="list-item-title" href="{{ $link }}">{{ .Title | safeHTML }}</a>
+    <a class="list-item-title" href="{{ $link }}">{{ .Title | safeHTML }}</a> ({{ .Params.Year }})
 
     <!-- Include a parenthetical if one is set -->
     {{if (isset .Params "parenthetical")}}
-    <br/>
+    <br />
     <span class="parenthetical">({{ .Params.parenthetical | markdownify }})</span>
     {{end}}
 
     <!-- Include a warning if one is set (for games mostly) -->
     {{if (isset .Params "warning")}}
-      <p>
-        <span class="warning">{{ .Params.Warning }}</span>
-      </p>
+    <p>
+      <span class="warning">{{ .Params.Warning }}</span>
+    </p>
     {{end}}
 
     <!-- Finally the description -->
