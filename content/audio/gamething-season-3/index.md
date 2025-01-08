@@ -1,6 +1,7 @@
 ---
 title: "GAMETHING, Season 3: Simulators"
 date: 2023-01-17
+year: 2023
 description: Season 3 of GAMETHING, my podcast with David Wolinsky, is about simulator games! We exchanged answering machine messages about games like *Alter Ego*, *BeamNG.drive*, and *WolfQuest*!
 listimage: images/gamething-season-3-icon.png
 draft: false

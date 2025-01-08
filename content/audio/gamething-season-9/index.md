@@ -1,9 +1,9 @@
 ---
 title: "GAMETHING, Season 8: Photography"
-date: 2024-01-30
+date: 2024-12-31
 year: 2024
-description: Season 8 of GAMETHING, my podcast with David Wolinsky, is about photography! Why don't we take a picture, it'll last longer.
-listimage: images/gamething-season-8-icon.png
+description: Season 9 of GAMETHING, my podcast with David Wolinsky, is about adaptations! This is that.
+listimage: images/gamething-season-9-icon.png
 draft: false
 parenthetical: "with David Wolinsky"
 link: "https://gamething.life"

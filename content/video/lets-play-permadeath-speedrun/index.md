@@ -1,6 +1,7 @@
 ---
 title: "Let's Play Permadeath Speedrun"
 date: 2019-05-14
+year: 2019
 description: "A permadeath speedrun is a playing of a game in which you try to die as quickly as possible. It's a way of refocusing your attention on a game's affordances and systems of progression as well as its representation and handling of death."
 draft: false
 listimage: images/vvvvvv-death.png

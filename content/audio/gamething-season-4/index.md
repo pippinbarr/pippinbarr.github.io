@@ -1,6 +1,7 @@
 ---
 title: "GAMETHING, Season 4: Horror"
 date: 2023-03-21
+year: 2023
 description: Season 4 of GAMETHING, my podcast with David Wolinsky, is about horror games! We're exchanging answering machine messages about games like *Alone in the Dark*, *Anatomy*, and *Who's Lila?*!
 listimage: images/gamething-season-4-icon.png
 draft: false
