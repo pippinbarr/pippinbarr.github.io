@@ -10,4 +10,4 @@ link: "https://gamething.life"
 tags: ["project", "podcast"]
 ---
 
-HOW ARE YOU EVEN SEEING THIS?
+Season 5 of GAMETHING, my podcast with David Wolinsky, is about coding and computational thinking in games! We exchanged answering machine messages about games like *SHENZHEN I/O*, *One Dreamer*, and *Quadrilateral Cowboy*!

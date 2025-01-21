@@ -26,20 +26,24 @@ theme = "pippinbarr"
     url = "/games/"
     weight = 3
   [[menu.main]]
+    name = "Words"
+    url = "/words/"
+    weight = 4
+  [[menu.main]]
     name = "Books"
     url = "/books/"
-    weight = 4
+    weight = 5
   [[menu.main]]
     name = "Podcast"
     url = "/audio/"
-    weight = 5
+    weight = 6
   [[menu.main]]
     name = "Video"
     url = "/video/"
-    weight = 6
+    weight = 7
 
 [outputs]
-  section = ["html","json"]
+  section = ["html","rss"]
 
 [markup]
   [markup.goldmark]

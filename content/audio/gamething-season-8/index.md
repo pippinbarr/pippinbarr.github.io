@@ -10,4 +10,4 @@ link: "https://gamething.life"
 tags: ["project", "podcast"]
 ---
 
-HOW ARE YOU EVEN SEEING THIS?
+Season 8 of GAMETHING, my podcast with David Wolinsky, is about photography! Why don't we take a picture, it'll last longer.

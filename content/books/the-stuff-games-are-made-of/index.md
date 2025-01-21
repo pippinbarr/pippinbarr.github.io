@@ -12,5 +12,3 @@ tags: ["book", "project" ]
 ## *The Stuff Games Are Made Of* by Pippin Barr
 
 {{< markdownified_param description >}}
-
-All going to plan, the book should be available in the first half of 2023.

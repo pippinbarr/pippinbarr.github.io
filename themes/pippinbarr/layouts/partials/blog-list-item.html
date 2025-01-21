@@ -1,0 +1,15 @@
+<!-- Get the link -->
+{{ $link := .RelPermalink }}
+{{ if isset .Params "link" }}
+{{ $link = .Params.Link }}
+{{ end }}
+
+<!-- Display the item -->
+<div class="blog-item">
+  <!-- Now the associated text -->
+  <div class="blog-list-text">
+    <!-- First the title -->
+    <a class="blog-list-item-title" href="{{ $link }}">{{ .Title | safeHTML }}</a> ({{ .Date.Format "2 January 2006" }})
+
+  </div>
+</div>

@@ -115,6 +115,30 @@ div.list-text {
   flex: 1 1 65%;
 }
 
+
+/* Blog */
+
+.blog-list {
+  display: grid;
+  grid-template-columns: 100%;
+  gap: 1em;
+}
+
+.blog-item {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 1em;
+  width: 100%;
+}
+
+.blog-list-item-title {
+  font-size: 1.25em;
+}
+
+div.blog-list-text {
+  flex: 1 1 65%;
+}
+
 /* Images */
 
 img {

@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<div class="regular">
+
+  <h2>... words... words...</h2>
+
+  <!-- List the posts -->
+  <div class="blog-list">
+    {{ range .Pages.GroupByDate "2006" }}
+    <h3>{{ .Key }}</h3>
+    {{ range .Pages.ByPublishDate.Reverse }}
+    {{ partial "blog-list-item.html" .}}
+    {{ end }}
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}

@@ -10,4 +10,4 @@ link: "https://gamething.life"
 tags: ["project", "podcast"]
 ---
 
-HOW ARE YOU EVEN SEEING THIS?
+Season 4 of GAMETHING, my podcast with David Wolinsky, is about horror games! We're exchanging answering machine messages about games like *Alone in the Dark*, *Anatomy*, and *Who's Lila?*!
