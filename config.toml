@@ -42,9 +42,6 @@ theme = "pippinbarr"
     url = "/video/"
     weight = 7
 
-[outputs]
-  section = ["html","rss"]
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
