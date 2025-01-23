@@ -7,7 +7,7 @@ tags: ["words", "videogame"]
 
 # Mouthwashing's lipless mouth (2025-01-23)
 
-![Captain Curly from Mouthwashing lying in the medical bay](./images/mouthwashing.png)
+![Captain Curly from Mouthwashing lying in the medical bay](/images/mouthwashing-captain-curly.png)
 
 Rilla and I have been playing [*Mouthwashing*](https://www.wrongorgan.com/) on and off for the last while. It's not a long game, we just have drifted in and out of consciousness of it. Haven't finished it, but it's essentially a horror-in-space kind of experience, but horror in the more existential senses, no scrambling away from monsters in the ducts (yet). More of the "you are the monster in the *ducts of your own mind*" style of horror.
 
