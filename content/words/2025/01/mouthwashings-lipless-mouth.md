@@ -1,5 +1,5 @@
 ---
-title: Mouthwashing
+title: Mouthwashing's lipless mouth
 date: 2025-01-23
 draft: false
 tags: ["words", "videogame"]
