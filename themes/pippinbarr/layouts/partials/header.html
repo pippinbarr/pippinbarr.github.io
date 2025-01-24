@@ -1,17 +1,17 @@
-<div class="nav-wrapper">
+<div id="nav-wrapper">
   <div class="main-nav">
-  {{ $current := . }}
-  {{ range $index, $element := .Site.Menus.main }}
+    {{ $current := . }}
+    {{ range $index, $element := .Site.Menus.main }}
     {{ $class := "" }}
     {{ if eq $current.RelPermalink .URL }}
     {{ $class = "current" }}
     {{ else if and (ne $current.RelPermalink .URL) (eq $current.CurrentSection.RelPermalink .URL)}}
     {{ $class = "current" }}
-  {{ end }}
+    {{ end }}
 
 
-  <a href="{{ .URL }}" class="{{ $class }}">{{ $item := print .Name | safeHTML }}{{ $item }}</a>,
-  {{ end }}
+    <a href="{{ .URL }}" class="{{ $class }}">{{ $item := print .Name | safeHTML }}{{ $item }}</a>,
+    {{ end }}
   </div>
-  </div>
-  <div class="post-nav-spacer"></div>
+</div>
+<div class="post-nav-spacer"></div>
