@@ -32,12 +32,13 @@ li {
   /* height: 3em; */
 }
 
-.nav-wrapper {
+#nav-wrapper {
   top: 0;
   position: sticky;
   padding-top: 0.5em;
-  /* padding-bottom: 0.5em; */
+  padding-bottom: 0.5em;
   background-color: var(--background);
+  font-size: 1em;
 }
 
 .main-nav {
@@ -142,10 +143,10 @@ div.blog-list-text {
 /* Images */
 
 img {
-  width: auto;
-  height: 100%;
-  max-height: 60vh;
-  max-width: 100%;
+  width: 100%;
+  height: auto;
+  /* max-height: 60vh; */
+  /* max-width: 100%; */
 }
 
 div.list-image img {
@@ -235,38 +236,4 @@ div.list-image img {
   background-color: white;
   border: none;
   font-size: 1em;
-}
-
-/* Funny stuff */
-
-.skewer {
-  animation-name: skewAnim;
-  animation-duration: 10s;
-  animation-iteration-count: infinite;
-}
-
-@keyframes skewAnim {
-  from {
-    transform: skewX(0deg)
-  }
-
-  to {
-    transform: skewX(360deg)
-  }
-}
-
-.rotater {
-  animation-name: rotateAnim;
-  animation-duration: 10s;
-  animation-iteration-count: infinite;
-}
-
-@keyframes rotateAnim {
-  from {
-    transform: rotate(0deg)
-  }
-
-  to {
-    transform: rotate(-360deg)
-  }
 }
