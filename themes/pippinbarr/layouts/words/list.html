@@ -6,12 +6,23 @@
 
   <!-- List the posts -->
   <div class="blog-list">
-    {{ range .Pages.GroupByDate "2006" }}
+    {{ range .Pages.GroupByDate " January 2006" }}
     <h3>{{ .Key }}</h3>
     {{ range .Pages.ByPublishDate.Reverse }}
     {{ partial "blog-list-item.html" .}}
     {{ end }}
     {{ end }}
+
+    <!-- <ul>
+      {{ range (.Paginate (.Data.Pages.GroupByDate "2006 January")).PageGroups }}
+      {{.Key}}
+      {{ range .Pages }}
+      <li><a class="title" href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+      {{ end }}
+    </ul>
+
+    {{ template "_internal/pagination.html" . }} -->
   </div>
 </div>
 

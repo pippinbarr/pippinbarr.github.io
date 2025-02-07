@@ -5,8 +5,6 @@ draft: false
 tags: ["words", "unity", "3D", "art"]
 ---
 
-# Dead Man in the Bag (2025-02-05)
-
 ![](/images/blog/dead-man-in-the-bag.png)
 
 [Dead Man in the Bag](https://assetstore.unity.com/packages/3d/environments/industrial/dead-man-in-the-bag-79484) is a 3D model of a body bag with a body in it. Toes, thighs, stomach, chest, chin, and nose push up the black plastic. A closed zipper across the top makes sure you can't see inside, keeping the the dead man a mystery. He's made of 961 vertices and 4 textures.

@@ -5,8 +5,6 @@ draft: false
 tags: ["words"]
 ---
 
-# Timpani (2025-01-21)
-
 What's that thing people write in their blog and then never return again? I feel like Cory Archangel made a project out of it. Someone like that. Anyway, the point is that people start a blog full of determination and wonder at their own bravery, and then quite understandably never return.
 
 And so it shall probably be with me, though I at least have the sunk cost of about an hour of working with [Hugo](https://gohugo.io/) to try to make it at least somewhat passably useable both in the back end and the front end, so that might give me at least a week of runway? What if I were to add recurring to-dos? What about adding it to my burgeoning habit tracker? How about I make my life miserable as a way to write more? They say the greatest writing comes out of tragedy and sadness, right?

@@ -5,8 +5,6 @@ draft: false
 tags: ["words", "ai"]
 ---
 
-# My Evil Twin (2025-01-28)
-
 ![Hovering the Gemini icon in Google docs](/images/blog/my-evil-twin.png)
 
 I happened to run into Google's Gemini the other day. I was about to start work on a recommendation letter for an ex-student who was applying for a professor job at a university in Montréal. I was prepping myself to get into that specific kind of writing mode when I saw the little star icon at the top right and hovered it to find out it was Google's AI.
