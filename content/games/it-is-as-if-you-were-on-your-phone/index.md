@@ -10,7 +10,7 @@ tags: ["inprogress"]
 ideas: ["speculative play", "user interface"]
 platforms: ["mobile"]
 tools: ["p5"]
-parenthetical: In development
+parenthetical: (For phones only)
 ---
 
 ## {{<param title >}}
