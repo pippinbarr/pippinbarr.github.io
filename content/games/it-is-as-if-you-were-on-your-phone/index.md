@@ -10,7 +10,7 @@ tags: ["project"]
 ideas: ["speculative play", "user interface"]
 platforms: ["mobile"]
 tools: ["p5"]
-parenthetical: (For phones only)
+parenthetical: For phones only
 ---
 
 ## {{<param title >}}
