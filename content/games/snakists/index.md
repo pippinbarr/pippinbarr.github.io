@@ -10,6 +10,7 @@ tags: ["inprogress"]
 ideas: ["variations", "adaptation", "snake", "philosophy"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]
+parenthetical: "in progress"
 ---
 
 ## {{<param title >}}
