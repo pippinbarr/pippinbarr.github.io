@@ -6,7 +6,7 @@ description: Ists
 listimage: images/snakists-icon.png
 link: "https://www.pippinbarr.com/SNAKISTS/info/"
 draft: false
-tags: ["project", "inprogress"]
+tags: ["inprogress"]
 ideas: ["variations", "adaptation", "snake", "philosophy"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]
