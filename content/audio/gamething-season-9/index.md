@@ -10,4 +10,4 @@ link: "https://gamething.life"
 tags: ["project", "podcast"]
 ---
 
-Season 9 of GAMETHING, my podcast with David Wolinsky, is about adaptations! This is that...
+Season 9 of GAMETHING, my podcast with David Wolinsky, is about adaptations! This is that.
