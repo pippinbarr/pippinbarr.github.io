@@ -7,7 +7,7 @@ listimage: images/gamething-season-10-icon.png
 draft: false
 parenthetical: "with David Wolinsky"
 link: "https://gamething.life"
-tags: ["inprogress", "podcast"]
+tags: ["project", "podcast"]
 ---
 
 Season 10 of GAMETHING, my podcast with David Wolinsky, is about the Independent Games Festival's Nuovo Award! Shock of the new.
