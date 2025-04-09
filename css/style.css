@@ -146,7 +146,7 @@ img {
   width: auto;
   height: auto;
   max-height: 90vh;
-  /* max-width: 100%; */
+  max-width: 100%;
 }
 
 div.list-image img {
