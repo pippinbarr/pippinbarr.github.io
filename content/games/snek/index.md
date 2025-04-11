@@ -7,7 +7,7 @@ listimage: /images/snek-icon.png
 link: "https://pippinbarr.github.io/snek/info/"
 draft: false
 tags: ["project"]
-ideas: ["music", "variations"]
+ideas: ["music", "variations", "snake"]
 platforms: ["ios"]
 tools: ["kobold2d"]
 warning: "This project fell out of date on Apple's App Store and is no longer available."

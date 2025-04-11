@@ -7,7 +7,7 @@ listimage: images/sibilant-snakelikes-icon.png
 link: "https://pippinbarr.github.io/sibilant-snakelikes/info/"
 draft: false
 tags: ["project"]
-ideas: ["variations", "hybrid"]
+ideas: ["variations", "hybrid", "snake"]
 platforms: ["browser"]
 tools: ["phaser"]
 ---

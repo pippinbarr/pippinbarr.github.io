@@ -7,7 +7,7 @@ listimage: images/lets-snake-ancient-greek-punishment-icon.png
 link: "https://www.pippinbarr.com/lets-snake-ancient-greek-punishment/info/"
 draft: false
 tags: ["project"]
-ideas: ["variations", "adaptation", "ancient greek punishment", "philosophy"]
+ideas: ["variations", "adaptation", "ancient greek punishment", "philosophy", "snake"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]
 ---

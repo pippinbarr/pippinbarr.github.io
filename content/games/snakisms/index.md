@@ -7,7 +7,7 @@ listimage: images/snakisms-icon.png
 link: "https://www.pippinbarr.com/SNAKISMS/info/"
 draft: false
 tags: ["project", "top five"]
-ideas: ["variations", "adaptation", "philosophy"]
+ideas: ["variations", "adaptation", "philosophy", "snake"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]
 ---
