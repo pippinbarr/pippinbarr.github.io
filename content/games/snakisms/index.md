@@ -10,7 +10,6 @@ tags: ["project", "top five"]
 ideas: ["variations", "adaptation", "philosophy", "snake"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]
-parenthetical: "in progress"
 ---
 
 ## {{<param title >}}

@@ -10,6 +10,7 @@ tags: ["project", "inprogress"]
 ideas: ["text adventure", "it is as if"]
 platforms: ["browser"]
 tools: ["javascript"]
+parenthetical: "in progress"
 ---
 
 ## {{<param title >}}
