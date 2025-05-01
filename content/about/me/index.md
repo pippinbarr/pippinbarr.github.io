@@ -5,7 +5,7 @@ description: ""
 draft: false
 ---
 
-{{< figure src="images/pippin-on-google-street-view.png" >}}
+{{< figure src="images/pippin-in-blender.png" >}}
 
 Hi, I'm Pippin. I make [games](/games/). I'm on [Twitter](https://www.twitter.com/pippinbarr), [Instagram](https://www.instagram/pippinbarr), [Email](mailto:pippin.barr@gmail.com), and I even have an incredibly unreliable [Newsletter](https://tinyletter.com/pippinbarr).
 
