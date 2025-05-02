@@ -7,7 +7,7 @@ draft: false
 
 {{< figure src="images/pippin-in-blender.png" >}}
 
-Hi, I'm Pippin. I make [games](/games/). I'm on [Twitter](https://www.twitter.com/pippinbarr), [Instagram](https://www.instagram/pippinbarr), [Email](mailto:pippin.barr@gmail.com), and I even have an incredibly unreliable [Newsletter](https://tinyletter.com/pippinbarr).
+Hi, I'm Pippin. I make [games](/games/). I'm kind of on [Bluesky](https://bsky.app/profile/pippinbarr.bsky.social), and definitely on [email](mailto:pippin.barr@gmail.com).
 
 I'm an Associate Professor in the [Department of Design and Computation Arts](http://www.concordia.ca/finearts/design.html) at [Concordia University](http://www.concordia.ca/) in Montréal. I'm also the department chair right now. I'm a member of the [Technoculture, Art, and Games (TAG) Research Centre](http://tag.hexagram.ca/), part of the [Milieux Institute for Arts, Culture, and Technology](http://milieux.concordia.ca/).
 
