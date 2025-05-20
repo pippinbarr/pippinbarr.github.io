@@ -164,6 +164,12 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Keynotes and invited talks
 
+1. Barr, P. It is as if you were growing stuff. Artist talk. A MAZE 2025. Berlin, Germany. 16 May 2025.
+1. Baranyai, C., Barr, P., and Molinari, C. It is as if you were talking about growing stuff. A MAZE 2025. Berlin, Germany. 15 May 2025.
+1. Barr, P. Itis as if I make games. Conversations in Contemporary Art / Dead Pixels. Concordia University, Montréal, Canada. 27 March 2025. 
+1. Barr, P. It is as if I make games. Willem de Kooning Academy. Rotterdam, Netherlands. 19 March 2025.
+1. Barr, P. Mess and Method. Willem de Kooning Academy. Rotterdam, Netherlands. 20 March 2025.
+1. Barr, P. It is as if I make games. Gale Memorial Lecture Series. Arts Lab, University of New Mexico. Albuquerque, New Mexico, USA.  6 February 2025.
 1. Barr, P. It is as if you were making videogames. Master class for the REPLAY European Masters Program. Lisbon, Portugal. 16 October 2024. (Online)
 1. Barr, P. Chasing Shadows: The true story of v r 5. ARTGAME Colloque. Centre NAD, Montréal, Canada/Université Paul-Valéry, Montpellier, France. 11-12 June 2024.
 1. Barr, P. In Praise of Shadows: Reflections, Prototypes and Other Traces of Design. Texas A&M, Texas, USA. 23 April 2024.
@@ -503,6 +509,8 @@ My full portfolio of research-creation, including links to notable publicity and
 
 # Exhibitions and festivals
 
+1. It is as if you were growing stuff. A MAZE 2025. Berlin, Germany. 14–17 May 2025. <https://devolution.online/itisasifyouwere/> (Featured games from the It is as if series)
+1. LUDODROME. Montréal, Canada. 15 May 2025. <https://www.concordia.ca/cuevents/main/2025/05/18/ludodrome-2025.html> (Featured It is as if you were on your phone)
 1. Chronique: Biennale des Imaginaire Numériques. Medialab. Marseilles, France. 25 December 2024 – 6 January 2025. <https://chroniques-biennale.org/event/entrez-libres-faites-le-plein-de-dopamine-4/> (Featured Let's Play: Ancient Greek Punishment and Let's Play: Ancient Greek Punishment: Inversion Edition)
 1. Famous Fifty. Städtische Galerie Wolfsburg, Wolfsburg, Germany. 20 October 2024. <https://www.staedtische-galerie-wolfsburg.de/ausstellungen#famous-fifty>
 1. Now Play This. Somerset House, London, UK. 6 - 8 April 2024. <https://nowplaythis.net/> (Featured v r 5)
