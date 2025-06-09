@@ -164,6 +164,8 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Keynotes and invited talks
 
+1. Khaled, R. and Barr, P. Untangling Design Knowledge. ReAnimate Summer School 2025. Montréal, Canada. 9–13 June 2025.
+1. Khaled, R. and Barr, P. Untangling Design Knowledge. Candian Game Studies Association Conference 2025. Montréal, Canada. 7–10 June 2025.
 1. Barr, P. It is as if you were growing stuff. Artist talk. A MAZE 2025. Berlin, Germany. 16 May 2025.
 1. Baranyai, C., Barr, P., and Molinari, C. It is as if you were talking about growing stuff. A MAZE 2025. Berlin, Germany. 15 May 2025.
 1. Barr, P. Itis as if I make games. Conversations in Contemporary Art / Dead Pixels. Concordia University, Montréal, Canada. 27 March 2025. 
