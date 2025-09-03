@@ -9,7 +9,7 @@ draft: false
 tags: ["project"]
 ideas: ["speculative play", "user interface"]
 platforms: ["mobile"]
-tools: ["p5"]
+tools: ["p5.js"]
 parenthetical: For phones only
 ---
 
