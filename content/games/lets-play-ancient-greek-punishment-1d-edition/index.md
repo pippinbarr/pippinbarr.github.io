@@ -6,6 +6,7 @@ description: No more ungainly extra dimensions! Just one! No more retro cool! Ju
 listimage: images/lets-play-ancient-greek-punishment-1d-edition-icon.png
 link: "https://www.pippinbarr.com/lets-play-ancient-greek-punishment-1d-edition/info/"
 draft: false
+parenthetical: "in progress"
 tags: ["inprogress"]
 ideas: ["variations", "adaptation", "ancient greek punishment"]
 platforms: ["browser", "mobile-friendly"]
