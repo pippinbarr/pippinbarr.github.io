@@ -169,7 +169,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 1. Khaled, R. and Barr, P. Untangling Design Knowledge. Candian Game Studies Association Conference 2025. Montréal, Canada. 7–10 June 2025.
 1. Barr, P. It is as if you were growing stuff. Artist talk. A MAZE 2025. Berlin, Germany. 16 May 2025.
 1. Baranyai, C., Barr, P., and Molinari, C. It is as if you were talking about growing stuff. A MAZE 2025. Berlin, Germany. 15 May 2025.
-1. Barr, P. Itis as if I make games. Conversations in Contemporary Art / Dead Pixels. Concordia University, Montréal, Canada. 27 March 2025. 
+1. Barr, P. It is as if I make games. Conversations in Contemporary Art / Dead Pixels. Concordia University, Montréal, Canada. 27 March 2025. 
 1. Barr, P. It is as if I make games. Willem de Kooning Academy. Rotterdam, Netherlands. 19 March 2025.
 1. Barr, P. Mess and Method. Willem de Kooning Academy. Rotterdam, Netherlands. 20 March 2025.
 1. Barr, P. It is as if I make games. Gale Memorial Lecture Series. Arts Lab, University of New Mexico. Albuquerque, New Mexico, USA.  6 February 2025.
