@@ -164,6 +164,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Keynotes and invited talks
 
+1. Barr, P. Playing the Variation Game. Lucerne School of Design, Film and Art​. 3 October 2025.
 1. Barr, P. Eveline et la bête humaine. La place des textes originaux en cours de langues, culture et littérature à travers le jeu vidéo. France Éducation International, Sèvres, France. 25 September 2025.
 1. Khaled, R. and Barr, P. Untangling Design Knowledge. ReAnimate Summer School 2025. Montréal, Canada. 9–13 June 2025.
 1. Khaled, R. and Barr, P. Untangling Design Knowledge. Candian Game Studies Association Conference 2025. Montréal, Canada. 7–10 June 2025.
