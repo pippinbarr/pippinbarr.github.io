@@ -7,7 +7,7 @@ listimage: images/it-is-as-if-you-were-making-love-icon.png
 link: "https://pippinbarr.github.io/itisasifyouweremakinglove/info/"
 draft: false
 tags: ["project"]
-ideas: ["sex", "speculative play", "user interface"]
+ideas: ["sex", "speculative play", "user interface", "it is as if"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["jquery ui"]
 ---

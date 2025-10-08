@@ -7,7 +7,7 @@ listimage: images/it-is-as-if-you-were-playing-chess-icon.png
 link: "https://pippinbarr.github.io/it-is-as-if-you-were-playing-chess/info/"
 draft: false
 tags: ["project"]
-ideas: ["chess", "user interface"]
+ideas: ["chess", "user interface", "it is as if"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]
 ---

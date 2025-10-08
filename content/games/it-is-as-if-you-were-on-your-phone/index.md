@@ -7,7 +7,7 @@ listimage: images/it-is-as-if-you-were-on-your-phone-icon.png
 link: "https://www.pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/"
 draft: false
 tags: ["project"]
-ideas: ["speculative play", "user interface"]
+ideas: ["speculative play", "user interface", "it is as if"]
 platforms: ["mobile"]
 tools: ["p5.js"]
 parenthetical: For phones only
