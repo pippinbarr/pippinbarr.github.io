@@ -7,10 +7,10 @@ listimage: /images/lo-fi-dick-fight-icon.png
 link: "https://pippinbarr.github.io/lo-fi-dick-fight/info/"
 draft: false
 tags: ["project"]
-ideas: ["violence"]
+ideas: ["violence", "sex"]
 platforms: ["browser", "flash"]
 tools: ["haxeflixel"]
-warning: "This is a Flash project and Flash has been discontinued. View the game's page for more information. Note that it does have some functionality in HTML5."
+
 ---
 
 ## {{<param title >}}
