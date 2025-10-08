@@ -10,7 +10,6 @@ tags: ["project"]
 ideas: ["art world", "marina abramović"]
 platforms: ["flash"]
 tools: ["haxeflixel"]
-warning: "This is a Flash project and Flash has been discontinued. View the game's page for more information."
 ---
 
 ## {{<param title >}}
