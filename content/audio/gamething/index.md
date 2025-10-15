@@ -1,8 +1,8 @@
 ---
 title: "GAMETHING"
-date: 2019-03-07
-year: 2018
-description: GAMETHING is an audio book club about videogames. Experimental game designer Pippin Barr and writer-interviewer David Wolinsky exchange answerphone messages about anything and everything (mostly everything) they find interesting about videogames. ([Subscribe to our newsletter](https://tinyletter.com/GAMETHING) to hear when new seasons are ready.)
+date: 2025-09-01
+year: 2018-2025
+description: GAMETHING was an audio book club about videogames. Experimental game designer Pippin Barr and writer-interviewer David Wolinsky exchanged answerphone messages about anything and everything (mostly everything) they found interesting about videogames.
 listimage: images/gamething-logo.png
 draft: false
 parenthetical: "with David Wolinsky"
