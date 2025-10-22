@@ -2,7 +2,6 @@
 title: "Rogess"
 date: 2019-05-21
 year: 2019
-year: 2019
 description: e4! e5! Nf3! Nc6! White knight captures black pawn! Black knight attacks white knight for 2HP of damage! White knight misses black knight! What the hell is going on?!
 listimage: images/rogess-icon.png
 link: "https://pippinbarr.github.io/rogess/info/"
