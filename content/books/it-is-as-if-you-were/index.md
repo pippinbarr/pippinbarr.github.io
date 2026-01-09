@@ -1,5 +1,5 @@
 ---
-title: "The Stuff Games Are Made Of"
+title: "It is as if..."
 date: 2025-05-13
 year: 2025
 description: "I collaborated with [Devolution](https://devolution.online/) on an exhibition and 8-booklet publication of the games and documentation from my *It is as if...* series. While I wrote the documentation material itself (via my standard process while making the games, all of which is available and linked from [each game's page on this site](/ideas/it-is-as-if/)), all the hard work on actually curating, laying out, and generally turning this into books was done by the Devolution team, led by the wonderful Csongor Baranyai."
