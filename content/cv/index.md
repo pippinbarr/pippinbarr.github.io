@@ -87,6 +87,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Books
 
+1. Barr, P. _Playing the Variation Game, Or How I Learned to Stop Worrying and Love Game Design_. The Mit Press. (Under contract)
 1. Barr, P. _The Stuff Games Are Made Of_. The MIT Press. 2023.
 1. Lessard, J. and Barr, P. _Les grands classiques de l'épouvante en mots cachés_. Les Éditions Goélette. 2021.
 1. Barr, P. _How to Play a Video Game_. Awa Press, 2011.
