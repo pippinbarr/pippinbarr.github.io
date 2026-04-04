@@ -41,6 +41,10 @@ theme = "pippinbarr"
     name = "Video"
     url = "/video/"
     weight = 7
+  [[menu.main]]
+    name = "Newsletter"
+    url = "https://pippin-barr.kit.com/"
+    weight = 8
 
 [markup]
   [markup.goldmark]
