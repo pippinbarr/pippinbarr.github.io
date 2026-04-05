@@ -22,7 +22,7 @@ jobs:
       GO_VERSION: 1.26.1
       HUGO_VERSION: 0.160.0
       NODE_VERSION: 24.14.1
-      TZ: Europe/Oslo
+      TZ: America/New_York
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -40,7 +40,7 @@ jobs:
           node-version: ${{ env.NODE_VERSION }}
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v6
+        uses: actions/configure-pages@v5
       - name: Create directory for user-specific executable files
         run: |
           mkdir -p "${HOME}/.local"
@@ -91,7 +91,7 @@ jobs:
           path: ${{ runner.temp }}/hugo_cache
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
       - name: Upload artifact
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
   deploy:
@@ -103,5 +103,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v5
-        
+        uses: actions/deploy-pages@v4
