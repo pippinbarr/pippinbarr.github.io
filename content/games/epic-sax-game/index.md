@@ -6,7 +6,7 @@ description: Daaaah! Dah dahdah dahdah-dah! Dah dahdah dahdah-dah! Daaaaaahdah d
 listimage: /images/epic-sax-game-icon.png
 link: "https://pippinbarr.github.io/epic-sax-game/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["music"]
 platforms: ["browser", "flash"]
 tools: ["flixel"]

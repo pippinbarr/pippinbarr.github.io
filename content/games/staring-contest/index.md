@@ -7,7 +7,7 @@ listimage: images/staring-contest-icon.png
 link: "https://artsandculture.google.com/experiment/bQGm5oTJscGf_w"
 parenthetical: "with Google Arts and Culture"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

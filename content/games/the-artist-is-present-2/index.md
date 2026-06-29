@@ -6,7 +6,7 @@ description: It’s happening! Again! The Artist Is Present! You are present! Th
 listimage: images/the-artist-is-present-2-icon.png
 link: "https://pippinbarr.github.io/the-artist-is-present-2/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world", "marina abramović", "time", "care"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

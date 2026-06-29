@@ -6,7 +6,7 @@ description: Games and ethics! It’s the oldest chestnut in the book! Try your 
 listimage: /images/trolley-problem-icon.png
 link: "https://pippinbarr.github.io/trolley-problem/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["violence", "philosophy"]
 platforms: ["flash"]
 tools: ["flixel"]

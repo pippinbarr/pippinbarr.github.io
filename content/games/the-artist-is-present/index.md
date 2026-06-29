@@ -7,7 +7,7 @@ listimage: images/the-artist-is-present-icon-300x300.png
 link: "https://www.pippinbarr.com/the-artist-is-present/info/"
 draft: false
 parenthetical: "Originally released 14 September 2011"
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world", "marina abramović", "time", "the stuff games are made of"]
 platforms: ["browser", "mobile-friendly", "flash"]
 tools: ["phaser", "flixel"]

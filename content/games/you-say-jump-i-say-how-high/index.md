@@ -6,7 +6,7 @@ description: Jump! How High! You be the judge! Enter into the magical world of a
 listimage: /images/you-say-jump-i-say-how-high-icon.png
 link: "https://pippinbarr.github.io/you-say-jump-i-say-how-high/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["game engines"]
 platforms: ["flash"]
 tools: ["flixel"]

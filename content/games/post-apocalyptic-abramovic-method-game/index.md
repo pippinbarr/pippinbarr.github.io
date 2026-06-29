@@ -6,7 +6,7 @@ description: The sky is grey! The birds all flew! There's no more trees for comp
 listimage: images/post-apocalyptic-abramovic-method-game-icon.png
 link: "https://pippinbarr.github.io/post-apocalyptic-abramovic-method-game/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world", "marina abramović"]
 platforms: ["mac", "windows", "browser"]
 tools: ["unity"]

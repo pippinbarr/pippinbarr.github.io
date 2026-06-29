@@ -6,7 +6,7 @@ description: Life is meaningless! Maybe you need some kind of ism to attempt to 
 listimage: images/snakisms-icon.png
 link: "https://www.pippinbarr.com/SNAKISMS/info/"
 draft: false
-tags: ["project", "top five"]
+tags: ["release", "project", "top five"]
 ideas: ["variations", "adaptation", "philosophy", "snake"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

@@ -6,7 +6,7 @@ description: You wanna have some coffee?! Alright! Let’s have us some coffee! 
 listimage: /images/hot-coffee-icon.png
 link: "https://pippinbarr.github.io/hot-coffee/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["sex"]
 platforms: ["flash"]
 tools: ["flixel"]

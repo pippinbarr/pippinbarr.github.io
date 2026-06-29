@@ -6,7 +6,7 @@ description: Count rice! Count seeds! Step up and down! Talk to trees! Stop the 
 listimage: /images/abramovic-method-games-icon.png
 link: "https://pippinbarr.github.io/abramovic-method-games/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world", "marina abramović"]
 platforms: ["flash"]
 tools: ["haxeflixel"]

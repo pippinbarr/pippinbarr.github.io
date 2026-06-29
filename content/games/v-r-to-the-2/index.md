@@ -6,7 +6,7 @@ description: So you made a videogame that hid the things you were trying to exhi
 listimage: images/v-r-to-the-2-icon.png
 link: "https://pippinbarr.github.io/v-r-to-the-2/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations", "game engines", "v r", "art world"]
 platforms: ["browser", "mac", "windows"]
 tools: ["unity"]

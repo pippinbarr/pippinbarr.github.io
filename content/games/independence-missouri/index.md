@@ -6,7 +6,7 @@ description: Everyone in the party has died! Nothing beside remains! Round the d
 listimage: images/independence-missouri-icon.png
 link: "https://pippinbarr.github.io/independence-missouri/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["adaptation"]
 platforms: ["mac", "windows"]
 tools: ["unity"]

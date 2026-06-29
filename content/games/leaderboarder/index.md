@@ -6,7 +6,7 @@ description: Who’s in the lead?! I am! No wait, you are! No wait who’s that 
 listimage: images/leaderboarder-icon.png
 link: "https://pippinbarr.github.io/leaderboarder/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["minimalism", "the stuff games are made of"]
 platforms: ["browser"]
 tools: ["meteor"]

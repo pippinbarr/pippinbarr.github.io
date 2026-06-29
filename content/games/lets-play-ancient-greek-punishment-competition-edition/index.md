@@ -6,7 +6,7 @@ description: Fly like an eagle! Climb every mountain! Reach for the stars! I mea
 listimage: images/lets-play-ancient-greek-punishment-competition-edition-icon.png
 link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment-competition-edition/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["ancient greek punishment", "variations"]
 platforms: ["browser"]
 tools: ["phaser"]

@@ -7,7 +7,7 @@ listimage: /images/lets-play-ancient-greek-punishment-icon.png
 link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment/info/"
 parenthetical: "Originally released 30 November 2011"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["ancient greek punishment", "variations", "the stuff games are made of"]
 platforms: ["browser", "mobile-friendly", "flash"]
 tools: ["flixel", "phaser"]

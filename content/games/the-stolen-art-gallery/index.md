@@ -6,7 +6,7 @@ description: The decrepit chestnut strikes back! Games! Art! It's an art gallery
 listimage: images/the-stolen-art-gallery-icon.png
 link: "https://www.pippinbarr.com/the-stolen-art-gallery/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world"]
 platforms: ["browser", "mac", "windows"]
 tools: ["unity"]

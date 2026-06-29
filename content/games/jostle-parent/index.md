@@ -7,7 +7,7 @@ listimage: /images/jostle-parent-icon.png
 link: "https://pippinbarr.github.io/jostle-parent/info/"
 draft: false
 parenthetical: "Originally released 10 April 2015"
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["violence", "care"]
 platforms: ["browser", "mac", "windows", "flash"]
 tools: ["haxeflixel"]

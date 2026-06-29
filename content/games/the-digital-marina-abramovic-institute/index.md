@@ -6,7 +6,7 @@ description: Welcome to the Digital Marina Abramovic Institute! It’s like the 
 listimage: /images/the-digital-marina-abramovic-institute-icon.png
 link: "https://pippinbarr.github.io/the-digital-marina-abramovic-institute/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world", "marina abramović", "time"]
 platforms: ["flash"]
 tools: ["haxeflixel"]

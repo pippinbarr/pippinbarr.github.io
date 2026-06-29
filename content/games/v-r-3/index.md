@@ -6,7 +6,7 @@ description: Water! Water! Everywhere! All kinds! Best Water! Decent Water! Real
 listimage: images/v-r-3-icon.png
 link: "https://pippinbarr.github.io/v-r-3/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world", "game engines", "money", "v r", "the stuff games are made of"]
 platforms: ["mac", "windows"]
 tools: ["unity"]

@@ -6,7 +6,7 @@ description: Twenty ways to think about a snake! Is it an alarmist?! A nudist?! 
 listimage: images/snakists-icon.png
 link: "https://www.pippinbarr.com/SNAKISTS/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations", "adaptation", "snake"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

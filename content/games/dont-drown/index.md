@@ -6,7 +6,7 @@ description: Are you drowning right now?! Don’t do that! Or maybe you could ju
 listimage: images/dont-drown-icon.png
 link: "https://pippinbarr.github.io/dont-drown/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["minimalism"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

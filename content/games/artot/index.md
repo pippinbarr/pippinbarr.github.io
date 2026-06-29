@@ -7,7 +7,7 @@ listimage: images/artot-icon.png
 link: "https://artsandculture.google.com/experiment/uAG3u5XL9av55A"
 parenthetical: "with Google Arts and Culture"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

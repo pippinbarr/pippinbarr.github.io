@@ -6,7 +6,7 @@ description: You've always wanted to be a chess master! But you aren't one! Are 
 listimage: images/it-is-as-if-you-were-playing-chess-icon.png
 link: "https://pippinbarr.github.io/it-is-as-if-you-were-playing-chess/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["chess", "user interface", "it is as if"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

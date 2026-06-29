@@ -6,7 +6,7 @@ description: You have always dreamed of your computer solving chess! Or your pho
 listimage: images/best-chess-icon.png
 link: "https://pippinbarr.github.io/best-chess/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["chess", "computation"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["chess.js"]

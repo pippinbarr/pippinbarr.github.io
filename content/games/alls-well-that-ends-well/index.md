@@ -6,7 +6,7 @@ description: You can do it Sisyphus! Be the boulder! Keep on rollin’! Don’t 
 listimage: /images/alls-well-that-ends-well-icon.png
 link: "https://pippinbarr.github.io/alls-well-that-ends-well/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["violence", "variations"]
 platforms: ["flash"]
 tools: ["flixel"]

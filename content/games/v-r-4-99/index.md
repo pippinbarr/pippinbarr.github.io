@@ -6,7 +6,7 @@ description: "What does $4.99 get you these days?! One crowbar?! Two swordfish?!
 listimage: images/v-r-4-99-icon.png
 link: "https://pippinbarr.github.io/v-r-4-99/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world", "game engines", "v r", "money", "the stuff games are made of"]
 platforms: ["mac", "windows"]
 tools: ["unity"]

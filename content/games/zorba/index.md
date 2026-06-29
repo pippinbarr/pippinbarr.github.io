@@ -6,7 +6,7 @@ description: Dance?! Did you say dance?! Come on, my boy! Together! Let’s go! 
 listimage: /images/zorba-icon.png
 link: "https://pippinbarr.github.io/zorba/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["music", "dance"]
 platforms: ["flash"]
 tools: ["flixel"]

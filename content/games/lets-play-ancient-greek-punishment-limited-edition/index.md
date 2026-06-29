@@ -6,7 +6,7 @@ description: It's Greek punishment! Again! Push a rock up a hill! Again! Try to 
 listimage: images/lets-play-ancient-greek-punishment-limited-edition-icon.png
 link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment-limited-edition/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["ancient greek punishment", "variations"]
 platforms: ["browser"]
 tools: ["phaser"]

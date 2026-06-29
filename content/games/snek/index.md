@@ -6,7 +6,7 @@ description: Snek. is Snake! With better music! And really awkward controls! Lea
 listimage: /images/snek-icon.png
 link: "https://pippinbarr.github.io/snek/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["music", "variations", "snake"]
 platforms: ["ios"]
 tools: ["kobold2d"]

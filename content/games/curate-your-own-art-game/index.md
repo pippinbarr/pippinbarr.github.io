@@ -6,7 +6,7 @@ description: "Let's make a game! Let's think about making a game! A game about m
 listimage: images/curate-your-own-art-game-icon-300x300.png
 link: "https://www.pippinbarr.com/curate-your-own-art-game/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world", "the stuff games are made of"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["jquery"]

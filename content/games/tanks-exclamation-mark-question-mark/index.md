@@ -6,7 +6,7 @@ description: Tanks shooting tanks! The tanks are upside down now?! Tank on tank 
 listimage: images/tanks-exclamation-mark-question-mark-icon.png
 link: "https://pippinbarr.github.io/tanks-exclamation-mark-question-mark/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations", "game engines"]
 platforms: ["mac", "windows", "browser"]
 tools: ["unity"]

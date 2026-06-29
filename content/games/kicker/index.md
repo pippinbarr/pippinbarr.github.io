@@ -6,7 +6,7 @@ description: Hut one! Hut two! Hut eleven! Hut whatever! Hut hut hut! It’s gam
 listimage: images/kicker-icon.png
 link: "https://pippinbarr.github.io/kicker/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["text", "sport", "typing"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["inform 7"]

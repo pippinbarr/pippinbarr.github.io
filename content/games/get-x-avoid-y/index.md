@@ -6,7 +6,7 @@ description: Get! Avoid! Avoid! Get! Get get avoid get! It’s the stunning culm
 listimage: images/get-x-avoid-y-icon.png
 link: "https://pippinbarr.github.io/get-x-avoid-y/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

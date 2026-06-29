@@ -6,7 +6,7 @@ description: Physical intimacy is a thing of the past! Finally! But wait! Why do
 listimage: images/it-is-as-if-you-were-making-love-icon.png
 link: "https://pippinbarr.github.io/itisasifyouweremakinglove/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["sex", "speculative play", "user interface", "it is as if"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["jquery ui"]

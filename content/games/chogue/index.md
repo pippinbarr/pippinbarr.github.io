@@ -7,7 +7,7 @@ listimage: images/chogue-icon.png
 link: "https://pippinbarr.github.io/chogue/info/"
 draft: false
 parenthetical: "with [Jonathan Lessard](https://www.jonathanlessard.net/)"
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations", "hybrid", "chess"]
 platforms: ["mac", "windows", "ios", "android", "mobile-friendly"]
 tools: ["unity"]

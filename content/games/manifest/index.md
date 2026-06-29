@@ -6,7 +6,7 @@ description: You can have anything you want! All using the power of your mind! R
 listimage: images/manifest-icon.png
 link: "https://pippinbarr.github.io/manifest/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["user interface"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

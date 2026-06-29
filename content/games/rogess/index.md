@@ -7,7 +7,7 @@ listimage: images/rogess-icon.png
 link: "https://pippinbarr.github.io/rogess/info/"
 draft: false
 parenthetical: "with [Jonathan Lessard](https://www.jonathanlessard.net/)"
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations", "chess", "hybrid"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["chess.js"]

@@ -6,7 +6,7 @@ description: A room! A trunk! A tube! A bed! A radiator! A light! A landscape! A
 listimage: images/b-r-1-icon.png
 link: "https://pippinbarr.github.io/b-r-1/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["v r", "demake"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["bitsy"]

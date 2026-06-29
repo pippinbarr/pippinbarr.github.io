@@ -7,7 +7,7 @@ listimage: images/deleted-pippin-barr-game-icon.png
 link: "https://pippinbarr.com/deleted-pippin-barr-game/info/"
 draft: false
 parenthetical: "with boringcactus / Melody Horn"
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world", "minimalism", "demake", "nothing"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["text editor"]

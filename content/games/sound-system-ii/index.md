@@ -6,7 +6,7 @@ description: You want to break free! You want to! Break free! If a ball hits a b
 listimage: images/sound-system-ii-icon.png
 link: "https://pippinbarr.github.io/sound-system-ii/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations", "music"]
 platforms: ["browser"]
 tools: ["phaser"]

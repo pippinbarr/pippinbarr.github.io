@@ -6,7 +6,7 @@ description: A God-game from another mother! Whatever that means! Take on the Bi
 listimage: /images/let-there-be-smite-icon.png
 link: "https://pippinbarr.github.io/let-there-be-smite/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["user interface"]
 platforms: ["browser", "flash"]
 tools: ["flixel"]

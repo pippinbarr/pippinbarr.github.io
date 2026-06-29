@@ -6,7 +6,7 @@ description: Five games for the price of none! A bonus game for the price of one
 listimage: /images/mumble-indie-bungle-icon.png
 link: "https://pippinbarr.github.io/mumble-indie-bungle/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["adaptation"]
 platforms: ["mac", "windows"]
 tools: ["gamemaker"]

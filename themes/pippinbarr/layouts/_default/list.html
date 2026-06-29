@@ -2,10 +2,10 @@
 
 <div class="regular">
 
-<div class="list">
-{{ range .Pages.ByPublishDate.Reverse }}
-  {{ partial "list-item.html" .}}
-{{ end }}
-</div>
+  <div class="list">
+    {{ range .Pages.ByPublishDate.Reverse }}
+    {{ partial "list-item.html" .}}
+    {{ end }}
+  </div>
 </div>
 {{ end }}

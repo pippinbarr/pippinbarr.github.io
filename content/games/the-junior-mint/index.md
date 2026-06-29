@@ -7,7 +7,7 @@ listimage: images/the-junior-mint-icon.png
 link: "https://pippinbarr.github.io/the-junior-mint/info/"
 draft: false
 parenthetical: "with [@Seinfeld2000](https://twitter.com/Seinfeld2000)"
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["adaptation"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

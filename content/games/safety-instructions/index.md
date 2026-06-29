@@ -6,7 +6,7 @@ description: Mavis Beacon Teaches Horrible Death In An Air Wreck! See if your fi
 listimage: /images/safety-instructions-icon.png
 link: "https://pippinbarr.github.io/safety-instructions/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["text", "typing"]
 platforms: ["browser", "flash"]
 tools: ["flixel"]

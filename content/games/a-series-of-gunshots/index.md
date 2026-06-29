@@ -6,7 +6,7 @@ description: A series of gunshots.
 listimage: images/a-series-of-gunshots-icon.png
 link: "https://pippinbarr.github.io/a-series-of-gunshots/info/"
 draft: false
-tags: ["project", "top five"]
+tags: ["release", "top five"]
 ideas: ["violence", "ethics", "minimalism", "the stuff games are made of"]
 platforms: ["browser"]
 tools: ["phaser"]

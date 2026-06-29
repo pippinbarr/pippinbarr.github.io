@@ -7,7 +7,7 @@ listimage: images/drosophilia-icon.png
 link: "https://pippinbarr.github.io/drosophilia/info/"
 draft: false
 parenthetical: "with [Gordon Calleja](http://www.gordoncalleja.com/) and [Sidsel Hermansen](https://twitter.com/sslhrmnsn)"
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["text"]
 platforms: ["browser"]
 tools: ["twine"]

@@ -6,7 +6,7 @@ description: Two player single keyboard action! You are bat! You are bricks! Fin
 listimage: /images/two-player-breakout-icon.png
 link: "https://pippinbarr.github.io/two-player-breakout/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations"]
 platforms: ["flash"]
 tools: ["flixel"]

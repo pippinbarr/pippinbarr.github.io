@@ -6,7 +6,7 @@ description: Experience the exhilaration of making art you really believe in! Ex
 listimage: /images/art-game-icon.png
 link: "https://pippinbarr.github.io/art-game/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world", "creativity"]
 platforms: ["flash"]
 tools: ["flixel"]

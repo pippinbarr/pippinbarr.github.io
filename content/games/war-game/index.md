@@ -6,7 +6,7 @@ description: Or course you realise this means war?! Relive the halcyon handheld 
 listimage: /images/war-game-icon.png
 link: "https://pippinbarr.github.io/war-game/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["violence"]
 platforms: ["flash"]
 tools: ["flixel"]

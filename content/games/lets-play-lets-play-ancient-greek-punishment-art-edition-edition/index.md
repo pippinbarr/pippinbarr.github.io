@@ -6,7 +6,7 @@ description: It’s a game! In a painting! On a wall! In a gallery! In a game! O
 listimage: images/lets-play-lets-play-ancient-greek-punishment-art-edition-edition-icon.png
 link: "https://pippinbarr.github.io/lets-play-lets-play-ancient-greek-punishment-art-edition-edition/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["ancient greek punishment", "variations", "art world"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

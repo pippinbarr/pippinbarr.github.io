@@ -6,7 +6,7 @@ description: "The sky is sky blue! The ground is sky blue! The coins are sky blu
 listimage: images/play-it-by-trust-icon.png
 link: "https://www.pippinbarr.com/play-it-by-trust/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["nothing", "art world", "minimalism"]
 platforms: ["nes"]
 tools: ["text editor"]

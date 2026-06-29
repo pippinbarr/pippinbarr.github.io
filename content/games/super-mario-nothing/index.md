@@ -6,7 +6,7 @@ description: "Get ready to not jump on Goombas! Under a cloudless sky! Because t
 listimage: images/super-mario-nothing-icon-300x300.png
 link: "https://www.pippinbarr.com/super-mario-nothing/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["nothing"]
 platforms: ["nes"]
 tools: ["text editor"]

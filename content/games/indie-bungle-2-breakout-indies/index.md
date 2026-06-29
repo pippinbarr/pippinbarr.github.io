@@ -6,7 +6,7 @@ description: Independent games! Cloned! In a way! All the fun with none of the f
 listimage: images/indie-bungle-2-icon.png
 link: "https://pippinbarr.github.io/indie-bungle-2-breakout-indies/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations", "hybrid"]
 platforms: ["browser"]
 tools: ["phaser"]

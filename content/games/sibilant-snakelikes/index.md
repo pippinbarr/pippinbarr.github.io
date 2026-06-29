@@ -6,7 +6,7 @@ description: Sssnakes can do anything! Sssubdue colossssssi! Ssstamp passsssspor
 listimage: images/sibilant-snakelikes-icon.png
 link: "https://pippinbarr.github.io/sibilant-snakelikes/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations", "hybrid", "snake"]
 platforms: ["browser"]
 tools: ["phaser"]

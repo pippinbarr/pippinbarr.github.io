@@ -6,7 +6,7 @@ description: Chess! It already feels like a punishment to so many people! But no
 listimage: images/lets-play-ancient-greek-punishment-chess-edition-icon.png
 link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment-chess-edition/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["ancient greek punishment", "chess", "variations"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["chess.js"]

@@ -6,7 +6,7 @@ description: Nothing feels quite as good as filling out forms! Am I right?! Choo
 listimage: images/it-is-as-if-you-were-doing-paperwork-icon.png
 link: "https://www.pippinbarr.com/it-is-as-if-you-were-doing-paperwork/info"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations", "work", "it is as if"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["jquery"]

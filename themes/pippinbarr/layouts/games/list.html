@@ -33,7 +33,7 @@
 
   <!-- List the full list of games -->
   <div class="list">
-    {{ range .Pages.ByPublishDate.Reverse }}
+    {{ range .Site.Taxonomies.tags.release }}
     {{ partial "list-item.html" .}}
     {{ end }}
   </div>

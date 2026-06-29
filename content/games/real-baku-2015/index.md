@@ -6,7 +6,7 @@ description: When is an international sporting event symbolising European unity 
 listimage: images/real-baku-2015-icon.png
 link: "https://pippinbarr.github.io/real-baku-2015/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["sport", "ethics"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

@@ -6,7 +6,7 @@ description: Snow, but made of text! Rooms, but made of text! Stairs, but made o
 listimage: images/burnt-matches-icon.png
 link: "https://pippinbarr.github.io/burnt-matches/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["text"]
 platforms: ["browser"]
 tools: ["twine"]

@@ -7,7 +7,7 @@ listimage: images/game-studies-icon.png
 link: "https://pippinbarr.github.io/game-studies/info/"
 draft: false
 parenthetical: "with [Jonathan Lessard](https://www.jonathanlessard.net/)"
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["adaptation"]
 platforms: ["browser"]
 tools: ["unity"]

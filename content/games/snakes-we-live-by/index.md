@@ -6,7 +6,7 @@ description: Nudism! Conservatism! Snakism! Atheism! Consumerism! Snakism! It's 
 listimage: images/snakes-we-live-by-icon.png
 link: "https://www.pippinbarr.com/snakes-we-live-by/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations", "adaptation", "snake"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

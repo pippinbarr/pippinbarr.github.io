@@ -6,7 +6,7 @@ description: Slow down.
 listimage: images/as-slow-as-possible-icon.png
 link: "https://www.pippinbarr.com/as-slow-as-possible/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations", "time"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

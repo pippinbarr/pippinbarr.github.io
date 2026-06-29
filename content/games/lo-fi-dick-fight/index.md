@@ -6,7 +6,7 @@ description: Are you ready for some Dick Fight?! An every night party! We got sm
 listimage: /images/lo-fi-dick-fight-icon.png
 link: "https://pippinbarr.github.io/lo-fi-dick-fight/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["violence", "sex"]
 platforms: ["browser", "flash"]
 tools: ["haxeflixel"]

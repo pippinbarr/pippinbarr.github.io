@@ -6,7 +6,7 @@ description: Type! Type the boulder up the hill! Type the eagle away from your l
 listimage: images/lets-play-ancient-greek-punishment-teaches-typing-icon.png
 link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment-teaches-typing/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["ancient greek punishment", "variations", "text", "typing"]
 platforms: ["browser"]
 tools: ["phaser"]

@@ -6,7 +6,7 @@ description: Play the unfamous web version of that famous game everyone’s been
 listimage: /images/ludwig-von-beatdown-icon.png
 link: "https://pippinbarr.github.io/ludwig-von-beatdown/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["adaptation", "sport"]
 platforms: ["flash"]
 tools: ["flixel"]

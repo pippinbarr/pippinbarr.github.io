@@ -6,7 +6,7 @@ description: There's so much to see and do! But you can't see it or do it! Grapp
 listimage: images/v-r-2-icon.png
 link: "https://pippinbarr.github.io/v-r-2/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world", "game engines", "v r"]
 platforms: ["mac", "windows", "browser"]
 tools: ["unity"]

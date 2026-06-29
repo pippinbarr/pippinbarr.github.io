@@ -7,7 +7,7 @@ listimage: /images/lets-play-the-shining-icon.png
 link: "https://pippinbarr.github.io/lets-play-the-shining/info/"
 draft: false
 parenthetical: "Originally released 22 April 2015"
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["adaptation", "cinema"]
 platforms: ["browser", "flash", "mac", "windows"]
 tools: ["haxeflixel"]

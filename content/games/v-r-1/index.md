@@ -6,7 +6,7 @@ description: A room! A trunk! A tube! A bed! A radiator! A light! A landscape! A
 listimage: images/v-r-1-icon.png
 link: "https://pippinbarr.github.io/v-r-1/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world", "game engines", "v r"]
 platforms: ["mac", "windows", "browser"]
 tools: ["unity"]

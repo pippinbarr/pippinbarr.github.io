@@ -6,7 +6,7 @@ description: You can do it Sssisssyphusss! Be the boulder! Keep on rollin’! Do
 listimage: images/lets-snake-ancient-greek-punishment-icon.png
 link: "https://www.pippinbarr.com/lets-snake-ancient-greek-punishment/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations", "adaptation", "ancient greek punishment", "philosophy", "snake"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["phaser"]

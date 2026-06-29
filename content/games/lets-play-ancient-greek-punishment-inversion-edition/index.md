@@ -6,7 +6,7 @@ description: Torment characters from Greek mythology! Forever! Push Sisyphus bac
 listimage: images/lets-play-ancient-greek-punishment-inversion-edition-icon.png
 link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment-inversion-edition/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["ancient greek punishment", "variations"]
 platforms: ["browser"]
 tools: ["phaser"]

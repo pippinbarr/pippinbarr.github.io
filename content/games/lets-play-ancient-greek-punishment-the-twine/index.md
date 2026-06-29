@@ -6,7 +6,7 @@ description: Hypertext! Hyperpunishment! Click links while your heart sinks! Rea
 listimage: images/lets-play-ancient-greek-punishment-the-twine-icon.png
 link: "https://pippinbarr.github.io/lets-play-ancient-greek-punishment-the-twine/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["ancient greek punishment", "text", "variations"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["twine"]

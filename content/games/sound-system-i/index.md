@@ -7,7 +7,7 @@ listimage: /images/sound-system-i-icon.png
 link: "https://pippinbarr.github.io/sound-system-i/info/"
 draft: false
 parenthetical: "Originally released 8 January 2015"
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["music", "physics"]
 platforms: ["browser", "mac", "windows", "flash"]
 tools: ["haxeflixel"]

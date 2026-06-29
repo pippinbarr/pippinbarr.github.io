@@ -6,7 +6,7 @@ description: There's a great novelist inside all of us! Especially you! You just
 listimage: images/eveline-icon.png
 link: "https://pippinbarr.github.io/eveline/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["text", "typing", "creativity"]
 platforms: ["browser"]
 tools: ["phaser"]

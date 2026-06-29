@@ -6,7 +6,7 @@ description: The robots are here! No more work! It's great! Is it great?! Wait! 
 listimage: images/it-is-as-if-you-were-doing-work-icon.png
 link: "https://pippinbarr.github.io/itisasifyouweredoingwork/info/"
 draft: false
-tags: ["project", "top five"]
+tags: ["release", "project", "top five"]
 ideas: ["work", "speculative play", "user interface", "typing", "the stuff games are made of", "it is as if"]
 platforms: ["browser"]
 tools: ["jquery ui"]

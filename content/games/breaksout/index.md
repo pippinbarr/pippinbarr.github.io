@@ -6,7 +6,7 @@ description: What's better than breaking out?! BREAKSING OUT! Breaks out to your
 listimage: images/breaksout-icon.png
 link: "https://pippinbarr.github.io/breaksout/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["variations"]
 platforms: ["browser"]
 tools: ["phaser"]

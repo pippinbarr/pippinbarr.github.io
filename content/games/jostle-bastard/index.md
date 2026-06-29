@@ -6,7 +6,7 @@ description: You bastard! Or are you?! Delve deep into the world of being an irr
 listimage: /images/jostle-bastard-icon.png
 link: "https://pippinbarr.github.io/jostle-bastard/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["violence"]
 platforms: ["flash"]
 tools: ["haxeflixel"]

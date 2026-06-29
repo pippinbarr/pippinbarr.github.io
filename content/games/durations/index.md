@@ -6,7 +6,7 @@ description: Are we there yet?! Are we there yet?! How long is this game anyway?
 listimage: /images/durations-icon.png
 link: "https://pippinbarr.github.io/durations/info/"
 draft: false
-tags: ["project"]
+tags: ["release", "project"]
 ideas: ["art world", "marina abramović", "time"]
 platforms: ["flash"]
 tools: ["haxeflixel"]
