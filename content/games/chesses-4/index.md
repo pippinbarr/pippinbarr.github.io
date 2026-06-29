@@ -6,7 +6,7 @@ description: Check 1! Check 2! Did you get that check!? Go slow! Take the travel
 listimage: images/chesses4-icon.png
 link: "https://pippinbarr.github.io/chesses4/info/"
 draft: false
-tags: ["project", "inprogress"]
+tags: ["inprogress"]
 ideas: ["variations", "chess"]
 platforms: ["browser", "mobile-friendly"]
 tools: ["chess.js"]
