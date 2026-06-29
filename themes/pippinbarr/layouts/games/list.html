@@ -1,42 +1,41 @@
 {{ define "main" }}
 
 <p>
-Welcome to my games. I've made {{ len .RegularPages }} of them since 2011 and I'm still going. There are some tagging categories below to help you find your way, or you can just scroll through everything in reverse chronological order if you prefer.
-</p>
-
-<p>
-  If you want somewhere manageable to start, you could look at my <a href="/tags/top-five">current top-five</a>.
+  Welcome to my games. I've made {{ len .RegularPages }} of them since 2011 and I'm still going. There are some tagging
+  categories below to help you find your way, or you can just scroll through everything in reverse chronological order
+  if you prefer. If you want somewhere manageable to start, you could look at my <a href="/tags/top-five">current
+    top-five</a>.
 </p>
 
 <div class="regular">
 
-<div class="game-tag-display">
-  {{ .Scratch.Set "tagtitle" "Ideas" }}
-  {{ .Scratch.Set "taxonomy" .Site.Taxonomies.ideas }}
-  {{ .Scratch.Set "stub" "ideas" }}
-  {{ partial "tag-list" . }}
+  <div class="game-tag-display">
+    {{ .Scratch.Set "tagtitle" "Ideas" }}
+    {{ .Scratch.Set "taxonomy" .Site.Taxonomies.ideas }}
+    {{ .Scratch.Set "stub" "ideas" }}
+    {{ partial "tag-list" . }}
 
-  {{ .Scratch.Set "tagtitle" "Platforms" }}
-  {{ .Scratch.Set "taxonomy" .Site.Taxonomies.platforms }}
-  {{ .Scratch.Set "stub" "platforms" }}
-  {{ partial "tag-list" . }}
+    {{ .Scratch.Set "tagtitle" "Platforms" }}
+    {{ .Scratch.Set "taxonomy" .Site.Taxonomies.platforms }}
+    {{ .Scratch.Set "stub" "platforms" }}
+    {{ partial "tag-list" . }}
 
-  {{ .Scratch.Set "tagtitle" "Tools" }}
-  {{ .Scratch.Set "taxonomy" .Site.Taxonomies.tools }}
-  {{ .Scratch.Set "stub" "tools" }}
-  {{ partial "tag-list" . }}
+    {{ .Scratch.Set "tagtitle" "Tools" }}
+    {{ .Scratch.Set "taxonomy" .Site.Taxonomies.tools }}
+    {{ .Scratch.Set "stub" "tools" }}
+    {{ partial "tag-list" . }}
 
-  {{ .Scratch.Set "tagtitle" "Years" }}
-  {{ .Scratch.Set "taxonomy" .Site.Taxonomies.year }}
-  {{ .Scratch.Set "stub" "year" }}
-  {{ partial "tag-list" . }}
-</div>
+    {{ .Scratch.Set "tagtitle" "Years" }}
+    {{ .Scratch.Set "taxonomy" .Site.Taxonomies.year }}
+    {{ .Scratch.Set "stub" "year" }}
+    {{ partial "tag-list" . }}
+  </div>
 
-<!-- List the full list of games -->
-<div class="list">
-{{ range .Pages.ByPublishDate.Reverse }}
-  {{ partial "list-item.html" .}}
-{{ end }}
-</div>
+  <!-- List the full list of games -->
+  <div class="list">
+    {{ range .Pages.ByPublishDate.Reverse }}
+    {{ partial "list-item.html" .}}
+    {{ end }}
+  </div>
 </div>
 {{ end }}
