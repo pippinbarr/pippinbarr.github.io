@@ -7,5 +7,5 @@ listimage: images/ways-of-playing-logo.png
 draft: false
 parenthetical: "with David Wolinsky"
 link: "https://waysofplaying.games"
-tags: ["project", "podcast", "inprogress"]
+tags: ["project", "podcast"]
 ---
