@@ -5,8 +5,7 @@ description: ""
 draft: false
 ---
 
-{{< figure src="images/pippin-banner-backrooms.png" >}}  
-(Photo by David Wolinsky 2026)
+{{< figure src="images/pippin-banner-backrooms.png" caption="Photo by David Wolinsky 2026">}}  
 
 Hi, I'm Pippin. I make [games](/games/). I'm kind of on [Bluesky](https://bsky.app/profile/pippinbarr.bsky.social), and definitely on [email](mailto:pippin.barr@gmail.com). If you want to stay up to date, you could [subscribe to my newsletter](https://pippin-barr.kit.com/)!
 
