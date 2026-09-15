@@ -165,6 +165,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Keynotes and invited talks
 
+1. Barr, P. Playing the Variation Game: or, How I Learned to Stop Worrying and Love Game Design. DMA Lecture Series, UCLA.  28 April 2026.
 1. Barr, P. Playing the Variation Game. Universidade Lusófona, Lisbon. 22 October 2025.
 1. Barr, P. Playing the Variation Game. Lucerne School of Design, Film and Art​. 3 October 2025.
 1. Barr, P. Eveline et la bête humaine. La place des textes originaux en cours de langues, culture et littérature à travers le jeu vidéo. France Éducation International, Sèvres, France. 25 September 2025.
@@ -201,7 +202,7 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 1. The Code is Present. A MAZE / Johannesburg. Johannesburg, South Africa. 2014.
 1. Game. Time. Critical Hit Collaboratory. Montréal, Canada. 2014.
 1. The Game Designer is Present. A MAZE / Berlin. Berlin, Germany. 2014.
-    Time. Pecha Kucha Mdina, Malta. 2014.
+     Time. Pecha Kucha Mdina, Malta. 2014.
 1. Curious Games. Mozilla Festival. London, UK. 2013.
 1. Curious Games. Playful. London, UK. 2013.
 1. Curious Games. A MAZE / Republika. Rijeka, Croatia. July 2013.
@@ -215,9 +216,11 @@ My undergraduate and honours degrees were in both Philosophy and Computer Scienc
 
 ## Conference presentations
 
+1. Barr, P. and Gonzalo Mediano, A. Table Ronde: "Adaptations et Braconnage: Des Textes Littéraires aux Jeux Vidéo et Retour!"  MSHS, Université de Poitiers, France. 26 February 2026.
+1. Khaled, R. and Barr, P. "What? So what? Now what?": Prompting Game Design Reflection. Digital Games Research Association (DiGRA) Conference 2025. Valletta, Malta. 30 June–4 July 2025.
 1. Khaled, R. and Barr, P. A Method for Design Materialization: Accountable Game Design Research. Digital Games Research Association (DiGRA) Conference 2023. Seville, Spain. 19-23 June 2023.
 1. Sicart, M., Simon, B., Khaled, R., Barr, P., Boluk, S., and LeMieux, P.
-Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research Association (DiGRA) Conference 2023. Seville, Spain. 19-23 June 2023.
+  Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research Association (DiGRA) Conference 2023. Seville, Spain. 19-23 June 2023.
 1. Barr, P. One easy payment of $4.99! Affecting Game Spaces: Theory and Practice. Online Conference. 3 September 2021.
 1. Khaled, R., Lessard, J., and Barr, P. Documenting Trajectories in Design Space: A Methodology for Applied Game Design Research. In the Proceedings of Foundations of Digital Games (FDG) 2018. 2018.
 1. Barr, P., Khaled R., Lewis, J., Arista, N. Crossing Oceans with Game Making Workshops. Game Developers Conference (GDC), San Francisco, USA, 2018.
@@ -237,6 +240,7 @@ Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research As
 
 # Events
 
+1. "Go Fish"ing. Workshop at Game Lab, UCLA. 29 April 2026.
 1. Let's Prototype: Ancient Greek Punishment. Workshop at School of Performance, Visualization & Fine Arts, Texas A&M. 22 April 2024.
 1. Let's Prototype: Ancient Greek Punishment. Workshop at English Department, University of Utah. 19 April 2024.
 1. Making Worlds in Unity. Online workshop for Indigenous people in the Northwest Territories. 8 - 12 June 2020.
@@ -423,6 +427,13 @@ Practice in Game Studies: Beyond Game Design. Panel at Digital Games Research As
 
 ## Videogames
 
+- *Chesses 4*. 30 June 2026. https://pippinbarr.com/chesses4/info/
+- *Play It By Trust (Sky Blue Super Mario Bros.)* 7 April 2026. https://pippinbarr.com/play-it-by-trust/info/
+- *As Slow As Possible*. 25 March 2026. https://pippinbarr.com/as-slow-as-possible/info/
+- *SNAKISMS 2: Snakes We Live By, Volume 1: A-M*. 13 January 2026. Invited contribution to *Game Poems #1: First Moves*. https://www.gamepoems.com/issue01/
+- *Deleted Pippin Barr Game*. With Melody Horn/boringcactus. 12 November 2025. https://pippinbarr.com/deleted-pippin-barr-game/info/
+- *SNAKISTS*. 16 April 2025. https://pippinbarr.com/SNAKISTS/info/
+- *It is as if you were on your phone*. 5 March 2025. https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/
 - _Let's Snake: Ancient Greek Punishment_. 28 June 2024. <https://pippinbarr.com/lets-snake-ancient-greek-punishment/info/>
 - _v r 5_. 20 March 2024. <https://pippinbarr.com/v-r-5/info/>
 - _Staring Contest_. With Google Arts and Culture. 21 September 2023. <https://artsandculture.google.com/experiment/bQGm5oTJscGf_w>
@@ -515,8 +526,12 @@ My full portfolio of research-creation, including links to notable publicity and
 
 # Exhibitions and festivals
 
+1. The Zium Railway. Online/Digital. 2026. <https://thezium.art/#lb-railway> (Featured Base Man)
+1. LUDODROME. Agora du Coeur des sciences, UQAM. Montreal, Canada. 12 September 2026. <https://milieux.concordia.ca/event/ludodrome/> (Featured As Slow As Possible)
+1. CGSA Demos. Canadian Game Studies Association. Concordia University, Montreal, Canada. 11–14 June 2026. <https://gamestudies.ca/conference-conference/> (Featured As Slow As Possible)
 1. It is as if you were growing stuff. A MAZE 2025. Berlin, Germany. 14–17 May 2025. <https://devolution.online/itisasifyouwere/> (Featured games from the It is as if series)
 1. LUDODROME. Montréal, Canada. 15 May 2025. <https://www.concordia.ca/cuevents/main/2025/05/18/ludodrome-2025.html> (Featured It is as if you were on your phone)
+1. The Zium Exposition. Online/Digital. 2024. (Featured Number Station) <https://thezium.art/#lb-exposition>
 1. Chronique: Biennale des Imaginaire Numériques. Medialab. Marseilles, France. 25 December 2024 – 6 January 2025. <https://chroniques-biennale.org/event/entrez-libres-faites-le-plein-de-dopamine-4/> (Featured Let's Play: Ancient Greek Punishment and Let's Play: Ancient Greek Punishment: Inversion Edition)
 1. Famous Fifty. Städtische Galerie Wolfsburg, Wolfsburg, Germany. 20 October 2024. <https://www.staedtische-galerie-wolfsburg.de/ausstellungen#famous-fifty>
 1. Now Play This. Somerset House, London, UK. 6 - 8 April 2024. <https://nowplaythis.net/> (Featured v r 5)
@@ -550,6 +565,7 @@ My full portfolio of research-creation, including links to notable publicity and
 1. ARTCADE. Technoculture, Art, and Games Research Centre. Concordia University. Montréal, QC, Canada. 2 March 2018. (Featured It is as if you were doing work.)
 1. Uchronia What If? Rendez-Vous Québec Cinema. La Cinématheque Québecoise, Montréal, QC, Canada. 21 February – 3 March 2018. (Featured Let's Play: Ancient Greek Punishment: CPU Edition!)
 1. THE SNAKE SHOW. ECOTRACO, Valletta, Malta. 2 – 12 February 2018. (Featured SNAKISMS.)
+1. The Zium Museum. Online. 2017. (Features The Available Space) <https://thezium.art/#lb-museum>
 1. UCLA Game Art Festival. Hammer Museum, Los Angeles, CA, USA. 14 November 2017. (Featured The Stolen Art Gallery.)
 1. Playing with #Sentiment. MixArt, Pisa, Italy. 6 – 8 October 2017. (Featured SNAKISMS.)
 1. INTERPLAY. THEMUSEUM, Kitchener, ON, Canada. 4 October 2017 – 13 May 2018. (Featured It is as if you were doing work.)
