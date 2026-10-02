@@ -526,6 +526,7 @@ My full portfolio of research-creation, including links to notable publicity and
 
 # Exhibitions and festivals
 
+1. F(R)ICTIONS (ELEKTRA Biennale). Arsenale. Montréal, Canada. 15 October – 15 November 2026. <https://www.elektramontreal.ca/en/activite/exhibition-friction-art-games> (Featured It is as if you were on phone)
 1. The Zium Railway. Online/Digital. 2026. <https://thezium.art/#lb-railway> (Featured Base Man)
 1. LUDODROME. Agora du Coeur des sciences, UQAM. Montreal, Canada. 12 September 2026. <https://milieux.concordia.ca/event/ludodrome/> (Featured As Slow As Possible)
 1. CGSA Demos. Canadian Game Studies Association. Concordia University, Montreal, Canada. 11–14 June 2026. <https://gamestudies.ca/conference-conference/> (Featured As Slow As Possible)
